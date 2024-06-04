@@ -1,0 +1,13 @@
+{@type:filter|@guid:a5c2d73a0c9547e9a2f0688ffbb7d1b5|@path:/02.基本技術指標/週KD低檔黃金交叉}
+// KD指標, K值由下往上穿越D值
+//
+input: Length(9), RSVt(3), Kt(3);
+variable: rsv(0), k(0), _d(0);
+
+SetInputName(1, "天數");
+SetInputName(2, "RSVt權數");
+SetInputName(3, "Kt權數");
+
+Stochastic(Length, RSVt, Kt, rsv, k, _d);
+
+Ret = k crosses above _d and k<30;

@@ -1,0 +1,21 @@
+{@type:sensor|@guid:4da423c5cced4adeafed560f62e8c864|@path:/技術分析/股價穿越突破雙均線|@hash:aca2fe6e51fa73083296cc47062cf922}
+input: shortlength(5); setinputname(1,"短期均線期數");
+input: Longlength(20); setinputname(2,"長期均線期數");
+
+settotalbar(3);
+setbarback(maxlist(shortlength,Longlength));
+
+variable: Longaverage(0);
+variable: shortaverage(0);
+
+Longaverage = Average(close,Longlength);
+shortaverage=Average(close,shortlength) ;
+
+
+if close > maxlist(shortaverage, longaverage) and
+     open < minlist(shortaverage, longaverage)
+then ret=1;  
+
+
+        
+        

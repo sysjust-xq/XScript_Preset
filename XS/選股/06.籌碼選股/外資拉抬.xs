@@ -1,0 +1,19 @@
+{@type:filter|@guid:3a96aa40ae1c473eb1b6dd78980341ca|@path:/06.籌碼選股/外資拉抬|@hash:de0afbf6c8eb9ec81a2a4c5bfd19d599}
+input: Length(10); setinputname(1,"計算天數");
+input: UpRatio(3.5); setinputname(2, "上漲幅度(%)");
+input: VolumeRatio(5); setinputname(3, "買超佔比例(%)");
+
+variable: SumForce(0);
+variable: SumTotalVolume(0);
+
+settotalbar(3);
+
+if RateOfChange(Close, 1) >= UpRatio then
+begin
+	SumTotalVolume = Summation(volume, Length);
+	SumForce = Summation(GetField("外資買賣超"), Length);
+	if SumForce > SumTotalVolume * VolumeRatio / 100 then ret =1;
+end;
+
+SetOutputName1("外資累計買超張數");
+OutputField1(SumForce);

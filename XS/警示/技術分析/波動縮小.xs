@@ -1,0 +1,15 @@
+{@type:sensor|@guid:2fc04464a25e4982a4ad94238fce633f|@path:/技術分析/波動縮小|@hash:6619ce0cbdb13e16bb951fd6318d59dd}
+// 波動縮小
+//
+input: Length(20), Percent(7);
+
+settotalbar(3);
+setbarback(Length);
+
+SetInputName(1, "期數");
+SetInputName(2, "波動幅度%");
+
+Ret = Highest(High, Length) / Lowest(Low, Length) -1 < Percent*0.01;
+
+
+

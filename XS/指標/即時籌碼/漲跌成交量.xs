@@ -1,0 +1,16 @@
+{@type:indicator|@guid:d5befddff742427a883d441a03a52ec2|@path:/即時籌碼/漲跌成交量|@hash:4186984eae56e3b666d174d14f76cc23}
+{指標數值定義：(上漲)量 = 開盤累計到目前比前一價(上漲)的成交量的加總
+
+支援商品：台股,大盤,類股,期貨,選擇權}
+
+if barfreq <> "Min" and barfreq <> "D" and barfreq <> "AD" then 
+	raiseruntimeerror("僅支援分鐘與日頻率（含還原）");
+	
+value91 = GetField("上漲量");//僅提供給有權限的用戶使用
+
+value1 = GetField("上漲量","D");
+value2 = GetField("下跌量","D");
+value3 = value1 - value2;
+plot1(value3,"漲跌成交");
+plot2(value1,"上漲量",checkbox:=0);
+plot3(value2,"下跌量",checkbox:=0);

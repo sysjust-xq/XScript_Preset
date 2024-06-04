@@ -1,0 +1,30 @@
+{@type:filter|@guid:11d9faea1be74b869586ff80a508ecf8|@path:/03.進階技術分析/底部越來越高且資金流入的蓄勢股}
+input:r1(7);		setinputname(1,"近來漲幅上限%");
+
+SetTotalBar(8);
+
+value1 = RateOfChange(close, 12);
+value2 = lowest(low,3);
+value3 = lowest(low,8);
+value4 = lowest(low,13);
+
+condition1=false;
+condition2=false;
+
+if 
+	value1 < r1 and
+	value2 > value3 and 
+	value3 > value4 and
+	close = highest(close,13)
+then 
+	condition1=true;
+
+Value5=average(GetField("佔全市場成交量比","D"),13);
+
+if linearregslope(Value5,5) > 0
+then condition2=true;
+
+if condition1 and condition2
+then ret=1;
+
+

@@ -1,0 +1,10 @@
+{@type:sensor|@guid:36470ecc642d454ab47ce28a6b6302d4|@path:/出場訊號/近幾日總是收黑K}
+if countif(close<open,7)>=5
+//過去七天有五天以上收黑
+and lowest(close,90)*1.4<close
+//過去九十天漲幅超過四成
+and lowest(close,10)*1.2<close
+//過去十天有急拉過
+and volume*1.2<average(volume,20)
+//成交量低於二十日均量的兩成
+then ret=1;
