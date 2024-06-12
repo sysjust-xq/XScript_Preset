@@ -1,4 +1,4 @@
-{@type:function|@guid:d024bf38df904a4aa5d01019881effde|@path:/技術指標/PVC|@hash:66b14dde4936435f73ad4d41774ca3fe}
+{@type:function}
 SetBarMode(1);
 
 Input: Length(numericsimple, "天數");

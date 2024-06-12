@@ -1,4 +1,4 @@
-{@type:filter|@guid:2791d39309c34eb58af404f2f6278b9b|@path:/08.財報選股/考慮成長率的股利回推合理股價}
+{@type:filter}
 input:r(6,"年預期報酬率單位%");
 variable: s1(0);
 

@@ -1,4 +1,4 @@
-{@type:filter|@guid:a767ea51e54c4bc1aca960fb7f065bd2|@path:/05.型態選股/下降趨勢明確}
+{@type:filter}
 input:Length(20,"期間");   //"計算期間"
 settotalbar(20);
 

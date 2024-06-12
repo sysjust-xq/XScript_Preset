@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:fa182a0a4edc4c49b6f64f1a153abb7b|@path:/1-常用下單方式/04-全部回補}
+{@type:autotrade}
 {
 	空單全部回補
 }

@@ -1,4 +1,4 @@
-{@type:function|@guid:3e627a6d22e74d239ac64246bf3787a0|@path:/技術指標/PercentB}
+{@type:function}
 // %b from BollingerBand function
 //
 

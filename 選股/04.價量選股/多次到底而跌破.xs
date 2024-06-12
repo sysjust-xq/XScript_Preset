@@ -1,4 +1,4 @@
-{@type:filter|@guid:26a6e5971b464e66b518e629793b8574|@path:/04.價量選股/多次到底而跌破}
+{@type:filter}
 setbarfreq("AD");
 
 input:HitTimes(3,"設定觸底次數");

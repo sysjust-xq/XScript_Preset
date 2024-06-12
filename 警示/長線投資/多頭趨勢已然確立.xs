@@ -1,4 +1,4 @@
-{@type:sensor|@guid:c60a363e247b4a4c97b69b27868bcafd|@path:/長線投資/多頭趨勢已然確立}
+{@type:sensor}
 input:CountMonth(6,"計算月數");
 input:LSP(25,"多空切換百分比");
 

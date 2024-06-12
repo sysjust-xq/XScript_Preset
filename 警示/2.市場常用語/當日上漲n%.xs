@@ -1,4 +1,4 @@
-{@type:sensor|@guid:c7e65ba12ee24d5389a22bb5338e92bd|@path:/2.市場常用語/當日上漲n%|@hash:7b1590cd7234e3ab373618680436ea79}
+{@type:sensor}
 input:percent(1.5); setinputname(1,"當日上漲幅度%");
 
 settotalbar(3);

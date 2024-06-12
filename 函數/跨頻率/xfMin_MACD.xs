@@ -1,4 +1,4 @@
-{@type:function|@guid:3ad4a7800de14e669b2e727f7309514f|@path:/跨頻率/xfMin_MACD|@hash:eea8e5d31ea6fdc11faa428b29786161}
+{@type:function}
 SetBarMode(1);
 
 // 跨頻率MACD函數

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:fb0ef001b0554a239b9051590c9968ef|@path:/當沖交易型/火箭後拉回|@hash:584636c42b87c1824f2317194b217563}
+{@type:sensor}
 input:TXT1("僅適用1分鐘線"); setinputname(1,"使用限制");
 settotalbar(3);
 if barfreq ="Min" and barinterval =1 and

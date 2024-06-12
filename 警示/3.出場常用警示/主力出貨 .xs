@@ -1,4 +1,4 @@
-{@type:sensor|@guid:1313690853144a278954393c7954675f|@path:/3.出場常用警示/主力出貨 |@hash:6cea85b5721973fb7a60dad49256dae0}
+{@type:sensor}
 input:RatioThre(1.5); setinputname(1,"下跌量上漲量比");
 
 settotalbar(8);

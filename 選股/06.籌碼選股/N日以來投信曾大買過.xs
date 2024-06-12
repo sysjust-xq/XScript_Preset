@@ -1,4 +1,4 @@
-{@type:filter|@guid:dc6b68f261e742a0959895d512ec2849|@path:/06.籌碼選股/N日以來投信曾大買過}
+{@type:filter}
 input:period(250,"計算期間");
 input:days(5,"計算買進的天數");
 input:amount(3000,"大買的最低張數");

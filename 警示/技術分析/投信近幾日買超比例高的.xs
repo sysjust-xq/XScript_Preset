@@ -1,4 +1,4 @@
-{@type:sensor|@guid:9d7f9eb50e454eff9eebe6354eedc87c|@path:/技術分析/投信近幾日買超比例高的}
+{@type:sensor}
 input: pastDays(5); setinputname(1,"計算天數");
 input: _BuyRatio(10); setinputname(2,"買超佔比例(%)");
 input:TXT("僅適用日線"); setinputname(3,"使用限制");

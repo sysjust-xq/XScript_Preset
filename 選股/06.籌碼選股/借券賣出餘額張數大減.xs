@@ -1,4 +1,4 @@
-{@type:filter|@guid:4ea4e66a9eb24717aef1159c90f96dce|@path:/06.籌碼選股/借券賣出餘額張數大減}
+{@type:filter}
 input: amount(1000);		setinputname(1, "減少張數");
 
 SetTotalBar(3);

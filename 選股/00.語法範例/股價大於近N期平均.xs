@@ -1,4 +1,4 @@
-{@type:filter|@guid:b4e501e81165420aa39178bf961a2fb0|@path:/00.語法範例/股價大於近N期平均}
+{@type:filter}
 input:N(5); setinputname(1, "期別"); 
 
 SetTotalBar(3);

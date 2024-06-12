@@ -1,4 +1,4 @@
-{@type:sensor|@guid:167c80a48da2423fb661c14e70d505db|@path:/A股用語/死蜘蛛|@hash:99829032e512d0fda738c1fdb0ea5221}
+{@type:sensor}
 input:ShortLength(5); setinputname(1,"短期均線期數");
 input:MidLength(20); setinputname(2,"中期均線期數");
 input:LongLength(60); setinputname(3,"長期均線期數");

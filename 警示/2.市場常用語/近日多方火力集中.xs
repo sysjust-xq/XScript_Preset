@@ -1,4 +1,4 @@
-{@type:sensor|@guid:844bcdb2cdc64f80821f747efabd3a59|@path:/2.市場常用語/近日多方火力集中}
+{@type:sensor}
 settotalbar(10);
 
 variable:CDay(3);

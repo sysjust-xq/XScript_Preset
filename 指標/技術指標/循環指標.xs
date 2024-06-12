@@ -1,4 +1,4 @@
-{@type:indicator|@guid:3a33e63d4f624b08b2850ea289b46399|@path:/技術指標/循環指標|@hash:5abf4aa90942cef3eba7d42af51d96fd}
+{@type:indicator}
 input:period(20);
 input:delta(0.5);
 input:fraction(0.1);

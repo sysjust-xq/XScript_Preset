@@ -1,4 +1,4 @@
-{@type:indicator|@guid:7361375778354cbdb0efcbaa418fbf9b|@path:/期權指標/買賣成交筆數|@hash:03e52d3096a4c3d71ab6bcef1bef61ed}
+{@type:indicator}
 {指標數值定義："委買委賣成筆差 = 委賣成交筆數 - 委買成交筆數"
 支援商品：期貨/選擇權}
 

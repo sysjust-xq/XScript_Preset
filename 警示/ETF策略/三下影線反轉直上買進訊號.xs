@@ -1,4 +1,4 @@
-{@type:sensor|@guid:8e772499c37041b3b262a0c7dc0fbc6c|@path:/ETF策略/三下影線反轉直上買進訊號}
+{@type:sensor}
 input: Percent(0.5,"下影線佔股價絕對百分比");
 
 variable:Kprice(0),OCDate(0);

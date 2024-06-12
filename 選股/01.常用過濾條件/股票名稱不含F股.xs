@@ -1,4 +1,4 @@
-{@type:filter|@guid:827440bb9b854988a60fd64caab9af36|@path:/01.常用過濾條件/股票名稱不含F股}
+{@type:filter}
 variable:sn("");
 sn=symbolname;
 if instr(sn,"F")=0

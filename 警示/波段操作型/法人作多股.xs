@@ -1,4 +1,4 @@
-{@type:sensor|@guid:e44c6d2fd6f94cc186ea09b4bd70b865|@path:/波段操作型/法人作多股|@hash:2890eb312e4ccc2022d8d18004949eaf}
+{@type:sensor}
 input: ForceType(1); setinputname(1,"1:外資 2:投信 3:自營");
 input: Atleast(1000); setinputname(2,"最少買超張數");
 input:TXT("須逐筆洗價"); setinputname(3,"使用限制:日線");

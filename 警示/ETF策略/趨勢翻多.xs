@@ -1,4 +1,4 @@
-{@type:sensor|@guid:2f08aa893e564336b8c06b9f63036a4c|@path:/ETF策略/趨勢翻多}
+{@type:sensor}
 input:Length(20,"計算期間");
 
 LinearReg(close, Length, 0, value1, value2, value3, value4);

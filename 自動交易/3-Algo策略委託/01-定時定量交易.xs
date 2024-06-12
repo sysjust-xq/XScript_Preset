@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:57047d69788049c7bd7df3b7339194a1|@path:/3-Algo策略委託/01-定時定量交易}
+{@type:autotrade}
 {
 	定時定量: 每隔多久送出一筆委託, 下多少筆之後就停止
 	

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:8da744cb018646c8a9af98ee84c6f607|@path:/XQ技術指標/KDJ 隨機指標|@hash:c74a5dabe4a2c568eb99ae639e77b4bd}
+{@type:indicator}
 // XQ: KDJ指標
 //
 input: Length(9), RSVt(3), Kt(3), JType(0);

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:24a5eb91743240548376026fde0a5d68|@path:/籌碼指標/多空淨力場|@hash:b206557eb80bd69b6a3dfc9b23d9a277}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/自訂指標step-by-step/

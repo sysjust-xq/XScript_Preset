@@ -1,4 +1,4 @@
-{@type:filter|@guid:e085f15d0a1e4f668503f727b5411096|@path:/04.價量選股/漲勢成形}
+{@type:filter}
 Value1=linearregslope(close,3);
 value2=linearregslope(close,5);
 value3=linearregslope(close,20);

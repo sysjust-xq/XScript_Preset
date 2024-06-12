@@ -1,4 +1,4 @@
-{@type:sensor|@guid:76e2dc90e798462b8f16509627f1d0e5|@path:/波段操作型/盤整後噴出|@hash:a4b42e446a1ae253b8d3207b4d48f28c}
+{@type:sensor}
 input:Length(30); setinputname(1, "計算期間");
 input:percent(2.5); setinputname(2, "設定盤整區間%");
 

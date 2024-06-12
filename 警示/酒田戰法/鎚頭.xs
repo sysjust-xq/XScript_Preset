@@ -1,4 +1,4 @@
-{@type:sensor|@guid:25ae974b6ff24faa853f4e7c8aba353c|@path:/酒田戰法/鎚頭|@hash:e5f8c8ffc9bcb3d32f7009dcb01ddf1c}
+{@type:sensor}
 {									
 [檔名:]	鎚頭			[資料夾:]	酒田戰法	[適用方向]	多		
 [說明:]	開盤後下跌試底,盤中拉升上攻後,收在高點留下下影線								

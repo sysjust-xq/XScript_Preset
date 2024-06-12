@@ -1,4 +1,4 @@
-{@type:function|@guid:c836e62be262417cacc14d0f7851016a|@path:/價格計算/ReadTicks}
+{@type:function}
 {
     讀取從上次洗價到這次洗價之間的Tick資料
 

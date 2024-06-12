@@ -1,4 +1,4 @@
-{@type:indicator|@guid:543df8c82ab142898f89b3881de8eaea|@path:/技術指標/變異數指標|@hash:2ea88ac4d1cdaa489fc1a1d683e8896b}
+{@type:indicator}
 input:length1(10,"短天期期別");
 input:length2(20,"長天期期別");
 

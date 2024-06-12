@@ -1,4 +1,4 @@
-{@type:function|@guid:c361287a10cf477d9932c8a6742330cf|@path:/價格關係/HighestArray|@hash:f7251401c984a837e93318a04c1a6b89}
+{@type:function}
 SetBarMode(1);
 
 input:  thePriceArray[MaxSize](NumericArray),ArraySize(numericsimple);

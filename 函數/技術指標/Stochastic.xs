@@ -1,4 +1,4 @@
-{@type:function|@guid:847bcd706dda4a9caf2b783e181a8e42|@path:/技術指標/Stochastic|@hash:e509b70ca38a3d762fdf0109600ce655}
+{@type:function}
 SetBarMode(2);
 
 // Stochastic function (for KD/RSV相關指標)

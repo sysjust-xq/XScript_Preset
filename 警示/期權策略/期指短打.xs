@@ -1,4 +1,4 @@
-{@type:sensor|@guid:4c9cf3f2393b45f0a992fe4b1dd6c56f|@path:/期權策略/期指短打}
+{@type:sensor}
 if barfreq<>"Min" or barinterval<>1 then raiseruntimeerror("頻率請用1分K");
 
 variable:l1(0),l2(0),l3(0),l4(0),l5(0),l6(0),l7(0),l8(0),l9(0),l10(0),x(0),i(0), base(0);

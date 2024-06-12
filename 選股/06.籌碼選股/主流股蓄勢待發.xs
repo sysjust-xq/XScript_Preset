@@ -1,4 +1,4 @@
-{@type:filter|@guid:b898d713aa32498aa9c2735173e77ec7|@path:/06.籌碼選股/主流股蓄勢待發}
+{@type:filter}
 input:days(10);
 input: FastLength(12, "DIF短期期數"), SlowLength(26, "DIF長期期數"), MACDLength(9, "MACD期數");
 variable: difValue(0), macdValue(0), oscValue(0),Kprice(0);

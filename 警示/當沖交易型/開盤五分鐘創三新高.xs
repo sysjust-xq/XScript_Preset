@@ -1,4 +1,4 @@
-{@type:sensor|@guid:c3478004b3b14e65967276380eab3e0f|@path:/當沖交易型/開盤五分鐘創三新高}
+{@type:sensor}
 input:TXT("僅適用1分鐘線"); setinputname(1,"使用限制");
 settotalbar(8);
 variable:KBarOfDay(0); KBarOfDay+=1; if date<>date[1] then  KBarOfDay=1; 

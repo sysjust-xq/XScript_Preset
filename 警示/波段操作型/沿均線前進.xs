@@ -1,4 +1,4 @@
-{@type:sensor|@guid:99b48d0888cd48eead4b4fb8d95353d6|@path:/波段操作型/沿均線前進|@hash:107dd756a8d98ec2c6d7622301e3fcd6}
+{@type:sensor}
 //沿著均線前進
 input:Length(10); setinputname(1,"計算期數");
 input:FollowLength(5); setinputname(2,"貼近均線期數");

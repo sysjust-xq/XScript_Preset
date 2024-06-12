@@ -1,4 +1,4 @@
-{@type:sensor|@guid:d0f4b5e75f3b445c8c7f2c795b846c3e|@path:/波段操作型/波幅縮小後的突破|@hash:e4b44d025d5505314c9bc19bfe26cd74}
+{@type:sensor}
 input:period2(4);  setinputname(1,"短期期數");
 input:period1(12); setinputname(2,"長期期數");
 input:ratio(2);    setinputname(3, "漲幅%");

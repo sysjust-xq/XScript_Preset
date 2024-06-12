@@ -1,4 +1,4 @@
-{@type:sensor|@guid:b502691d060f4c5c8a1bc940d7e5d04a|@path:/技術分析/進入上昇趨勢}
+{@type:sensor}
 
 //高ROE股持有20天
 input:period(12);

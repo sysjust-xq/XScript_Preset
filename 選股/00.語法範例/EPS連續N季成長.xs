@@ -1,4 +1,4 @@
-{@type:filter|@guid:131a715d644d45aa8f8c9a97c35b3cc8|@path:/00.語法範例/EPS連續N季成長}
+{@type:filter}
 input:N(4); SetInputName(1, "期別");
  
 SetTotalBar(3); 

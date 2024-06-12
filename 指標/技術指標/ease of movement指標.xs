@@ -1,4 +1,4 @@
-{@type:indicator|@guid:23885a544d744283acfb39d172a5cad4|@path:/技術指標/ease of movement指標|@hash:37acbe786a8beec18b72ecc5adeeea19}
+{@type:indicator}
 input:
 	length1(9,"一次平滑期數"),
 	length2(9,"二次平滑期數");

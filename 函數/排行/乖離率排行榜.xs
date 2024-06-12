@@ -1,4 +1,4 @@
-{@type:function|@guid:f8c828c35df14ae287f3bbe90c772caa|@path:/排行/乖離率排行榜|@hash:9ea1c2b21208f9e96856eac42886d8d1}
+{@type:function}
 SetBarMode(1);
 
 // 這是一個自訂排行條件的範例

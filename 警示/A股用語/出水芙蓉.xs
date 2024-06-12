@@ -1,4 +1,4 @@
-{@type:sensor|@guid:8fee4cc809e64f1ea4d984d2e49ff5d2|@path:/A股用語/出水芙蓉|@hash:df08de61970ac3a634d54b407de2ce53}
+{@type:sensor}
 {股價長期低於季線 今日帶量突破季線 [僅適用日線] }
 input:Length(66); setinputname(1,"計算期間[僅日線有效]");
 input:downLength(100); setinputname(2,"長期低於季線的天數");

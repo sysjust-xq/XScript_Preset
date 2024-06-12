@@ -1,4 +1,4 @@
-{@type:indicator|@guid:12e612ce6ea6432c9f2375ae870fbd9f|@path:/籌碼高手/地緣券商買賣超|@hash:56577ca29ee67a886bc33ad4b74b4de9}
+{@type:indicator}
 condition999 = symbolexchange = "TW";//台股
 
 if condition999 = false //個股

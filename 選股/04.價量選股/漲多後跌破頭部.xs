@@ -1,4 +1,4 @@
-{@type:filter|@guid:f522c27327ff4aeb93a467b2b2628b70|@path:/04.價量選股/漲多後跌破頭部}
+{@type:filter}
 input:ratio(50);
 input:period(100);
 setinputname(1,"波段漲幅");

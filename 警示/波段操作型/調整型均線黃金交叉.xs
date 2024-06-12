@@ -1,4 +1,4 @@
-{@type:sensor|@guid:d1d7cf5700794c509e22bce442945f41|@path:/波段操作型/調整型均線黃金交叉|@hash:513c5a5e412745acae1908b2fc6314c7}
+{@type:sensor}
 input:Length(6); setinputname(1,"起始期數");
 input:TLength(20); setinputname(2,"終止期數");
 input:AddLength(1); setinputname(3,"期數調整項");

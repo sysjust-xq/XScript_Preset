@@ -1,4 +1,4 @@
-{@type:filter|@guid:45ae3462c9e34d98ba3409ee9a4dd9e1|@path:/05.型態選股/平台整理後突破}
+{@type:filter}
 setbarfreq("AD");
 
 input:Period(20, "平台區間");

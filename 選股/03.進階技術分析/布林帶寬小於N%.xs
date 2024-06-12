@@ -1,4 +1,4 @@
-{@type:filter|@guid:2703298e2aed4caeb70c9f6263634030|@path:/03.進階技術分析/布林帶寬小於N%}
+{@type:filter}
 input: 
 	Length(20, "天數"), 
 	UpperBand(2, "上"), 

@@ -1,4 +1,4 @@
-{@type:filter|@guid:24739d08cb5143aab59195dbb4e7436d|@path:/07.月營收選股/旺季不旺}
+{@type:filter}
 input:r1(5,"過去幾年月營收單月成長幅度下限%");
 setbarfreq("M");
 settotalbar(3);

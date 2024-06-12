@@ -1,4 +1,4 @@
-{@type:indicator|@guid:5f6ed4877bd5453bb71796b0b5cbb3cd|@path:/XQ技術指標/MACD 指標|@hash:222414cd238fdb3973c0ee00248c4d64}
+{@type:indicator}
 // XQ: MACD指標
 //
 input: FastLength(12), SlowLength(26), MACDLength(9);

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:ec58c7b9eb6344d59aff3b89da0d579b|@path:/籌碼高手/申報轉讓|@hash:894e2f8df18419f56357763222ca5333}
+{@type:indicator}
 condition994 = symbol = "TSE.TW" or symbol = "TWSE.FS" or symbol = "OTC.TW";//大盤
 condition993 = symbolexchange = "TW" and symboltype = 1;//類股
 

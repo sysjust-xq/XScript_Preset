@@ -1,4 +1,4 @@
-{@type:function|@guid:d64c2a71d3ea43d985ca22ef62a5a8de|@path:/技術指標/RSI|@hash:151c8153e7f916c28e73127fdea622d4}
+{@type:function}
 SetBarMode(2);
 
 // RSI function (for RSI指標)

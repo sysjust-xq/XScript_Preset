@@ -1,4 +1,4 @@
-{@type:filter|@guid:e1967bb93bc84feeacb7752644105485|@path:/00.語法範例/最近4季EPS合計大於X元}
+{@type:filter}
 input:X(5); SetInputName(1, "元");
 
 variable: N(4);

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:56e454068a214bf1af7f92d47ffe260e|@path:/當沖交易型/近期持續強勢股階梯式上漲}
+{@type:sensor}
 if barfreq<> "Min"and barinterval<> 5 then raiseruntimeerror("本腳本只限五分鐘線");
 
 condition1 = GetSymbolField("tse.tw","收盤價","D") > average(GetSymbolField("tse.tw","收盤價","D"),10);

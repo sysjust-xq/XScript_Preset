@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:78bd0a38b9e74c44956f5d758bda53b6|@path:/常見技術分析/空頭/MTM死亡交叉0}
+{@type:autotrade}
 // 宣告參數
 Input: Length(10, "期數");
 

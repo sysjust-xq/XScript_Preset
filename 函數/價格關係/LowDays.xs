@@ -1,4 +1,4 @@
-{@type:function|@guid:a287dee8b9ac4040bdedfd1f7af308ef|@path:/價格關係/LowDays}
+{@type:function}
 SetBarMode(1);
 
 // 計算過去幾筆資料內創新低的次數

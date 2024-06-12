@@ -1,4 +1,4 @@
-{@type:sensor|@guid:e18cd32f2ac84dadabf0c35dbd762ca8|@path:/酒田戰法/帶量多頭吞噬|@hash:32fc62a2ee3a76dde830495b35ed4b87}
+{@type:sensor}
 {																						
 [檔名:]	多頭吞噬			[資料夾:]	酒田戰法	[適用方向]	多															
 [說明:]	前期收短黑K棒 當期開低走高拉出長紅棒 波動率放大 穿過昨高																																									

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:5b73a9a1bf2f45a89ed4b0eb3deb6fd5|@path:/酒田戰法/吊人|@hash:81c1ed42577966d2803ad9bf2d143aff}
+{@type:sensor}
 {																						
 [檔名:]	吊人			[資料夾:]	酒田戰法	[適用方向]	空															
 [說明:]	短黑棒留長下影線																																								

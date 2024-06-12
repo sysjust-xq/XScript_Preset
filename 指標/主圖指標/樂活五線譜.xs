@@ -1,4 +1,4 @@
-{@type:indicator|@guid:5797c0f786b6433e9afe45318a28d1e2|@path:/主圖指標/樂活五線譜|@hash:8f5da5301b53ca037164a184d7327422}
+{@type:indicator}
 input:period(720,"計算期間");
 array: line_diff[](0);
 var: diff_avg(0), _sum(0);

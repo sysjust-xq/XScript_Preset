@@ -1,4 +1,4 @@
-{@type:indicator|@guid:4fcc4cdef06a46b3a978c636730fd03d|@path:/量能指標/週轉率|@hash:2dd5318a45db769d05c41021b0672144}
+{@type:indicator}
 if barfreq = "Tick" or barfreq = "Min"
 	then raiseruntimeerror("不支援此頻率");
 

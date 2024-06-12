@@ -1,4 +1,4 @@
-{@type:indicator|@guid:7aa8b192f2684f9f8c811f8b63c428e5|@path:/技術指標/Aroon|@hash:6b8171a0db9149e690e90338c0281b7a}
+{@type:indicator}
 input:length(25); setinputname(1, "計算週期");
    
 variable: aroon_up(0), aroon_down(0), aroon_oscillator(0);   

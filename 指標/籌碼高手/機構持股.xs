@@ -1,4 +1,4 @@
-{@type:indicator|@guid:f2a1153a3d5048d0ac116ad8a59a3b69|@path:/籌碼高手/機構持股|@hash:cfc5cd85669b5cee7a66aca3cebd3e04}
+{@type:indicator}
 //資料更新頻率：季
 //支援商品：美(股票)
 if barfreq = "Tick" or barfreq = "Min" then raiseruntimeerror("不支援此頻率");

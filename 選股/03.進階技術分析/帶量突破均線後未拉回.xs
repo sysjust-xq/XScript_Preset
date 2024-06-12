@@ -1,4 +1,4 @@
-{@type:filter|@guid:a1e5161fe1fc4138a4b248190514c216|@path:/03.進階技術分析/帶量突破均線後未拉回}
+{@type:filter}
 input:day(5);		setinputname(1,"幾天內未站回");
 input:length(10);	setinputname(2,"移動平均線期別");
 input:percent(20);	setinputname(3,"突破當日成交量超過均量多少%");

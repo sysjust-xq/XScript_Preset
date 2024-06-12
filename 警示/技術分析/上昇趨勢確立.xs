@@ -1,4 +1,4 @@
-{@type:sensor|@guid:e1daae78d5c3464ca9190a79ad6ac4b5|@path:/技術分析/上昇趨勢確立}
+{@type:sensor}
 //市值適中的股票 20天出場
 
 input:Length(20); //"計算期間"

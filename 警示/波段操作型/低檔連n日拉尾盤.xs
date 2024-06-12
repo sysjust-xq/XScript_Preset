@@ -1,4 +1,4 @@
-{@type:sensor|@guid:632e75b34fee4f23a7947d3f8a708d81|@path:/波段操作型/低檔連n日拉尾盤|@hash:16219e25dd6751cc97b506d566338408}
+{@type:sensor}
 input:Length(3); setinputname(1,"拉尾盤日數");
 input:Ratio(1); setinputname(2,"拉尾盤幅度%");
 input:closetime(132500); setinputname(3,"尾盤前時間");

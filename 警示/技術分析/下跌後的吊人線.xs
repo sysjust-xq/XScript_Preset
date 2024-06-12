@@ -1,4 +1,4 @@
-{@type:sensor|@guid:ed0fe4d120c94bbb81fffcc98f4e140c|@path:/技術分析/下跌後的吊人線}
+{@type:sensor}
 
 condition1=false;
 condition2=false;

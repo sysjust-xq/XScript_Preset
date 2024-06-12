@@ -1,4 +1,4 @@
-{@type:function|@guid:210d0786cfe340538e34c095bc2ba049|@path:/趨勢分析/LinearReg|@hash:829f1c593f398385648f397416601c47}
+{@type:function}
 SetBarMode(1);
 
 input:thePrice(numericseries);	{資料序列} 

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:de8de5c952b64cc789f35f22269c5c37|@path:/3.出場常用警示/OBV退潮|@hash:d475f128586485604cc1860b75939b0b}
+{@type:sensor}
 input:Length(15); setinputname(1,"計算期數");
 variable: OBVolume(0);
 

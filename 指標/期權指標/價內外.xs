@@ -1,4 +1,4 @@
-{@type:indicator|@guid:11da3ff5f71549bf86a84ca0a7bc1800|@path:/期權指標/價內外|@hash:233eb5a2e7eff1ec0a624751fe781a56}
+{@type:indicator}
 variable:vRatio(0);
 
 if symboltype <> 5 then 

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:6fbcba47a206473e8ece64cc2a58df98|@path:/大盤指標/大盤儀表板|@hash:d8da0df947a0e4637388ca891cd9bdee}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/進場點一目了然的大盤儀表板/

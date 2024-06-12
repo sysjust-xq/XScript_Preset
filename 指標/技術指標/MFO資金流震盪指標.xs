@@ -1,4 +1,4 @@
-{@type:indicator|@guid:adc6761024a744d79feaac113743e444|@path:/技術指標/MFO資金流震盪指標|@hash:6c76ccebe672c3e8d0d5a0a815543667}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/大盤多空轉換點之探討系列三-mfo資金流震盪指標/

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:cd10b94e6c7347008af09b87d916215c|@path:/當沖交易型/開盤反轉買進訊號}
+{@type:sensor}
 variable: _BarIndex(0), _Open(0), _Low(0), _High(0), _Volume(0);
 
 if getsymbolfield("tse.tw","收盤價") > average(getsymbolfield("tse.tw","收盤價"),10) then begin

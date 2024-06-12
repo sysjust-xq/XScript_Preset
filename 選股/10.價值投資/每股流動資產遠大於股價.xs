@@ -1,4 +1,4 @@
-{@type:filter|@guid:e54bd6d6ee5549bd950ee40ad794d0f5|@path:/10.價值投資/每股流動資產遠大於股價}
+{@type:filter}
 input:percent(20);
 setinputname(1,"每股易變現資產與股價間的落差比");
 value1=GetField("現金及約當現金","Q");//百萬;

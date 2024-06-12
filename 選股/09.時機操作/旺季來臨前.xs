@@ -1,4 +1,4 @@
-{@type:filter|@guid:ddb38fe3533041239c8768cf5117b153|@path:/09.時機操作/旺季來臨前}
+{@type:filter}
 settotalbar(40);
 
 variable:W1(0),W2(0),W3(0),F1(0),F2(0),F3(0);

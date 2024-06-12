@@ -1,4 +1,4 @@
-{@type:sensor|@guid:57807a43920c449895fbdf6133ae3015|@path:/技術分析/主力累計買超比例過門檻}
+{@type:sensor}
 //作多  中小型股  持有二十天
 
 input: Length(5); setinputname(1,"計算天數");

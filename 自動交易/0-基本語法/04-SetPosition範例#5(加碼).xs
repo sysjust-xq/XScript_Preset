@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:393b09f404484cecb4548f12ff161d22|@path:/0-基本語法/04-SetPosition範例#5(加碼)}
+{@type:autotrade}
 {
 	範例: 透過Filled來判斷是否要加碼
 	

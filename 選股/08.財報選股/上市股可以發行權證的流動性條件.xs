@@ -1,4 +1,4 @@
-{@type:filter|@guid:04c2194920154183835ed7caaa3f922e|@path:/08.財報選股/上市股可以發行權證的流動性條件|@hash:b5feb69c201835a284cdfdfc9169ebef}
+{@type:filter}
 {
 	1. 市值超過100億元
 	

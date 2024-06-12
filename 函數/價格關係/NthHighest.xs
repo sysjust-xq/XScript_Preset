@@ -1,4 +1,4 @@
-{@type:function|@guid:50196492a31d4f42821e72bbd09444ca|@path:/價格關係/NthHighest|@hash:6c651edaffef4e517bca1971773b2187}
+{@type:function}
 SetBarMode(1);
 
 input: N (numericsimple), thePrice(numericseries), Length(numericsimple);

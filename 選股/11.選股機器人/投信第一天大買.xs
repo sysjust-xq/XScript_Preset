@@ -1,4 +1,4 @@
-{@type:filter|@guid:4a421467470249a0ba1a12d81505432c|@path:/11.選股機器人/投信第一天大買}
+{@type:filter}
 setbarfreq("AD");
 
 input: v1(500, "投信估計持股上限(張)");

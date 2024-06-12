@@ -1,4 +1,4 @@
-{@type:filter|@guid:54f19658275e4c74981fa74ce06cfcbd|@path:/00.語法範例/N期股價趨勢向下}
+{@type:filter}
 input: Period(10); SetInputName(1, "期別");
 
 settotalbar(3);

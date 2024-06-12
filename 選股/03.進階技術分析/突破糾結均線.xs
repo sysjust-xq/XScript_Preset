@@ -1,4 +1,4 @@
-{@type:filter|@guid:40542167bcc540df8c31652539f70dcc|@path:/03.進階技術分析/突破糾結均線}
+{@type:filter}
 input: shortlength(5); 	setinputname(1,"短期均線期數");
 input: midlength(10); 	setinputname(2,"中期均線期數");
 input: Longlength(20); 	setinputname(3,"長期均線期數");

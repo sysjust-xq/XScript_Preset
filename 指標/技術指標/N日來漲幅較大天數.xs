@@ -1,4 +1,4 @@
-{@type:indicator|@guid:f5373100bbaa447bafb39f8638b4053f|@path:/技術指標/N日來漲幅較大天數|@hash:63a3a15e21c33db43ef2b67b1419706b}
+{@type:indicator}
 {
 指標說明
 收錄於「三週學會程式交易：打造你的第一筆自動化交易」 327頁

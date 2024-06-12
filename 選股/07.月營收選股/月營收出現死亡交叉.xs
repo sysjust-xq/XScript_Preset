@@ -1,4 +1,4 @@
-{@type:filter|@guid:cd8b90795ba541e2959d4637c15df61f|@path:/07.月營收選股/月營收出現死亡交叉}
+{@type:filter}
 input:shortterm(4);
 input:longterm(12);
 setinputname(1,"短期均線");

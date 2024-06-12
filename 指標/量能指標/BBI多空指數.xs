@@ -1,4 +1,4 @@
-{@type:indicator|@guid:3d28b6f8a7294911ba93307b2d5c9b37|@path:/量能指標/BBI多空指數|@hash:f14972f656d6e8836e7a0c2b017bff66}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/用自訂指標來看a股後市/

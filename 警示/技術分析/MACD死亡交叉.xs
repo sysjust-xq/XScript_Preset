@@ -1,4 +1,4 @@
-{@type:sensor|@guid:94f03c96b30140a9b89174a79b3402cd|@path:/技術分析/MACD死亡交叉|@hash:68a476b87395e44a3593345c950b22dd}
+{@type:sensor}
 // MACD 死亡交叉 (dif向下穿越macd)
 //
 input: FastLength(12), SlowLength(26), MACDLength(9);

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:9bb439d30ea044b88890790547d47f32|@path:/XQ技術指標/MAM(移動平均動量指標)|@hash:797d0ecd37bcc508880d6ed05c39db0a}
+{@type:indicator}
 // XQ: MAM指標
 //
 Input: Length(10), Distance(10);

@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:17c1ccb4fc324177ad04691488717f23|@path:/2-下單出場方式/02-多單固定停利停損(點)}
+{@type:autotrade}
 {
 	多單停損(點)
 }

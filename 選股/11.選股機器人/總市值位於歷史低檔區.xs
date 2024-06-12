@@ -1,4 +1,4 @@
-{@type:filter|@guid:43436005bf9445a1a2455d957ece99bf|@path:/11.選股機器人/總市值位於歷史低檔區}
+{@type:filter}
 setbarfreq("AD");
 
 input:period(1250,"計算天數");

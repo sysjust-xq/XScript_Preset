@@ -1,4 +1,4 @@
-{@type:filter|@guid:c80a30a98c4b4e61987e53c8df94dde2|@path:/00.語法範例/_基本範例}
+{@type:filter}
 // 選股範例程式
 //
 

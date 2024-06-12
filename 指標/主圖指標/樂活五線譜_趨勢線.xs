@@ -1,4 +1,4 @@
-{@type:indicator|@guid:1c1f126a838e444e9aa2f6909b0e26ce|@path:/主圖指標/樂活五線譜_趨勢線|@hash:8f1249eec31d3ef12ac3fe1336bbedf3}
+{@type:indicator}
 {
     PlotLine(PlotIndex, x1, y1, x2, y2, add:=0);
 	    PlotIndex為 1 ~ 999，作用如同 Plot 的序列編號

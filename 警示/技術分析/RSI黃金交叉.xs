@@ -1,4 +1,4 @@
-{@type:sensor|@guid:c4221982621a4e98a5b729e482ea6b7f|@path:/技術分析/RSI黃金交叉|@hash:0024c950844185a4013fd2640f48e5c7}
+{@type:sensor}
 // RSI短天期往上穿越長天期
 //
 input: ShortLength(6), LongLength(12);

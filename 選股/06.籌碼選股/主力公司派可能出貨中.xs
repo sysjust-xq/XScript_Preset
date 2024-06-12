@@ -1,4 +1,4 @@
-{@type:filter|@guid:c04060898e9842cdba921d8ce7af243b|@path:/06.籌碼選股/主力公司派可能出貨中}
+{@type:filter}
 input:Period(5);	setinputname(1,"近期偏弱期間");
 input:Rate1(1000);	setinputname(2,"法人及散戶合計賣出上限");
 input:Rate2(5000);	setinputname(3,"成交量下限");

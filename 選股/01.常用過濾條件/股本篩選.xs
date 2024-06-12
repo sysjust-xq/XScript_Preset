@@ -1,4 +1,4 @@
-{@type:filter|@guid:8cb4bf9857d94f6d984e340512823278|@path:/01.常用過濾條件/股本篩選|@hash:95d4ee82d917abb55cf11f3ff0c5181d}
+{@type:filter}
 input:MinCapital(10);
 input:MaxCapital(50); 
 

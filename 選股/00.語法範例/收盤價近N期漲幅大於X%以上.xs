@@ -1,4 +1,4 @@
-{@type:filter|@guid:8a00dff9366842d294cce5366fdcd6ca|@path:/00.語法範例/收盤價近N期漲幅大於X%以上}
+{@type:filter}
 input:N(10);	SetInputName(1, "期別");
 input:X(5); 	SetInputName(2, "漲幅%");
 

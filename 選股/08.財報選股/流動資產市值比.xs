@@ -1,4 +1,4 @@
-{@type:filter|@guid:b999e12d8af247cb85cbae1378a5d455|@path:/08.財報選股/流動資產市值比}
+{@type:filter}
 input:r1(12);			setinputname(1,"流動資產市值比下限%");
 
 settotalbar(3);

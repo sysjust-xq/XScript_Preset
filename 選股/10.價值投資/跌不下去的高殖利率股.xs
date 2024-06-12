@@ -1,4 +1,4 @@
-{@type:filter|@guid:b036f2db77cd4cb28bf77c1b6bbd9355|@path:/10.價值投資/跌不下去的高殖利率股}
+{@type:filter}
 input:N(20, "天期");
  
 condition1 = L = Lowest(L,N);

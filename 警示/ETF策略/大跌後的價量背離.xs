@@ -1,4 +1,4 @@
-{@type:sensor|@guid:e92cb69549db4f8a98d8ba54c538f100|@path:/ETF策略/大跌後的價量背離}
+{@type:sensor}
 input:period(10,"計算天數");
 input:times(5,"背離次數");
 

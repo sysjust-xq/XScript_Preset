@@ -1,4 +1,4 @@
-{@type:sensor|@guid:445eb2864b534d9aa120cab86a8fb0da|@path:/波段操作型/帶量衝破季線|@hash:c5a8658450b7065a7ce186e9b195d67f}
+{@type:sensor}
 //股價長期低於季線
 //帶量突破季線
 input: PriceLength(66); setinputname(1,"季線計算期數");

@@ -1,4 +1,4 @@
-{@type:filter|@guid:f6f9a57c4aab43bc9a2e0270041c80ce|@path:/08.財報選股/N年平均盈餘本益比}
+{@type:filter}
 input:r1(10);		setinputname(1,"本益比上限");
 input:years(8);		setinputname(2,"計算期間(年)");
 

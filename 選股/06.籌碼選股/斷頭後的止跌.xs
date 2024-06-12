@@ -1,4 +1,4 @@
-{@type:filter|@guid:1fd5be493dff48c787bd5dcf583eeb2b|@path:/06.籌碼選股/斷頭後的止跌}
+{@type:filter}
 
 input:Length(4); setinputname(1,"計算區間");
 input:DVOL(3000); setinputname(2,"區間融資減少張數");

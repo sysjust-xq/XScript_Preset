@@ -1,4 +1,4 @@
-{@type:indicator|@guid:637460b1727543c784c6c07870453729|@path:/XQ技術指標/KD 隨機指標|@hash:2f5ac352204e551ce9eb45eb04972dea}
+{@type:indicator}
 // XQ: KD指標
 //
 input: Length(9), RSVt(3), Kt(3);

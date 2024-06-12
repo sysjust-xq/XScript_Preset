@@ -1,4 +1,4 @@
-{@type:sensor|@guid:c827ccb01bd445f88061bd0fa5cb86be|@path:/3.出場常用警示/竭盡缺口|@hash:04b07b7252a7fc2e1588c4265b69d257}
+{@type:sensor}
 input:Length(50); setinputname(1,"計算漲幅的區間");
 input:Ratio(30); setinputname(2,"區間累計上漲幅度%");
 input:OpenGapRatio(2); setinputname(3,"今日跳空上漲幅度%");

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:08a01091ce4d42e3b6bdc7a95a2b127e|@path:/1.籌碼監控/散戶撿到出貨後創低|@hash:8c14bc416a6343b088837a08741647f2}
+{@type:sensor}
 input: ChangeKshares(1000); setinputname(1,"主力出貨張數");
 input:TXT("僅適用日線"); setinputname(2,"使用限制");
 

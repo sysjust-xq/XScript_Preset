@@ -1,4 +1,4 @@
-{@type:filter|@guid:4f52393ed61c446cb69c826ed7e31cbe|@path:/10.價值投資/股價距離合理價值很遠}
+{@type:filter}
 variable: idx(0), t(0);
 input:r1(3, "假設未來十年營業利益年成長率");
 input:r2(2, "未來十年平均年利率");

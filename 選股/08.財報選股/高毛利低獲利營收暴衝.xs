@@ -1,4 +1,4 @@
-{@type:filter|@guid:205c3a8c227d441896c13938843ce88d|@path:/08.財報選股/高毛利低獲利營收暴衝}
+{@type:filter}
 input:
 	smr(5,"月營收月增率"),
 	syr(10,"月營收年增率"),

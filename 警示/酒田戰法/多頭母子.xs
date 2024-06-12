@@ -1,4 +1,4 @@
-{@type:sensor|@guid:b17f0d648d8141d68da4e7334ba3ebff|@path:/酒田戰法/多頭母子|@hash:377a3137a59843935c38f6effc0bcd95}
+{@type:sensor}
 {																						
 [檔名:]	多頭母子			[資料夾:]	酒田戰法	[適用方向]	多															
 [說明:]	前期收長黑K棒 今期開高小幅收紅不過昨高																					

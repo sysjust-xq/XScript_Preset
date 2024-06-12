@@ -1,4 +1,4 @@
-{@type:function|@guid:e44b5a475730463d9cc08a4c6a18e691|@path:/技術指標/ADO}
+{@type:function}
 SetBarMode(1);
 
 {

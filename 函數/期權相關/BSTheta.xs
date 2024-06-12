@@ -1,4 +1,4 @@
-{@type:function|@guid:4c73dd55900a485d969fbc8b1b5dd53c|@path:/期權相關/BSTheta|@hash:1154ee19aa59625e2df0550a2d42e1ba}
+{@type:function}
 SetBarMode(1);
 
 input:

@@ -1,4 +1,4 @@
-{@type:filter|@guid:2ff3babda762416b96fe44e9b14db55d|@path:/06.籌碼選股/外資由空翻多}
+{@type:filter}
 setbarfreq("D");
 settotalbar(3);
 

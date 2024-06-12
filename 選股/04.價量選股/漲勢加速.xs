@@ -1,4 +1,4 @@
-{@type:filter|@guid:e01e25b9a129425db80f96fc81f9eca4|@path:/04.價量選股/漲勢加速}
+{@type:filter}
 setbarfreq("AD");
  
 variable:aspeed(0),dspeed(0),a1(0),d1(0),p1(0),ap1(0);

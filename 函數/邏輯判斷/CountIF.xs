@@ -1,4 +1,4 @@
-{@type:function|@guid:d80cf92ddfcc42e0a6c53ec47edebd49|@path:/邏輯判斷/CountIF|@hash:b9df22ac83fbe6041570b8acf898c5bf}
+{@type:function}
 SetBarMode(1);
 
 input:TrueAndFalse(truefalseseries),Length(numericsimple);

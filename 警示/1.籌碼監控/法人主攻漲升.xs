@@ -1,4 +1,4 @@
-{@type:sensor|@guid:e6744d2ae19d4e5e9322d182587588db|@path:/1.籌碼監控/法人主攻漲升|@hash:dc8e3e3369d98608eef451e042fb435d}
+{@type:sensor}
 input: pastDays(3); setinputname(1,"計算天數");
 input: _BuyRatio(25); setinputname(2,"買超佔比例(%)");
 input:TXT("僅適用日線"); setinputname(3,"使用限制");

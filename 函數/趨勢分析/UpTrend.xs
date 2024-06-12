@@ -1,4 +1,4 @@
-{@type:function_bool|@guid:64542e2dd01646a8b03063c7636c3621|@path:/趨勢分析/UpTrend}
+{@type:function_bool}
 {
 	判斷某個序列是否趨勢朝上
 	

@@ -1,4 +1,4 @@
-{@type:filter|@guid:9db3bd79cc1541f1896b82b57330794b|@path:/07.月營收選股/營收高於預期}
+{@type:filter}
 input: r1(10);		setinputname(1, "月營收年增率增加幅度下限(%)");
 //input:TXT("僅適用月線"); setinputname(2,"使用限制");
 setbarfreq("M");

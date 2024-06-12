@@ -1,4 +1,4 @@
-{@type:filter|@guid:34bba115ef7e4083b1b3854e52cfb575|@path:/04.價量選股/波動幅度開始變大且往上攻}
+{@type:filter}
 SetBarFreq("AD");
 
 input: Length(20, "計算區間");

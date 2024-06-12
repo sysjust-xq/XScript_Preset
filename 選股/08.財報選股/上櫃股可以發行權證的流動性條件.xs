@@ -1,4 +1,4 @@
-{@type:filter|@guid:5a46baf404d747338c42ebff370cbc62|@path:/08.財報選股/上櫃股可以發行權證的流動性條件|@hash:d3216741aaea87f3dd93da793a70a3e5}
+{@type:filter}
 {
 	1. 市值超過40億元
 	

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:0994e771e66246409f95d51a9c44389f|@path:/2.市場常用語/拉尾盤|@hash:14d3561641ba6c031ec2eecd519dc1f0}
+{@type:sensor}
 input:Ratio(1); setinputname(1,"拉尾盤幅度%");
 input:tTime(130000); setinputname(2,"尾盤切算時間%");
 input:TXT("限用5分鐘以下"); setinputname(3,"使用限制");

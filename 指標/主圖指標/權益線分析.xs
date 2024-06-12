@@ -1,4 +1,4 @@
-{@type:indicator|@guid:9a4baa322ce448458c061fae6f19321e|@path:/主圖指標/權益線分析|@hash:a14879ee8090a5ba9c98a33c5e402d93}
+{@type:indicator}
 input:Update(-1);
 
 variable:hHigh(0),pC(0),iHigh(0),iLow(10000),iDate(0),ALow(0),ND(0),EP(0);

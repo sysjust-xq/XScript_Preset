@@ -1,4 +1,4 @@
-{@type:function|@guid:a89a3477e51f4eb0a459ae26748ccaab|@path:/技術指標/PSY}
+{@type:function}
 SetBarMode(1);
 
 {

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:6cba1e14ef61413ab32f3db130d1f1c8|@path:/技術指標/extracting the trend|@hash:d158c0c88ed0bd0fca85f92dd3b1d4f2}
+{@type:indicator}
 input:
 	period(20),
 	delta(0.1);

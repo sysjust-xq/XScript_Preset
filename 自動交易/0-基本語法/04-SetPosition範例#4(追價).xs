@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:54aea1ae8b99453ca828544e75fbb7ec|@path:/0-基本語法/04-SetPosition範例#4(追價)}
+{@type:autotrade}
 {
 	範例: 透過Filled來判斷是否需要追價
 	

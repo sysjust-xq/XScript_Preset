@@ -1,4 +1,4 @@
-{@type:filter|@guid:3f816207e3b1489eb784025e5baaab88|@path:/08.財報選股/最近五年ROE平均高於某值}
+{@type:filter}
 input:r1(15,"平均報酬率");
 
 if average(GetField("股東權益報酬率","Y"),5)>r1

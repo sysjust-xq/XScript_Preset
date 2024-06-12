@@ -1,4 +1,4 @@
-{@type:filter|@guid:1eecab6ad0384867a3429246277dc205|@path:/06.籌碼選股/主力偷偷調節後下殺}
+{@type:filter}
 setbarfreq("AD");
 
 input:period(10,"籌碼計算天期");

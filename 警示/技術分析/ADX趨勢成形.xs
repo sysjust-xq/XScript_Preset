@@ -1,4 +1,4 @@
-{@type:sensor|@guid:3f07726e5ecb4af38f07b1f6326e1ad6|@path:/技術分析/ADX趨勢成形|@hash:65bbafed0a90b0aa66e79564a1cc540d}
+{@type:sensor}
 // ADX趨勢成形
 //
 input: Length(14), Threshold(25);

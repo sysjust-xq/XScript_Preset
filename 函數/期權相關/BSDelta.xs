@@ -1,4 +1,4 @@
-{@type:function|@guid:5e90542dbb364f80a285f1e2e06aa6c3|@path:/期權相關/BSDelta|@hash:c8de047b51c0ae01eb1815d6f2c7763b}
+{@type:function}
 SetBarMode(1);
 
 input:

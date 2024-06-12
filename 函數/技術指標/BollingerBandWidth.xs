@@ -1,4 +1,4 @@
-{@type:function|@guid:1993dfb6119f4830adab63f5ce6ee2b6|@path:/技術指標/BollingerBandWidth}
+{@type:function}
 // BollingerBand Width function
 //
 

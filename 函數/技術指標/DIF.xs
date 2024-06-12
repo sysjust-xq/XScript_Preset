@@ -1,4 +1,4 @@
-{@type:function|@guid:b3b330c5ea4e4b9c8e988ce259b3ac28|@path:/技術指標/DIF}
+{@type:function}
 SetBarMode(1);
 
 {

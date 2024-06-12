@@ -1,4 +1,4 @@
-{@type:filter|@guid:9e7de21101fb4f9fbd3620bccec68c25|@path:/07.月營收選股/最近三個月營收明顯成長}
+{@type:filter}
 settotalbar(3);
 value1=GetField("月營收月增率","M");
 value2=GetField("月營收年增率","M");

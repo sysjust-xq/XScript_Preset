@@ -1,4 +1,4 @@
-{@type:filter|@guid:01ca6e304498404388ba3712c2230b8d|@path:/06.籌碼選股/法人買進佔成交量超過25%}
+{@type:filter}
 input:r1(45);
 setinputname(1,"法人買進佔成交量比例下限%");
 value1=GetField("外資買張","D");

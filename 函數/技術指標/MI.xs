@@ -1,4 +1,4 @@
-{@type:function|@guid:f591b7e4fc3d431196d558acc85f721d|@path:/技術指標/MI}
+{@type:function}
 SetBarMode(1);
 
 {

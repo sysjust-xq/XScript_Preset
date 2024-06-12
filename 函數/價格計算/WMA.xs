@@ -1,4 +1,4 @@
-{@type:function|@guid:966999ee1cff467f9ff0315ccb773eff|@path:/價格計算/WMA}
+{@type:function}
 SetBarMode(1);
 
 input:thePrice(numericseries); //"價格序列"

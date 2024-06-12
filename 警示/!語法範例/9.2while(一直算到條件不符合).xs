@@ -1,4 +1,4 @@
-{@type:sensor|@guid:f7fb4ceb04784f27a89c49d237a3b1dd|@path:/!語法範例/9.2while(一直算到條件不符合)}
+{@type:sensor}
 //還有另一種迴圈是while，會一直執行到條件不符合
 //請小心不要造成無法跳出的無窮迴圈
 

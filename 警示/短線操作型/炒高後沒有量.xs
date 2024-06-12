@@ -1,4 +1,4 @@
-{@type:sensor|@guid:e016d78545b843dd882da31e0d671eaa|@path:/短線操作型/炒高後沒有量}
+{@type:sensor}
 input: Periods(120); setinputname(1,"計算期數");
 input: Ratio(50);setinputname(2,"期間漲幅%");
 input: Sizes(2000);setinputname(3,"五日均量量縮張數");

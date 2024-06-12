@@ -1,4 +1,4 @@
-{@type:filter|@guid:f0848453326943b1b35cdc5a2d2ba708|@path:/06.籌碼選股/主力買超超過門檻}
+{@type:filter}
 input: Length(5); 	setinputname(1,"計算天數");
 input: limit1(20);	setinputname(2,"買超佔成交量比例");
 

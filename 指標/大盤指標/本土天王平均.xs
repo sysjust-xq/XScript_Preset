@@ -1,4 +1,4 @@
-{@type:indicator|@guid:364c78cce1d04a4eb5aa9b6da296b962|@path:/大盤指標/本土天王平均|@hash:ee384dd2952ebb66d0332cbe5710f770}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/亂世中最佳投資組合/

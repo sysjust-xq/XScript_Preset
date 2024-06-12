@@ -1,4 +1,4 @@
-{@type:indicator|@guid:9bc3cb3d1f284a399a16eb401fbe7ac3|@path:/籌碼指標/法人買超佔成交量比重|@hash:f9479f9a6cd95323a9e7affdf3c686d0}
+{@type:indicator}
 input:length(5,"期數"),TXT("僅支援日線以上");
 var:_strplot1("");
 

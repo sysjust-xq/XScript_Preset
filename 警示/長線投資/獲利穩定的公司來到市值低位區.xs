@@ -1,4 +1,4 @@
-{@type:sensor|@guid:17281e93b35b47e2ac6f3a2f7e4d6c9f|@path:/長線投資/獲利穩定的公司來到市值低位區}
+{@type:sensor}
 settotalbar(700);
 
 if getsymbolfield("tse.tw","收盤價") > average(getsymbolfield("tse.tw","收盤價"),10) then begin

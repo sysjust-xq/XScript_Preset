@@ -1,4 +1,4 @@
-{@type:indicator|@guid:26975d3912d74c38b003c46d5d2f51b2|@path:/技術指標/六合神拳指數|@hash:2ed6d93513a7f5037638b962468df7d5}
+{@type:indicator}
 input:length1(6,"短天期RSI參數");
 input:length2(10,"長天期RSI參數");
 input:length3(10,"MTM天期");

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:dd271b6ac4ba419da55bf7a96cf6af91|@path:/跨頻率指標/分鐘與日威廉指標|@hash:e68ea05e4bffabcb7df2a5a1baa4a651}
+{@type:indicator}
 // 跨頻率威廉指標，預設跨頻率為30分
 // 不支援大頻率跨小頻率，例如：
 // 不支援主頻率60分鐘，跨頻率計算30分鐘威廉技術指標。

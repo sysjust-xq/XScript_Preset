@@ -1,4 +1,4 @@
-{@type:sensor|@guid:7c72846f55c64c059774a3bddc75efff|@path:/酒田戰法/空頭母子|@hash:6abc404b98479e0cf501dc3e4484c5f6}
+{@type:sensor}
 {																						
 [檔名:]	空頭母子			[資料夾:]	酒田戰法	[適用方向]	空															
 [說明:]	長紅棒後 內包短黑K																																									

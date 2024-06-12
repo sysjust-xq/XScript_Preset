@@ -1,4 +1,4 @@
-{@type:indicator|@guid:6c3b0058a4a246a0a0825a9c0af099b7|@path:/籌碼高手/融券|@hash:4a071483f61691179868dda3e2f3fe84}
+{@type:indicator}
 condition996 = symbolexchange = "TW" and symboltype = 2;//個股
 condition994 = symbol = "TSE.TW" or symbol = "TWSE.FS" or symbol = "OTC.TW";//大盤
 condition993 = symbolexchange = "TW" and symboltype = 1;//類股

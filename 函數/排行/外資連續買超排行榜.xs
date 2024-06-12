@@ -1,4 +1,4 @@
-{@type:function|@guid:24cfc3267d7e4a4484c1de9a82b9a67c|@path:/排行/外資連續買超排行榜|@hash:6389f9d0ac205e1d8f4f0e6953c9a9d8}
+{@type:function}
 SetBarMode(1);
 
 // 這是一個自訂排行條件的範例

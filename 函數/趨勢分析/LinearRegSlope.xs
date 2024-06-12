@@ -1,4 +1,4 @@
-{@type:function|@guid:626e6e5c42304bbea9809d1a07ae4e01|@path:/趨勢分析/LinearRegSlope|@hash:22d8a7d10a3dd988b619be01017ec076}
+{@type:function}
 SetBarMode(1);
 
 input:thePrice(numericseries); //"價格序列"

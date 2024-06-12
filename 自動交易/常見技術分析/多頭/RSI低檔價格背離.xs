@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:936bc4179e4b47fa93344a1850412125|@path:/常見技術分析/多頭/RSI低檔價格背離}
+{@type:autotrade}
 // 宣告參數
 Input: RSILength(10, "RSI期數"), _LThreshold(20, "低檔值"), _HThreshold(80, "高檔值");
 variable: rsiValue(0),RSI_linearregslope(0),Close_linearregslope(0);

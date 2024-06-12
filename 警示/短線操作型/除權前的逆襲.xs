@@ -1,4 +1,4 @@
-{@type:sensor|@guid:5fef512364bb466ab44099d495910031|@path:/短線操作型/除權前的逆襲}
+{@type:sensor}
 input:Ratio(5); setinputname(1,"逆襲上漲幅度%");
 input:TXT1("僅適用日線"); setinputname(2,"使用限制");
 input:TXT2("需選用逐筆洗價"); setinputname(3,"使用說明");

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:fd1fcbf155cd42fa9d982e4e1561bb27|@path:/主圖指標/自營商均價線|@hash:07d9d9240b13f59e54297fe2e9c70ee8}
+{@type:indicator}
 Input: period(20);	setinputname(1, "期間(天)");
 
 if barfreq = "Tick" or barfreq = "Min"

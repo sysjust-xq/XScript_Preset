@@ -1,4 +1,4 @@
-{@type:indicator|@guid:74e151db0eaf450eb4cd47ae0fff68ba|@path:/籌碼高手/關聯券商買賣超|@hash:0e0e699c1c95733be0886ef5615ed326}
+{@type:indicator}
 condition999 = symbolexchange = "TW";//台股
 condition998 = symbolType = 2;//股票
 

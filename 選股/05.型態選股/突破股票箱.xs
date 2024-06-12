@@ -1,4 +1,4 @@
-{@type:filter|@guid:33e26c779fc64dc7a877ecf813efab9d|@path:/05.型態選股/突破股票箱}
+{@type:filter}
 input:length(12);		setinputname(1, "股票箱區間長度");
 input:boxrange(10);		setinputname(2, "箱區高低範圍(%)");
 	

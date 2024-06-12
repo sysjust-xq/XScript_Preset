@@ -1,4 +1,4 @@
-{@type:filter|@guid:159fb559d0134f3e9b4bb992257cb07f|@path:/06.籌碼選股/投信拉抬|@hash:d1b2ff7761f951fe306163b6802fe536}
+{@type:filter}
 input: Length(10); setinputname(1,"計算天數");
 input: UpRatio(3.5); setinputname(2, "上漲幅度(%)");
 input: VolumeRatio(5); setinputname(3, "買超佔比例(%)");

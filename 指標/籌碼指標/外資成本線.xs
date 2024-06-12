@@ -1,4 +1,4 @@
-{@type:indicator|@guid:16949da39cd04c98861e91ae1df8d734|@path:/籌碼指標/外資成本線|@hash:9041984ff40b877071178511cff6dda8}
+{@type:indicator}
 
 {
 	籌碼指標。

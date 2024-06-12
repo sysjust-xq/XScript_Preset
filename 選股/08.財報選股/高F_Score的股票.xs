@@ -1,4 +1,4 @@
-{@type:filter|@guid:916133936e9b4b45b82629d600e7f445|@path:/08.財報選股/高F_Score的股票}
+{@type:filter}
 setbarfreq("Q");
 settotalbar(5);
 

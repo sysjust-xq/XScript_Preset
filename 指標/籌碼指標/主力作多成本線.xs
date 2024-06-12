@@ -1,4 +1,4 @@
-{@type:indicator|@guid:5d7806d892ad422f864459a7c8efd905|@path:/籌碼指標/主力作多成本線|@hash:79741f779bcb37420e2a427ccd78fd5b}
+{@type:indicator}
 input:period(40,"期數");
 
 if barfreq = "Tick" or barfreq = "Min"

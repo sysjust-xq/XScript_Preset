@@ -1,4 +1,4 @@
-{@type:indicator|@guid:dcd9b850aa354c40a9e3ee0ba6a269ee|@path:/技術指標/終極擺盪指標|@hash:5f71a29975d4f59dd665d6479f654c75}
+{@type:indicator}
 
 input:length1(7);		setinputname(1, "天期一");
 input:length2(14);		setinputname(2, "天期二");

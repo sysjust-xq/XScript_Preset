@@ -1,4 +1,4 @@
-{@type:sensor|@guid:39a912585ba14e2eb52ac66c627162a6|@path:/技術分析/中小型股趨勢成型}
+{@type:sensor}
 
 // ADX趨勢成形
 // 用有量的中小型股，5%停利，5%停損

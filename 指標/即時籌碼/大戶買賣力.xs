@@ -1,4 +1,4 @@
-{@type:indicator|@guid:f411c378ca89487fbb98bd54a1a6d95a|@path:/即時籌碼/大戶買賣力|@hash:5827ec540e84ac181b1de82f1d093031}
+{@type:indicator}
 {"大戶=特大單+大單，資料為開盤迄今的累計張數"
 支援商品：台(股票)}
 

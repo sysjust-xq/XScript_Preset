@@ -1,4 +1,4 @@
-{@type:function|@guid:9ec26f1716414e6aad6802834a288bbe|@path:/價格關係/YoY}
+{@type:function}
 SetBarMode(1);
 
 input:YoYVal(numericseries);

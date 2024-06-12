@@ -1,4 +1,4 @@
-{@type:sensor|@guid:0a6d0833c6e74a569b9508e820ce77f2|@path:/A股用語/殺跌波型|@hash:d93d4003204bd47cb4615c6ec62865e5}
+{@type:sensor}
 //黑三兵
 input:TXT("請使用1分鐘線"); setinputname(1,"使用方法");
 

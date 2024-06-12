@@ -1,4 +1,4 @@
-{@type:indicator|@guid:d738132b1fff4be4b883407bb28d1168|@path:/XQ技術指標/TRIX(三重指數平滑移動平均指標)|@hash:65045202f22451945cd993a34ae3c57e}
+{@type:indicator}
 // XQ: TRIX指標
 //
 input: Length1(9), Length2(15);

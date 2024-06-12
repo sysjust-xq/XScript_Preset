@@ -1,4 +1,4 @@
-{@type:filter|@guid:eae514c591fc40a29d35bf81402b745d|@path:/08.財報選股/季營收連N季YOY正成長}
+{@type:filter}
 input:n(12,"期數(單位:季)");
 setbarfreq("Q");
 settotalbar(n+4);

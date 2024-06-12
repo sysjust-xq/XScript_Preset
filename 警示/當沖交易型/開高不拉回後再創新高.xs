@@ -1,4 +1,4 @@
-{@type:sensor|@guid:5764c093506946e8b4fefcd7f2c79067|@path:/當沖交易型/開高不拉回後再創新高}
+{@type:sensor}
 if barfreq <>"Min" or barinterval<> 1 then raiseruntimeerror("歹勢，本腳本只適用於1分鐘線");
 
 variable:count(0);

@@ -1,4 +1,4 @@
-{@type:function|@guid:aa300d6ee3de439ea5eeb2f9ff3a7ed2|@path:/技術指標/Bias|@hash:5793fa0c1877bdc59780f052800ec533}
+{@type:function}
 SetBarMode(1);
 
 // Bias function (for 乖離率相關指標)

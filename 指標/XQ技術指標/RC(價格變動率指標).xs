@@ -1,4 +1,4 @@
-{@type:indicator|@guid:84cb11e61d2f4f618afb36bd40af80d5|@path:/XQ技術指標/RC(價格變動率指標)|@hash:357bf31dd61a405236a80d6f20531fa7}
+{@type:indicator}
 // XQ: RC指標
 //
 input: Length(12), EMALength(12);

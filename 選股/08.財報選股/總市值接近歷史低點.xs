@@ -1,4 +1,4 @@
-{@type:filter|@guid:fbbf0cd7295d45e699e7a347a60f8d49|@path:/08.財報選股/總市值接近歷史低點}
+{@type:filter}
 input: r1(5);			setinputname(1, "接近低點幅度(%)");
 //input:TXT("僅適用月資料"); setinputname(2,"使用限制");
 setbarfreq("M");

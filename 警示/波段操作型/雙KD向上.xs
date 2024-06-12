@@ -1,4 +1,4 @@
-{@type:sensor|@guid:292a2c84353940b1bf1b1e46236153e9|@path:/波段操作型/雙KD向上}
+{@type:sensor}
 input: Length_D(9, "日KD期間");
 input: Length_W(5, "周KD期間");
 

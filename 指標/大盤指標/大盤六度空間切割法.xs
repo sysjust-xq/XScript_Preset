@@ -1,4 +1,4 @@
-{@type:indicator|@guid:4d4a4b509cdc4b0c87ed75fe03cc8329|@path:/大盤指標/大盤六度空間切割法|@hash:4a6f874a4e8e7a5838e9b74b3d2fd037}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/多空六大階段指標/

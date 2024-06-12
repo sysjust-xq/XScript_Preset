@@ -1,4 +1,4 @@
-{@type:indicator|@guid:17675f3b32184e2bbac65e4ed886ac1e|@path:/即時籌碼/自訂大戶買賣力|@hash:391a904ab6eded29c0c3ca033cafe068}
+{@type:indicator}
 {指標數值定義：主力 = 成交單量 >= X的委託由Tick資料去累積計算
 支援商品：台(股票)、台(期貨)}
 

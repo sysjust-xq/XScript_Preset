@@ -1,4 +1,4 @@
-{@type:sensor|@guid:d06fafa021684685959293fca2b70e59|@path:/技術分析/找起漲點的策略}
+{@type:sensor}
 Input: Length(20, "期數");
 input: UpperBand(2, "通道上緣");
 input: lowerband(-2,"通道下緣");

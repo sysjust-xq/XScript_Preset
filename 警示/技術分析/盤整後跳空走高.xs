@@ -1,4 +1,4 @@
-{@type:sensor|@guid:a53b345e0bac4e039b3dec5ad78ed1dc|@path:/技術分析/盤整後跳空走高}
+{@type:sensor}
 //中小型股  停損停利都是5%
 input:period(20,"盤整區間");
 

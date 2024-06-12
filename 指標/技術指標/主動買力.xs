@@ -1,4 +1,4 @@
-{@type:indicator|@guid:6fe17121dc374fe3bfcb50b6f26724a3|@path:/技術指標/主動買力|@hash:33b295cc5cd9d2194258371519226ac4}
+{@type:indicator}
 input:p1(5,"短天期");
 input:p2(20,"長天期");
 

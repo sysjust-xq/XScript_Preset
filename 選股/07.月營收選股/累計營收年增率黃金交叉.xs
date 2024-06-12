@@ -1,4 +1,4 @@
-{@type:filter|@guid:24eaa9c6c9ed42f2a5cec7fd70ed2952|@path:/07.月營收選股/累計營收年增率黃金交叉}
+{@type:filter}
 value1=GetField("累計營收年增率","M");
 input: r1(3),r2(12);
 setinputname(1,"短天期");

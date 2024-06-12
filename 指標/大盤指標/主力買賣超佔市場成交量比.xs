@@ -1,4 +1,4 @@
-{@type:indicator|@guid:84d65ba7ba514551af204a663a2ca8c2|@path:/大盤指標/主力買賣超佔市場成交量比|@hash:e9ae75acbdefd9a91ce249359d09262c}
+{@type:indicator}
 {市場成交量定義
 
 加權成交量 GetSymbolField("TSE.TW", "成交量"):

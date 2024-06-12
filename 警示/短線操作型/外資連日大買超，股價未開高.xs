@@ -1,4 +1,4 @@
-{@type:sensor|@guid:e7abd32a1efb48c19bcc9eb5a137ff9f|@path:/短線操作型/外資連日大買超，股價未開高}
+{@type:sensor}
 input:Periods(3); setinputname(1,"外資連續買超天數");
 input:Atleast(10000); setinputname(2,"每日買超金額(萬元)");
 input:Gap(1); setinputname(3,"開盤幅度%");

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:8f60a0b471b442f89c579f99c1a16842|@path:/大盤指標/移動平均線再平均指標|@hash:5c9a327d3d2d56583e8afa06e29d0475}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/移動平均線再平均指標/

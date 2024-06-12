@@ -1,4 +1,4 @@
-{@type:function|@guid:c38c8206771f4673af8fc2af928dc680|@path:/價格關係/HighDays}
+{@type:function}
 SetBarMode(1);
 
 // 計算過去幾筆資料內創新高的次數

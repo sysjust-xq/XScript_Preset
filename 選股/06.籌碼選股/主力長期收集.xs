@@ -1,4 +1,4 @@
-{@type:filter|@guid:e281ab4c463c4b1ca62b2e4c53dd9082|@path:/06.籌碼選股/主力長期收集}
+{@type:filter}
 input:period(60,"計算區間");
 setbarfreq("D");
 settotalbar(period);

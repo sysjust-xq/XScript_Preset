@@ -1,4 +1,4 @@
-{@type:filter|@guid:fae897c7ec414e4eb9e7c7a054a75089|@path:/10.價值投資/月營收推估出的低本益比股}
+{@type:filter}
 input:peraito(10,"預估本益比上限");
 
 value1=GetField("月營收","M");//單位:億元

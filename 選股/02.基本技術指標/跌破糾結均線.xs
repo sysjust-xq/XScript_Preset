@@ -1,4 +1,4 @@
-{@type:filter|@guid:d7bd04430b64490d84d3d8f89064ce3a|@path:/02.基本技術指標/跌破糾結均線}
+{@type:filter}
 setbarfreq("AD");
 
 input: shortlength(5); setinputname(1,"短期均線期數");

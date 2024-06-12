@@ -1,4 +1,4 @@
-{@type:sensor|@guid:bdca2b88b23a4fba9b16f256b147d866|@path:/ETF策略/BBand翻多}
+{@type:sensor}
 input:Length(20,"天數");
 input:Up(1,"上");
 input:Down(1,"下");

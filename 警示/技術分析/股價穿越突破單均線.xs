@@ -1,4 +1,4 @@
-{@type:sensor|@guid:bce4e7bd9589436db0549fe8cb997467|@path:/技術分析/股價穿越突破單均線|@hash:69256eca9fa6920ebe439751a47215e5}
+{@type:sensor}
 input: length(5); setinputname(1,"均線期數");
 input: Price(Close); setinputname(2,"價格別");
 

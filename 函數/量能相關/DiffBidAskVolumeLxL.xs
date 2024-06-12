@@ -1,4 +1,4 @@
-{@type:function|@guid:b3832bc2dbb84f419b32307d8e213cea|@path:/量能相關/DiffBidAskVolumeLxL}
+{@type:function}
 {
 	DiffBidAskVolumeLxL為近15分鐘大戶買賣超的函數，
 	該函數運算出來的數值，與XS指標的「流動大戶買賣力」指標相同。

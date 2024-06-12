@@ -1,4 +1,4 @@
-{@type:filter|@guid:d0fd82b8aab54745ba76f1f847c1b07b|@path:/01.常用過濾條件/過濾冷門股票|@hash:cecdf1d7177c169e9de6c93cc4016db9}
+{@type:filter}
 input:PriceLimit(5),Length(5), VolumeLimit(500);
 
 SetInputName(1, "最小股價");

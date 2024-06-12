@@ -1,4 +1,4 @@
-{@type:indicator|@guid:f27bd35b167649fdbb46ccb68dc6763c|@path:/籌碼高手/實質買賣盤比|@hash:9e5a5354e42d44d98e667d6b2a5e05a4}
+{@type:indicator}
 condition996 = symbolexchange = "TW" and symboltype = 2;//個股
 condition994 = symbol = "TSE.TW" or symbol = "TWSE.FS" or symbol = "OTC.TW";//大盤
 condition993 = symbolexchange = "TW" and symboltype = 1;//類股

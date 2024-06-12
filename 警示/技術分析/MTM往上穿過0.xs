@@ -1,4 +1,4 @@
-{@type:sensor|@guid:d1049478207c43919727cea12f242134|@path:/技術分析/MTM往上穿過0|@hash:301287abd4cfc8f3d7aa6c252d90fb1b}
+{@type:sensor}
 // MTM往上穿越0軸
 //
 Input: Length(10);

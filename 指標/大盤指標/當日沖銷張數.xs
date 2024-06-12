@@ -1,4 +1,4 @@
-{@type:indicator|@guid:5e69133f8ed04b5ca68f19e645691fcc|@path:/大盤指標/當日沖銷張數|@hash:780c630357d9bf285a5eb8b26103016a}
+{@type:indicator}
 input:length(5,"期數");
 
 if barfreq = "Tick" or barfreq = "Min"

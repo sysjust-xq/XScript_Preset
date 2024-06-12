@@ -1,4 +1,4 @@
-{@type:sensor|@guid:488746428b3542e99048b2f4ba687c51|@path:/價量指標/當日時段區間價跌破|@hash:3205165d72a6109e807a5ed242b9a510}
+{@type:sensor}
 input:initialtime(090000); setinputname(1,"起算時間HHmmss");
 input:timeline(100000);   setinputname(2,"截止時間HHmmss");
 input:CloseAtLow(false); setinputname(3,"收盤價亦須創新低");

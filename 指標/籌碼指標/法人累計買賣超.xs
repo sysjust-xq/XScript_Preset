@@ -1,4 +1,4 @@
-{@type:indicator|@guid:41fa630c7b2b4ea3bc20212bb6bea3be|@path:/籌碼指標/法人累計買賣超|@hash:d9cf5ea868c12ba9ed76c58078d56fac}
+{@type:indicator}
 input: Length(5); setinputname(1,"計算天數");
 input:TXT("僅適用日線以上"); setinputname(2,"使用限制");
 

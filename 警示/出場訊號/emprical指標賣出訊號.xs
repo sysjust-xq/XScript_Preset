@@ -1,4 +1,4 @@
-{@type:sensor|@guid:c4e587f8a52f43528a343db7626e45d1|@path:/出場訊號/emprical指標賣出訊號}
+{@type:sensor}
 input:period(20),delta(0.1),fraction(0.1);
 variable: price(0),gamma(0),alpha(0),beta(0),BP(0),mean(0),peak(0),valley(0)
 ,avgpeak(0),avgvalley(0);

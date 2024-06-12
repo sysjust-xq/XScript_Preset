@@ -1,4 +1,4 @@
-{@type:sensor|@guid:cdfef9c494854e78953432259b3c9e24|@path:/1.籌碼監控/實戶潛進終抬頭|@hash:ca83d63fb4b742b0fbcefb245a395e77}
+{@type:sensor}
 input: pastDays(3); setinputname(1,"計算天數");
 input: _BuyRatio(20); setinputname(2,"買超佔比例(%)");
 input: length(20); setinputname(3, "整理期間");

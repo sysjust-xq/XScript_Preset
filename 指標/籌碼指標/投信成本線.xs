@@ -1,4 +1,4 @@
-{@type:indicator|@guid:8ae131cd92c04cb2a8fffb66110db4a0|@path:/籌碼指標/投信成本線|@hash:2bc21a5e0fb0894b26dd689edcb7412e}
+{@type:indicator}
 
 {
 	籌碼指標。

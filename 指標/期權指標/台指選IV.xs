@@ -1,4 +1,4 @@
-{@type:indicator|@guid:68f71f14bb774362a0e6b3a320e4455c|@path:/期權指標/台指選IV|@hash:4acb7a0d0345ed3bfb34977f4310b7b7}
+{@type:indicator}
 input: 
 	iRate100(2,"無風險利率%");
 

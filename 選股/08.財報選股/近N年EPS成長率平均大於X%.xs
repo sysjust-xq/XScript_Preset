@@ -1,4 +1,4 @@
-{@type:filter|@guid:dfbbd6c2a6be4c47b21c7dd24498cb4b|@path:/08.財報選股/近N年EPS成長率平均大於X%}
+{@type:filter}
 input: N(5), X(10);
 setbarfreq("Y");
 

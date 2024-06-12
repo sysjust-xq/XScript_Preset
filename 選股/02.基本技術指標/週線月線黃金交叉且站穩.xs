@@ -1,4 +1,4 @@
-{@type:filter|@guid:b9047b76837646f5a0abfe47e81df388|@path:/02.基本技術指標/週線月線黃金交叉且站穩}
+{@type:filter}
 setbarfreq("AD");
 
 value1=average(close,5);

@@ -1,4 +1,4 @@
-{@type:function_bool|@guid:e83503578ef449c6a92df72d23546943|@path:/邏輯判斷/IsXLOrder}
+{@type:function_bool}
 {
 	判斷成交金額是否是特大單
 	

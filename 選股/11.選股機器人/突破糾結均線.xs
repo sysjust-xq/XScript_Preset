@@ -1,4 +1,4 @@
-{@type:filter|@guid:65a5087a119247358adfe6081b94d8d0|@path:/11.選股機器人/突破糾結均線}
+{@type:filter}
 setbarfreq("AD");
 
 input: shortlength(5); setinputname(1,"短期均線期數");

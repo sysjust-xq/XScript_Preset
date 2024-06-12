@@ -1,4 +1,4 @@
-{@type:sensor|@guid:12e27e8057154923a53bc727bb7cca36|@path:/波段操作型/多次到底而破}
+{@type:sensor}
 input:day(100,"計算區間");
 input:band1(4,"三高點之高低價差");
 

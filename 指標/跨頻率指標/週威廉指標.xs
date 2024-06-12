@@ -1,4 +1,4 @@
-{@type:indicator|@guid:f4799299c7774b67a320a34db17adaba|@path:/跨頻率指標/週威廉指標|@hash:c2dab04039afdae1ee02cf5baff39b9c}
+{@type:indicator}
 // 跨頻率週威廉指標
 // 不支援大頻率跨小頻率，例如：
 // 不支援主頻率週資料，跨頻率計算日威廉技術指標。

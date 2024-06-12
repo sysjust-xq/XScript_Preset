@@ -1,4 +1,4 @@
-{@type:filter|@guid:11d9faea1be74b869586ff80a508ecf8|@path:/03.進階技術分析/底部越來越高且資金流入的蓄勢股}
+{@type:filter}
 input:r1(7);		setinputname(1,"近來漲幅上限%");
 
 SetTotalBar(8);

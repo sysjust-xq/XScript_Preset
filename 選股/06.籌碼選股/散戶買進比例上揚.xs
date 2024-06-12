@@ -1,4 +1,4 @@
-{@type:filter|@guid:8b4514f7f3514eb5a96e701e2ba9f50c|@path:/06.籌碼選股/散戶買進比例上揚}
+{@type:filter}
 Input: r1(50);	setinputname(1, "散戶買進比例下限(%)");
 Input: r2(500);	setinputname(2, "五日均量下限(張)");
 

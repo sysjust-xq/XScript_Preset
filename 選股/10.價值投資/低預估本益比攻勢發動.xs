@@ -1,4 +1,4 @@
-{@type:filter|@guid:0aeaacf39a494b2fb5817279d5436930|@path:/10.價值投資/低預估本益比攻勢發動}
+{@type:filter}
 value1=GetField("月營收","M");//單位:億元
 value2=GetField("稅後淨利率","Q");
 value3=GetField("最新股本");//單位:億元

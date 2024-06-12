@@ -1,4 +1,4 @@
-{@type:indicator|@guid:dc5ddd98298c4db4bddcc37bf420ab22|@path:/籌碼高手/現股當沖金額|@hash:50d163969fdd0f01077efa9962d15960}
+{@type:indicator}
 condition996 = symbolexchange = "TW" and symboltype = 2;//個股
 condition994 = symbol = "TSE.TW" or symbol = "TWSE.FS" or symbol = "OTC.TW";//大盤
 condition993 = symbolexchange = "TW" and symboltype = 1;//類股

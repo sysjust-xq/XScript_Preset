@@ -1,4 +1,4 @@
-{@type:indicator|@guid:d050d61b5097421fbf92b41f2e4fbbd2|@path:/XQ技術指標/MI(質量指標)|@hash:f34c9e18aa067e9c39030bdf9cddf7dc}
+{@type:indicator}
 // XQ: MI指標
 //
 input: Length(9), SumLength(25);

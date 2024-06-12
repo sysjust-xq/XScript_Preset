@@ -1,4 +1,4 @@
-{@type:sensor|@guid:036e943c0bb94ff7884b930165780dfe|@path:/短線操作型/投信殺完之跌深反彈}
+{@type:sensor}
 input:day(5); setinputname(1,"投信連續賣超天數");
 input:ratio(60);setinputname(2,"合計賣超減持幅度%");
 input:TXT1("僅適用日線"); setinputname(3,"使用限制");

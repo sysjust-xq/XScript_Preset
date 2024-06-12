@@ -1,4 +1,4 @@
-{@type:sensor|@guid:a7c0b736eb9d4788bb70d3018d03df41|@path:/3.出場常用警示/高檔出現黑暗之星|@hash:c73dd3e2388d9e49522db7ffae1c48f0}
+{@type:sensor}
 input:Length(10); setinputname(1,"計算期數");
 
 settotalbar(Length + 3);

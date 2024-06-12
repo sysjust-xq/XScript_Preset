@@ -1,4 +1,4 @@
-{@type:indicator|@guid:395edb13d5e146469b22486090b9a6ae|@path:/XQ技術指標/WAD 威廉多空力度線|@hash:6b0394a75b76af0f1eb408625a64d15d}
+{@type:indicator}
 // XQ: WA/D 指標
 //
 

@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:0ed5e1d5d8554fb0899252a205d86c15|@path:/0-基本語法/09-CancelAllOrders}
+{@type:autotrade}
 {
 此為 CancelAllOrders 的範例腳本
 腳本將會在啟動時直接下出委託價為跌停價的買進委託 (只會委託一次)，若委託未成交的話則在N分鐘以後刪除委託。

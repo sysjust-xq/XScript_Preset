@@ -1,4 +1,4 @@
-{@type:indicator|@guid:e6d4df1f4cbb483eaaa26bc25a74f1b2|@path:/量能指標/修正式價量指標|@hash:5173ecbf4f39a3ddb0151c9eb7d32045}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/修正式價量指標vptvolume-price-trend/

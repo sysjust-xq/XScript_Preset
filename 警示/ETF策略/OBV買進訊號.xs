@@ -1,4 +1,4 @@
-{@type:sensor|@guid:fd98c6104c834d068a40f91075c329c6|@path:/ETF策略/OBV買進訊號}
+{@type:sensor}
 variable: obvolume(0);
 
 if CurrentBar = 1 then

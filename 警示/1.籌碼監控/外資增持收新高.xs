@@ -1,4 +1,4 @@
-{@type:sensor|@guid:3a0986130d5f422ea4cdde96468d4058|@path:/1.籌碼監控/外資增持收新高|@hash:d6938bef32f136818ad02c5324c14593}
+{@type:sensor}
 input: pastDays(3); setinputname(1,"近期天數");
 input: _buyAmount(3000); setinputname(2,"累積金額(萬)");
 input:TXT("僅適用日線"); setinputname(3,"使用限制");

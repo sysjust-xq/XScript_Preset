@@ -1,4 +1,4 @@
-{@type:indicator|@guid:c0b7451788f948fca34252c325c17eae|@path:/籌碼高手/借券|@hash:c5e6eb667f4b32085ce3b5dd05340bd3}
+{@type:indicator}
 //借券餘額市值公式參考：
 //http://www.twse.com.tw/ch/trading/SBL/TWT72U/TWT72U.php
 

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:cf0009882f00486088d9664b0bc6a492|@path:/波段操作型/長波段回升|@hash:7b94012dc6859c30b8d5097af36072b9}
+{@type:sensor}
 input: Length1(30); setinputname(1,"落底天數");
 input: Size1(2000); setinputname(2,"量縮張數");
 input: Length2(20); setinputname(3,"籌碼沉澱天數");

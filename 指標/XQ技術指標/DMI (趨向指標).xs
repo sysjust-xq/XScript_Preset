@@ -1,4 +1,4 @@
-{@type:indicator|@guid:c9a294ef73c640eba3e1eed6ae5f8575|@path:/XQ技術指標/DMI (趨向指標)|@hash:5ef94733c17c4460ba2db2858acacadf}
+{@type:indicator}
 // XQ: DMI指標
 //
 input: Length(14);

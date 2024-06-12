@@ -1,4 +1,4 @@
-{@type:function|@guid:9c4f476d319b4f109a8dc8557099ded4|@path:/統計分析/VariancePS|@hash:1ead4c7a9dc2388cd65d182e3ac5cdc5}
+{@type:function}
 SetBarMode(1);
 
 input:  thePrice(numericseries), Length(numericsimple), DataType(numericsimple);

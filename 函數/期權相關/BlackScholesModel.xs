@@ -1,4 +1,4 @@
-{@type:function|@guid:8462f7081ead4113ba3aef780bc1040f|@path:/期權相關/BlackScholesModel|@hash:3297e530ac007aaeebc9d5d965f8ff94}
+{@type:function}
 SetBarMode(1);
 
 input:

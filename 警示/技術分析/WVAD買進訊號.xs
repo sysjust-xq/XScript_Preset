@@ -1,4 +1,4 @@
-{@type:sensor|@guid:0830029a2e35443792f4d89a5d7f59f1|@path:/技術分析/WVAD買進訊號}
+{@type:sensor}
 //ETF 作多  40天後出場
 
 input:length(14);

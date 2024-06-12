@@ -1,4 +1,4 @@
-{@type:filter|@guid:82d6c26db860466596f281178d172c78|@path:/08.財報選股/葛拉罕的選股兩標準}
+{@type:filter}
 value1=summation(GetField("本期稅後淨利","Q"),4);//單位:百萬
 value2=GetField("負債總額","Q");
 value3=GetField("資產總額","Q");

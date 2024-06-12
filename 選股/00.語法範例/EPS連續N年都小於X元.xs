@@ -1,4 +1,4 @@
-{@type:filter|@guid:c6c29031236e4001ad252a37ab7ac3d7|@path:/00.語法範例/EPS連續N年都小於X元}
+{@type:filter}
 input:N(4); setinputname(1, "期別");
 input:X(0); setinputname(2, "元"); 
 

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:86964cd567ca481ab64ce6217c29d5d8|@path:/技術指標/勁道指標|@hash:9ed381b9091ac62d38049b51f2d3d7fd}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/積極勁道指標/

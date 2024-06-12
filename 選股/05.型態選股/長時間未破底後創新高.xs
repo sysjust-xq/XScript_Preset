@@ -1,4 +1,4 @@
-{@type:filter|@guid:e4102ff10eb44bd2b7dc2e3425b5c2b3|@path:/05.型態選股/長時間未破底後創新高}
+{@type:filter}
 setbarfreq("AD");
 
 input:period(90,"未破底區間");

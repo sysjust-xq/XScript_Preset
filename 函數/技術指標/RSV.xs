@@ -1,4 +1,4 @@
-{@type:function|@guid:8fc14acbedda4e7b86a6095eea9357d9|@path:/技術指標/RSV}
+{@type:function}
 SetBarMode(1);
 
 {

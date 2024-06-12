@@ -1,4 +1,4 @@
-{@type:filter|@guid:f442df11ac2b4fea83da40f61b3c5903|@path:/04.價量選股/炒高後無量反轉下跌}
+{@type:filter}
 setbarfreq("AD");
 
 input: Periods(150,"計算期數");

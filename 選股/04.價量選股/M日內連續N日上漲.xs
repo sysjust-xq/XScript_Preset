@@ -1,4 +1,4 @@
-{@type:filter|@guid:b39f7eb1c4214bf387d37072c4f8df74|@path:/04.價量選股/M日內連續N日上漲}
+{@type:filter}
 input:day(11);
 input:m1(3);
 setinputname(1,"計算天期");

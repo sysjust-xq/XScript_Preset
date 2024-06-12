@@ -1,4 +1,4 @@
-{@type:filter|@guid:5da5f230d0b54cbeaa49b2c19c8cef8b|@path:/06.籌碼選股/投信爭買的小型成長股}
+{@type:filter}
 input: miniratio(10); 	setinputname(1,"投信買進佔今日總量%");
 input: lv(5000); 		setinputname(2,"投信持股張數上限");
 input: holdratio(10); 	setinputname(3,"投信持股比例上限%");

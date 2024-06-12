@@ -1,4 +1,4 @@
-{@type:indicator|@guid:4d24582e97534c059b909e24e9c3a3b0|@path:/籌碼指標/主力成本線|@hash:40f13bfe00b60787703b6168cc37a020}
+{@type:indicator}
 
 {
 	籌碼指標。

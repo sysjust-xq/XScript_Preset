@@ -1,4 +1,4 @@
-{@type:function|@guid:e87d8c4f926443cdbe95efbdeee5d55e|@path:/Array函數/ArrayMASeries}
+{@type:function}
 {
 	把某個數值序列的MA轉成Array
 	

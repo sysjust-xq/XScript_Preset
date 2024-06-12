@@ -1,4 +1,4 @@
-{@type:sensor|@guid:58cabd4e651e46658ec8a8730a2a594a|@path:/技術分析/RSI死亡交叉|@hash:f93d67756fe641e8a7d56fca9d2478fd}
+{@type:sensor}
 // RSI短天期往下穿越長天期
 //
 input: ShortLength(6), LongLength(12);

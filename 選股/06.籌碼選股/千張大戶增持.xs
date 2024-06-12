@@ -1,4 +1,4 @@
-{@type:filter|@guid:116254ea7c794e3fbe952a49c9be1c11|@path:/06.籌碼選股/千張大戶增持}
+{@type:filter}
 input: ratio(10, "增加比例%");
 
 setbarfreq("W");

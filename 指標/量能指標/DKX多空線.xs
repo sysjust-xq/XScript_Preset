@@ -1,4 +1,4 @@
-{@type:indicator|@guid:498483ff92a445f29c296ebfd415fb13|@path:/量能指標/DKX多空線|@hash:50a2eaafcac7c148a893663fb04aa492}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/dkx多空線/

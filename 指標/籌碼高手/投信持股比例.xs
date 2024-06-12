@@ -1,4 +1,4 @@
-{@type:indicator|@guid:2e12dfbe4e794ace8dbeac7bf486f265|@path:/籌碼高手/投信持股比例|@hash:1f4933b7222393438bb4ac5e2391528d}
+{@type:indicator}
 condition999 = symbolexchange = "TW" or symbolexchange = "TE";//台股+興櫃
 condition998 = condition999 = true and symboltype = 2;//個股+興櫃
 

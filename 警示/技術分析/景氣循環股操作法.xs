@@ -1,4 +1,4 @@
-{@type:sensor|@guid:13a3185a5ab74e8e96009ccf649c6fd7|@path:/技術分析/景氣循環股操作法}
+{@type:sensor}
 input: shortlength(5); setinputname(1,"短期均線期數");
 input: midlength(10); setinputname(2,"中期均線期數");
 input: Longlength(20); setinputname(3,"長期均線期數");

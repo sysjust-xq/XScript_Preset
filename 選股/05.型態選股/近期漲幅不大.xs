@@ -1,4 +1,4 @@
-{@type:filter|@guid:686059242586449fb769a2f717ea62a9|@path:/05.型態選股/近期漲幅不大}
+{@type:filter}
 input:period(20,"計算區間");
 input:ratio(7,"最低漲跌幅");
 

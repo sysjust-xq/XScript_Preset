@@ -1,4 +1,4 @@
-{@type:sensor|@guid:1e718d5d101c4b35ac79c63a2be9e10c|@path:/短線操作型/加速趕底中|@hash:c8c211c4214204209e7f494eea6ee26d}
+{@type:sensor}
 settotalbar(210);
 
 if Close[4] > Close *1.07 and

@@ -1,4 +1,4 @@
-{@type:filter|@guid:1bc25f30cadb48ef811fe221d697fc9e|@path:/02.基本技術指標/CCI超買|@hash:3af7dd687f2c9babc77d3d8dd737e4a3}
+{@type:filter}
 // CCI超買
 //
 Input: Length(14), AvgLength(9), OverBought(100);

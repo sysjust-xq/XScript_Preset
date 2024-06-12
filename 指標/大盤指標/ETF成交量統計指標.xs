@@ -1,4 +1,4 @@
-{@type:indicator|@guid:a6fa0fc2d0864c5e91cb1e2dd7cb6151|@path:/大盤指標/ETF成交量統計指標|@hash:c9b573964f85fbb3a11886b50ffd98f7}
+{@type:indicator}
 array:ETF[50](0);
 etf[1]=GetSymbolField("0050.tw","成交金額");
 etf[2]=GetSymbolField("0051.tw","成交金額");

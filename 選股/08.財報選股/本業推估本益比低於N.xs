@@ -1,4 +1,4 @@
-{@type:filter|@guid:e871341fd0a444b7ba06cc1053f3d14e|@path:/08.財報選股/本業推估本益比低於N}
+{@type:filter}
 input:epsl(15,"預估本益比上限");
 
 value3= summation(GetField("營業利益","Q"),4); //單位百萬;

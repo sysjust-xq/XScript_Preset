@@ -1,4 +1,4 @@
-{@type:indicator|@guid:e06fa82c48fe4213936cb153d22ca3a6|@path:/技術指標/ADTM動態買賣氣指標|@hash:a13bc2304c49fdfcbf86e9907e287b5e}
+{@type:indicator}
 input: length(23);		setinputname(1, "天期");
 input: period(8);		setinputname(2, "平均");
 

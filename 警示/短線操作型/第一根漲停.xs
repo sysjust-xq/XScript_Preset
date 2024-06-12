@@ -1,4 +1,4 @@
-{@type:sensor|@guid:739e390544124481be92e61f4f6ead8f|@path:/短線操作型/第一根漲停}
+{@type:sensor}
 input: Periods(5); setinputname(1,"N天內第一根漲停");
 input: Size(1500); setinputname(2,"漲停委賣張數");
 settotalbar(Periods + 3);

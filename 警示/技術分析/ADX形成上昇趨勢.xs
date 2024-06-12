@@ -1,4 +1,4 @@
-{@type:sensor|@guid:b7ad2f9380de43a393d6c90327092d9b|@path:/技術分析/ADX形成上昇趨勢}
+{@type:sensor}
 input: Length(14, "期數"), Threshold(25, "穿越值");
 
 variable: pdi_value(0), ndi_value(0), adx_value(0);

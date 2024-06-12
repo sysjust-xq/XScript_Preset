@@ -1,4 +1,4 @@
-{@type:filter|@guid:c28600e57e674cf78362d89047b85d8d|@path:/07.月營收選股/月營收創新低}
+{@type:filter}
 input:period(36, "期別");
 settotalbar(period + 5);
 

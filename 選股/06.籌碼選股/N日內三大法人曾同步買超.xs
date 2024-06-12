@@ -1,4 +1,4 @@
-{@type:filter|@guid:d1d3f08a77b84e80902d347f41bc9c87|@path:/06.籌碼選股/N日內三大法人曾同步買超}
+{@type:filter}
 input:days(20,"計算天期");
 setbarfreq("D");
 settotalbar(days+1);

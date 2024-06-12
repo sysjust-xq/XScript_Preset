@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:fb9bc0a695b94bb78b763b660366eddc|@path:/3-Algo策略委託/05-冰山委託單(Iceberg)}
+{@type:autotrade}
 {
 	冰山單(Iceberg): 把要買進的數量分批低掛
 

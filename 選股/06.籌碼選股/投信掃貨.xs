@@ -1,4 +1,4 @@
-{@type:filter|@guid:1efe9ef3693f40569116f0e4c91d08d9|@path:/06.籌碼選股/投信掃貨}
+{@type:filter}
 input: pastDays(5); 		setinputname(1,"計算天數");
 input: _BuyRatio(10); 		setinputname(2,"買超佔比例(%)");
 

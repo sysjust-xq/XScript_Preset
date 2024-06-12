@@ -1,4 +1,4 @@
-{@type:sensor|@guid:582aa53d76fd4a6888cc41113edca761|@path:/酒田戰法/空頭吞噬|@hash:dbd1d2bc644805d684cd3b663c6b8725}
+{@type:sensor}
 {																						
 [檔名:]	空頭吞噬			[資料夾:]	酒田戰法	[適用方向]	空															
 [說明:]	紅棒後 開高下跌破昨低收長黑K棒																																									

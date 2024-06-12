@@ -1,4 +1,4 @@
-{@type:indicator|@guid:b737c85bcc594351bead8f7febf2befc|@path:/跨頻率指標/週KD|@hash:24be3d49a1af0e65f2558e32b9775732}
+{@type:indicator}
 // 跨頻率週KD指標
 // 不支援大頻率跨小頻率，例如：
 // 不支援主頻率週資料，跨頻率計算日KD技術指標。

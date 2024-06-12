@@ -1,4 +1,4 @@
-{@type:sensor|@guid:dac915e21c7742b3904ef5eae49aa12e|@path:/短線操作型/投信搶買的股票}
+{@type:sensor}
 input: miniratio(10); setinputname(1,"投信買進佔今日總量%");
 input: lv(2000); setinputname(2,"投信持股張數上限");
 input: holdratio(10); setinputname(3,"投信持股比例上限%");

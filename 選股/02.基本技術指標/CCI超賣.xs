@@ -1,4 +1,4 @@
-{@type:filter|@guid:8a7349fc0d59410ebd3efed7a9f3552c|@path:/02.基本技術指標/CCI超賣|@hash:153a7412931d724a0f5c1f2adbfdafa8}
+{@type:filter}
 // CCI超賣
 //
 Input: Length(14), AvgLength(9), OverSold(-100);

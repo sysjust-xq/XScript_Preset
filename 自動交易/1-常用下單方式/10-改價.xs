@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:58b49e70d09842f2afcc017b9d856436|@path:/1-常用下單方式/10-改價}
+{@type:autotrade}
 {
 	修改尚未完全成交的委託的價格
 }

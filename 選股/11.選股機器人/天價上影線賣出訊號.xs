@@ -1,4 +1,4 @@
-{@type:filter|@guid:f6fee16dfb4345eba0b3664e108a3fb5|@path:/11.選股機器人/天價上影線賣出訊號}
+{@type:filter}
 setbarfreq("AD");
 
 variable:Kprice(0);

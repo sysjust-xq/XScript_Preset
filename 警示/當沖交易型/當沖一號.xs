@@ -1,4 +1,4 @@
-{@type:sensor|@guid:33f4a52a15cf48a8a9cc478003bd0751|@path:/當沖交易型/當沖一號}
+{@type:sensor}
 if barfreq <>"Min" or  barinterval<> 1 then raiseruntimeerror("歹勢，本腳本只適用於1分鐘線");
 
 variable:count(0);

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:c9ef029cd09b423ebb7b149b4ce85b39|@path:/量能指標/當日成交總筆數|@hash:a9a1dbe7ebd2889dbebf59c1b535d5aa}
+{@type:indicator}
 input:p1(5,"短天期");
 input:p2(20,"長天期");
 

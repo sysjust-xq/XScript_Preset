@@ -1,4 +1,4 @@
-{@type:indicator|@guid:a469d291cbaa42c69f901024e5cd20ce|@path:/技術指標/短線交易比例|@hash:18d481113dc5fcec3f2419e0abfa9d4b}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/短線過熱的指標/

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:83709681df144ae4803b4fbc2bb3bf0c|@path:/大盤指標/ALF亞歷山大過濾指標|@hash:3f33b14f5f64cbc4f7724e438c488cae}
+{@type:indicator}
 input: length(10);		setinputname(1, "天期");
 
 Value1 = close / close[length-1];

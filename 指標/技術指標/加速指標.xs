@@ -1,4 +1,4 @@
-{@type:indicator|@guid:81cbaaffd9084e5cb78d41defd7128a1|@path:/技術指標/加速指標|@hash:5d47cd484c6ed69adb178b546a5f8109}
+{@type:indicator}
 input:period1(5,"計算天期");
 input:period2(9,"MA天期");
 

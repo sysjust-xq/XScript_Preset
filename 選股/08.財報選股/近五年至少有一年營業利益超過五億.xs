@@ -1,4 +1,4 @@
-{@type:filter|@guid:5e9fc3867a37436cbdf39d39c1c1a753|@path:/08.財報選股/近五年至少有一年營業利益超過五億}
+{@type:filter}
 input:years(5,"期間");
 setbarfreq("Y");
 settotalbar(5);

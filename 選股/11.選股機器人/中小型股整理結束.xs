@@ -1,4 +1,4 @@
-{@type:filter|@guid:ea422dd5b2694935bc5b9fc3bc86666b|@path:/11.選股機器人/中小型股整理結束}
+{@type:filter}
 setbarfreq("AD");
 
 //盤整後噴出

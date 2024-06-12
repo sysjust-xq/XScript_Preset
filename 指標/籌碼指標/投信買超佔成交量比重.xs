@@ -1,4 +1,4 @@
-{@type:indicator|@guid:91e46807a54143e9b69cce4370b2d5d6|@path:/籌碼指標/投信買超佔成交量比重|@hash:b3c268f0ac6acc4c8a232008a449ee72}
+{@type:indicator}
 input:length(5,"期數"),TXT("僅支援日線以上");
 var:_strplot1("");
 

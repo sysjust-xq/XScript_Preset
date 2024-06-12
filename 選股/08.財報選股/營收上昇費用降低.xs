@@ -1,4 +1,4 @@
-{@type:filter|@guid:906c238872b64297b0307cca16722da1|@path:/08.財報選股/營收上昇費用降低}
+{@type:filter}
 input:period(5,"計算的季別");
 input:count(2,"符合條件之最低次數");
 setbarfreq("Q");

@@ -1,4 +1,4 @@
-{@type:filter|@guid:8ef4c22f234647f193faf08b063be06b|@path:/08.財報選股/企業價值除以自由現金流的倍數低於一水準}
+{@type:filter}
 input: t1(4,"倍數");
 setbarfreq("Q");
 settotalbar(4);

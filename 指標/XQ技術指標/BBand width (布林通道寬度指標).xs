@@ -1,4 +1,4 @@
-{@type:indicator|@guid:94d53db3043742bcb890318a27b58367|@path:/XQ技術指標/BBand width (布林通道寬度指標)|@hash:1ce6203596f5b06b52e9cac68a991159}
+{@type:indicator}
 // XQ: BBandWidth指標
 //
 input: Length(20), UpperBand(2), LowerBand(2), EMALength(3);

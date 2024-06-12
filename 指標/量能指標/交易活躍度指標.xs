@@ -1,4 +1,4 @@
-{@type:indicator|@guid:a10fb9aebf8544089eb612179c976209|@path:/量能指標/交易活躍度指標|@hash:fbb22e3b72630ea377be810cb05ba5d2}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/交易異常活躍指標/

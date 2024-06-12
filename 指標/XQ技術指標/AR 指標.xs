@@ -1,4 +1,4 @@
-{@type:indicator|@guid:2c13bfea4f9d4190938d0d605b5e1877|@path:/XQ技術指標/AR 指標|@hash:a1df56126a9fff5072db4c738cd1d4b1}
+{@type:indicator}
 // XQ: AR指標
 // 
 input: Length(26);

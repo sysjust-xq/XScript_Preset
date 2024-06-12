@@ -1,4 +1,4 @@
-{@type:indicator|@guid:ab0cc0d7c04042da90ff62c75929c4a8|@path:/籌碼指標/法人買進比例|@hash:6a152bafa2ca0a17106b5c6e82de8827}
+{@type:indicator}
 {
 指標說明
 收錄於「三週學會程式交易：打造你的第一筆自動化交易」 326頁

@@ -1,4 +1,4 @@
-{@type:function|@guid:69c88214cb0c4f3582aab4408824ea0a|@path:/趨勢分析/Angleprice}
+{@type:function}
 input:Date1(numeric),ang(numeric);
 
 variable:Date1Price(0);

@@ -1,4 +1,4 @@
-{@type:filter|@guid:6839c5ea032d4cd2963a71bfa23c0a1c|@path:/08.財報選股/股東權益報酬率高且穩定}
+{@type:filter}
 input:years(5);		setinputname(1,"評估期間(年)");
 input:r1(15);		setinputname(2,"ROE下限(%)");
 input:r2(3);		setinputname(3,"ROE最大差異(%)");

@@ -1,4 +1,4 @@
-{@type:filter|@guid:9977ae93a9414cfb8e85b5cb659d737b|@path:/06.籌碼選股/大跌後法人散戶清浮額}
+{@type:filter}
 input:period(10);	setinputname(1,"計算跌幅區間");
 input:percent1(10);	setinputname(2,"區間最小跌幅");
 

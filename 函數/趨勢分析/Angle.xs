@@ -1,4 +1,4 @@
-{@type:function|@guid:9b53abb05bd943c58357ecbe2cc3f51f|@path:/趨勢分析/Angle|@hash:499f32ee4620c010956f07dc3a87914e}
+{@type:function}
 SetBarMode(1);
 
 input:Date1(numeric),Date2(numeric);

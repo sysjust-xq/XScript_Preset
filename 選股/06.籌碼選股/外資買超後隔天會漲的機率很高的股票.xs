@@ -1,4 +1,4 @@
-{@type:filter|@guid:9e853bf3989844f5becc328739b1d9af|@path:/06.籌碼選股/外資買超後隔天會漲的機率很高的股票}
+{@type:filter}
 input:n(500,"樣本數");
 settotalbar(n);
 value1=GetField("外資買賣超","D");

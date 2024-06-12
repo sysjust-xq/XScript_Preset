@@ -1,4 +1,4 @@
-{@type:function|@guid:162ffb45c75346a596029f2fea1df8c2|@path:/技術指標/ACC}
+{@type:function}
 SetBarMode(1);
 
 {

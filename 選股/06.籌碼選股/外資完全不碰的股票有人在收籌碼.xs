@@ -1,4 +1,4 @@
-{@type:filter|@guid:44e010933de040d78a8b61740baae552|@path:/06.籌碼選股/外資完全不碰的股票有人在收籌碼}
+{@type:filter}
 input: period(5);				setinputname(1, "計算期間");
 input: investorLimit(2000);		setinputname(2, "外資持股上限");
 input: ratio(50);				setinputname(3, "主力買張比重(%)");

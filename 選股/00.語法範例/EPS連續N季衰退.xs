@@ -1,4 +1,4 @@
-{@type:filter|@guid:bfc890ba90504a41a4244c6602bf3844|@path:/00.語法範例/EPS連續N季衰退}
+{@type:filter}
 input:N(4); SetInputName(1, "期別");
  
 SetTotalBar(3); 

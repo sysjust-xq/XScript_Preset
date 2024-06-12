@@ -1,4 +1,4 @@
-{@type:indicator|@guid:ea5cf57b37f343cd822648293729522d|@path:/技術指標/順勢指標|@hash:e2d79674b345d89008b24516c6d52705}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/為自己的觀察名單標上交易訊號/

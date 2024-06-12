@@ -1,4 +1,4 @@
-{@type:sensor|@guid:4227a50780f5449082c36ad0321772cf|@path:/價量指標/當日量跌破|@hash:35994dd86122b4301b844de446f4b4ff}
+{@type:sensor}
 input:initialtime(090000); setinputname(1,"起算時間HHmmss");
 input:timeline(100000);   setinputname(2,"截止時間HHmmss");
 settotalbar(50);

@@ -1,4 +1,4 @@
-{@type:filter|@guid:3fb10266a9d8454aadd68b415ff27b75|@path:/04.價量選股/修正式價量指標黃金交叉}
+{@type:filter}
 setbarfreq("AD");
 
 input:day(10, "移動平均線天數");

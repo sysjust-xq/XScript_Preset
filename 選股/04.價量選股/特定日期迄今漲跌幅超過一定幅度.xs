@@ -1,4 +1,4 @@
-{@type:filter|@guid:0f860762f43e4f75a83021b0affeee58|@path:/04.價量選股/特定日期迄今漲跌幅超過一定幅度}
+{@type:filter}
 input:startdate(20160203);
 input:ratio(15,"漲幅下限");
 

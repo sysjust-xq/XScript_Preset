@@ -1,4 +1,4 @@
-{@type:function|@guid:2661174c578842599ba79c24c1c33cd6|@path:/日期相關/NthDayOfMonth|@hash:60360182a4fed373cc1fc8ef8b0a9db0}
+{@type:function}
 SetBarMode(1);
 
 // 計算自某一天起算的第N個星期序數的日期

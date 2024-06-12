@@ -1,4 +1,4 @@
-{@type:filter|@guid:0e2b4ce62a5a4fb78a5de1d875b2f7dd|@path:/04.價量選股/底部愈墊愈高且資金流入的蓄勢股}
+{@type:filter}
 input:r1(7,"近來漲幅上限%");
 
 value1 = RateOfChange(close, 12);

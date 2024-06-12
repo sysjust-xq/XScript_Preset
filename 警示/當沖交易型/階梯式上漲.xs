@@ -1,4 +1,4 @@
-{@type:sensor|@guid:834fb73a80e14a32aae7214e574b0857|@path:/當沖交易型/階梯式上漲}
+{@type:sensor}
 input:TXT1("僅適用1分鐘線"); setinputname(1,"使用限制");
 input:TXT2("只於9:10判斷"); setinputname(2,"使用說明");
 settotalbar(12);

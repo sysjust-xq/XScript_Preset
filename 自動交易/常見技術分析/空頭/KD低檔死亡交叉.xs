@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:248029941d99405f8679a6c9566ebe5c|@path:/常見技術分析/空頭/KD低檔死亡交叉}
+{@type:autotrade}
 // 宣告參數
 input: Length(9, "計算期數"), RSVt(3, "RSVt權數"), Kt(3, "Kt權數"), LowBound(25, "低檔區"), HighBound(75, "高檔區");
 variable: _rsv(0), _k(0), _d(0);

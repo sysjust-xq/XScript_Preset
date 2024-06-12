@@ -1,4 +1,4 @@
-{@type:indicator|@guid:b55560a44d8649bda2b4790cca069ceb|@path:/期權指標/選擇權理論價|@hash:889eca00d04ca0af28aca86767400d56}
+{@type:indicator}
 input: 
 	iRate100(2,"無風險利率%"),
 	iHV(20,"標的歷史波動率計算期間");

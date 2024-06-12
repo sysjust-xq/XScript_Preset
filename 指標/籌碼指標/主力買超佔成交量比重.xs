@@ -1,4 +1,4 @@
-{@type:indicator|@guid:995222bea4e24cd3a884689a23665491|@path:/籌碼指標/主力買超佔成交量比重|@hash:9e17e3164ae9ec2e039f7ccf682ec924}
+{@type:indicator}
 input:length(5,"期數"),TXT("僅支援日線以上");
 var:_strplot1("");
 

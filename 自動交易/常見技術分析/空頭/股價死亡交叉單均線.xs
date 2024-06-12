@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:f9713b0c1fd6436e9bf1fbf6163cdfdf|@path:/常見技術分析/空頭/股價死亡交叉單均線}
+{@type:autotrade}
 // 宣告參數
 input: length(5,"均線期數");
 variable: avgValue(0);

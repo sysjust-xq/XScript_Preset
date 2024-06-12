@@ -1,4 +1,4 @@
-{@type:filter|@guid:ed2bce2e4c69427aba9794b73e7f9561|@path:/05.型態選股/三次到頂而破}
+{@type:filter}
 input: BoxRangePercents(7); setinputname(1,"定義整理區間幅度");
 input: HighAreaPercents(1.5); setinputname(2,"定義區間高檔範圍");
 variable: BoxHigh(0);

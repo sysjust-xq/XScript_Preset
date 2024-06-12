@@ -1,4 +1,4 @@
-{@type:filter|@guid:ec7ac066b57842e68fecdc532b2e8f51|@path:/09.時機操作/台幣升值受災股}
+{@type:filter}
 value1=GetField("每股營業額(元)","Y");
 value2=GetField("外銷比率","Y");
 if value1>20 and value2>90

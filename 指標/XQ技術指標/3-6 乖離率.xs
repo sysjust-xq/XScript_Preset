@@ -1,4 +1,4 @@
-{@type:indicator|@guid:57fee1099c21434eb653fcd209a7619b|@path:/XQ技術指標/3-6 乖離率|@hash:4ed48d0b6548a0d500b45f3ea19dae12}
+{@type:indicator}
 // XQ 3-6 乖離率
 //
 input: Length1(3), Length2(6);

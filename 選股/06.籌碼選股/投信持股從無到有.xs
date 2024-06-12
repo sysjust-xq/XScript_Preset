@@ -1,4 +1,4 @@
-{@type:filter|@guid:c6c6c160db554fab87fb79127cf2be18|@path:/06.籌碼選股/投信持股從無到有}
+{@type:filter}
 input: v1(2000);	setinputname(1, "投信估計持股上限(張)");
 input: v2(300);		setinputname(2, "近一日買賣超(張)");
 

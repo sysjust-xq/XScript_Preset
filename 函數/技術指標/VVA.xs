@@ -1,4 +1,4 @@
-{@type:function|@guid:de20fa236d0842ed9f1e69d8cdcf0cde|@path:/技術指標/VVA}
+{@type:function}
 SetBarMode(2);
 
 // XQ: VVA指標

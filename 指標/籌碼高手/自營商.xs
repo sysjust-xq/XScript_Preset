@@ -1,4 +1,4 @@
-{@type:indicator|@guid:5fb77f475f834d22ba1ec12218dfd3cc|@path:/籌碼高手/自營商|@hash:74f473e26e36e5f73238634dbd8a2b70}
+{@type:indicator}
 input: _input1(1,"自營商",inputkind:= Dict(["全部",1],["自行買賣",2],["避險",3]),quickedit:=true);
 
 condition999 = symbolexchange = "TW" or symbolexchange = "TE";//台股+興櫃

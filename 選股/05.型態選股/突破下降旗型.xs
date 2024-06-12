@@ -1,4 +1,4 @@
-{@type:filter|@guid:3c1437d5cbfa4dee8e02dc05bec5ebfa|@path:/05.型態選股/突破下降旗型}
+{@type:filter}
 input: Length(100);		Setinputname(1, "區間");
 input: UpRatio(2);		SetInputName(2, "當日上漲幅度%");
 input: VolLimit(300);	SetInputName(3, "當日成交量下限");

@@ -1,4 +1,4 @@
-{@type:function|@guid:269d51cbd0a6408ba14995f738941223|@path:/技術指標/TurnOverRate}
+{@type:function}
 input:period(numericsimple);
 value1=GetField("股本(億)")*10000;
 value2=average(volume,period);

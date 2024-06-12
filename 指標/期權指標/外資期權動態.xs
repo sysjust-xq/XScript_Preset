@@ -1,4 +1,4 @@
-{@type:indicator|@guid:335803ceee014540b9b6119a9f1a7d2a|@path:/期權指標/外資期權動態|@hash:e17ebf8eac5b0fe00037cc87b2be5310}
+{@type:indicator}
 input:length(3,"期數");
 
 if barfreq = "Tick" or barfreq = "Min"

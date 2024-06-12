@@ -1,4 +1,4 @@
-{@type:function_bool|@guid:e670c01522de45efa7f74c7f3c15a061|@path:/跨頻率/xf_CrossOver|@hash:9691a21347cd7622112b2973d778515f}
+{@type:function_bool}
 SetBarMode(1);
 
 // 傳入兩個序列(跟目前的頻率不同), 判斷是否crossover

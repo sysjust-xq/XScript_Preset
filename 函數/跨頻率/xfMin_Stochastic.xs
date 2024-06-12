@@ -1,4 +1,4 @@
-{@type:function|@guid:7bc1bae90d2a40d49fd2ed009329e614|@path:/跨頻率/xfMin_Stochastic|@hash:94805b3667918426860a0df5e9043058}
+{@type:function}
 SetBarMode(2);
 
 // 跨頻率Stochastic函數(for KD/RSV相關指標)

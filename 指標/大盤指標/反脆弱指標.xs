@@ -1,4 +1,4 @@
-{@type:indicator|@guid:64a79441b41b44a4b0c3e6d318e1af8c|@path:/大盤指標/反脆弱指標|@hash:dec9eea92d764c979ee2d56f4645da92}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/反脆弱選股法/

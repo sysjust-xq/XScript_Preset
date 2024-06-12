@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:47dcacbbbb414bfaac32b9e50356ffdd|@path:/常見技術分析/多頭/MTM黃金交叉0}
+{@type:autotrade}
 // 宣告參數
 Input: Length(10, "期數");
 

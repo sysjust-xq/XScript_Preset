@@ -1,4 +1,4 @@
-{@type:indicator|@guid:50abea6691c24f32bfc7748a30ccb2b0|@path:/籌碼高手/三方賣盤|@hash:af6a00b08581745c0b20b62488a3194c}
+{@type:indicator}
 condition999 = symbolexchange = "TW" or symbolexchange = "TE";//台股+興櫃
 condition998 = condition999 = true and symboltype = 2;//個股+興櫃
 

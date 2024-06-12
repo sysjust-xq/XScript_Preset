@@ -1,4 +1,4 @@
-{@type:function|@guid:0999f843523c4d6eb18ccc461892eaa2|@path:/期權相關/DaysToExpirationTF|@hash:a7e0ddec8e44b57a6e43f4fce565394c}
+{@type:function}
 SetBarMode(1);
 
 variable:string1(""),string2(""),string3("");

@@ -1,4 +1,4 @@
-{@type:filter|@guid:bc71049b8314425e8989aca352d535d4|@path:/04.價量選股/過去M日有N日HHLL}
+{@type:filter}
 input:days(5,"計算天期");
 input:occurrence(2, "發生次數");
 

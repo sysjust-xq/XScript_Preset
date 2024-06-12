@@ -1,4 +1,4 @@
-{@type:filter|@guid:92648eff5392488cb229855c3946878a|@path:/11.選股機器人/殺過頭}
+{@type:filter}
 setbarfreq("AD");
 
 input:day(5,"短期天數");

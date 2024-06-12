@@ -1,4 +1,4 @@
-{@type:filter|@guid:f625e0da56a94cd880dce05c1b09e3f5|@path:/06.籌碼選股/集保張數減少中}
+{@type:filter}
 input: n(3);			setinputname(1, "計算期間(週)");
 input: Amount(1000);	setinputname(2, "減少張數(張)");
 

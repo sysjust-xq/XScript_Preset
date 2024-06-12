@@ -1,4 +1,4 @@
-{@type:sensor|@guid:d1b7ea3e3126428cade6960c77892023|@path:/短線操作型/投信買張超過成交量一成}
+{@type:sensor}
 input: Ratio(10); setinputname(1,"投信持股%");
 input: Gap(2.5); setinputname(2,"開盤不漲過幅度%");
 input:TXT1("僅適用日線"); setinputname(3,"使用限制");

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:109a715f504c4d07825757071aba0112|@path:/波段操作型/低PB股的逆襲}
+{@type:sensor}
 if GetSymbolField("tse.tw","收盤價") > average(GetSymbolField("tse.tw","收盤價"),10)
 then begin
 	if close<12

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:5fe6942837aa4f32be0648ee5a63db3b|@path:/2.市場常用語/盤中多方警示}
+{@type:sensor}
 settotalbar(20);
 
 array:intrabarpersist Trigger[20](True);

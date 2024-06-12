@@ -1,4 +1,4 @@
-{@type:indicator|@guid:9bb57be62cf845b5996c14adf9099896|@path:/技術指標/多頭動能|@hash:626a07378916805794ed3b17f0c28a9d}
+{@type:indicator}
 input:period(10,"平均值天期");
 
 value1=high-close[1]+low-low[1];

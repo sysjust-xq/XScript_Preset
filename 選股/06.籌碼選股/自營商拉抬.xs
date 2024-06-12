@@ -1,4 +1,4 @@
-{@type:filter|@guid:a8dcda42f51946a9a36821213ed9ea10|@path:/06.籌碼選股/自營商拉抬|@hash:4f776f8010cc087ddc90b9139dab161d}
+{@type:filter}
 // 
 //
 input: Length(10); setinputname(1,"計算天數");

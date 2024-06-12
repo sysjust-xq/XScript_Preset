@@ -1,4 +1,4 @@
-{@type:indicator|@guid:f71041a64056467490b34a40a11baa2b|@path:/技術指標/Chaikin 蔡金波動性指標|@hash:a7e1b6ed38a3a61a2a65732dc61bf73d}
+{@type:indicator}
 // Chaikin Volatility 指標
 //
 input: Length(10), LengthROC(12);

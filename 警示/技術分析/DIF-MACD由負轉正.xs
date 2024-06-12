@@ -1,4 +1,4 @@
-{@type:sensor|@guid:9968ed8227eb4f39b8d84f6e8a2f75bc|@path:/技術分析/DIF-MACD由負轉正|@hash:2a8d3011d9728d4d015061c05ec5cbd9}
+{@type:sensor}
 // DIF-MACD翻正
 //
 input: FastLength(12), SlowLength(26), MACDLength(9);

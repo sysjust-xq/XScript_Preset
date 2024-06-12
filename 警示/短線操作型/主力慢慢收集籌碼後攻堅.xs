@@ -1,4 +1,4 @@
-{@type:sensor|@guid:4433f0b4e8bd43ea81e0888d8c30ccbe|@path:/短線操作型/主力慢慢收集籌碼後攻堅}
+{@type:sensor}
 input:period(10,"籌碼計算天期");
 
 //透過Z的時間安排來決定現在用的是那一根Bar的資料 

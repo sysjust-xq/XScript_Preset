@@ -1,4 +1,4 @@
-{@type:filter|@guid:203b4da02dbb4dbfbafd4b4eff95dc8a|@path:/08.財報選股/現金不少但股價淨值比低}
+{@type:filter}
 input:r1(0,"來自營運之現金流量下限");
 input:r2(10,"現金及約當現金單位億元");
 input:r3(0.8,"股價淨值比上限");

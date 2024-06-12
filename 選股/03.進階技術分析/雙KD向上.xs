@@ -1,4 +1,4 @@
-{@type:filter|@guid:5b1ff3a470ff4a33ace73e300c68567e|@path:/03.進階技術分析/雙KD向上}
+{@type:filter}
 setbarfreq("AD");
 
 input: Length_D(9, "日KD期間");

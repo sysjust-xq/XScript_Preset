@@ -1,4 +1,4 @@
-{@type:sensor|@guid:e4f25db8c30f4cd9a3f1c0aa537fbeab|@path:/技術分析/主力收集完開始拉}
+{@type:sensor}
 //中小型股，持股20天
 //漲幅3%以上
 //爆大量，且一般而言會是月均量1倍以上

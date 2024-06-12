@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:99bffeebcca24917ae3ced18f00ed4ee|@path:/常見技術分析/空頭/股價死亡交叉三均線}
+{@type:autotrade}
 // 宣告參數
 input: shortlength(5,"短期均線期數"), midlength(10,"中期均線期數"), Longlength(20,"長期均線期數");
 variable: shortaverage(0), midaverage(0), Longaverage(0);

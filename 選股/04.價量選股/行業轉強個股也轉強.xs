@@ -1,4 +1,4 @@
-{@type:filter|@guid:392686f5e75c4f5bbbd38fc05f21208d|@path:/04.價量選股/行業轉強個股也轉強}
+{@type:filter}
 input:period(20,"計算區間");
 setbarfreq("D");
 settotalbar(20);

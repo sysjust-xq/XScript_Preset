@@ -1,4 +1,4 @@
-{@type:indicator|@guid:69c9a7b3d7dc4f26baf3e945bcedef4a|@path:/技術指標/ASI(Accumulation Swing Index)振動升降指標|@hash:20508c82a02eb3fe33c6ac184ccad80a}
+{@type:indicator}
 input:length(10,"si的累計長度");
 
 variable:si(0),asi(0);

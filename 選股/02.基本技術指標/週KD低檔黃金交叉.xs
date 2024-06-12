@@ -1,4 +1,4 @@
-{@type:filter|@guid:a5c2d73a0c9547e9a2f0688ffbb7d1b5|@path:/02.基本技術指標/週KD低檔黃金交叉}
+{@type:filter}
 // KD指標, K值由下往上穿越D值
 //
 input: Length(9), RSVt(3), Kt(3);

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:8ad0224c35c245c28c4f563761c496b8|@path:/波段操作型/法人爭下車|@hash:1adc63f5d5e1a60fd5881e9ea34d45f2}
+{@type:sensor}
 input: ForceType(1); setinputname(1,"法人：0=合計 1=外資 2=投信 3=自營商");
 input: Periods(20); setinputname(2,"計算期間");
 input: Percent(5); setinputname(3,"持股減少幅度%");

@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:aa31d08185ce418e81d55552643fdb13|@path:/常見技術分析/多頭/股價黃金交叉單均線}
+{@type:autotrade}
 // 宣告參數
 input: length(5,"均線期數");
 variable: avgValue(0);

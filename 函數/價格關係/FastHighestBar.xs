@@ -1,4 +1,4 @@
-{@type:function|@guid:c25914dff81b464bb32ed807dd1d4dc5|@path:/價格關係/FastHighestBar}
+{@type:function}
 SetBarMode(1);
 
 input:thePrice(numericseries); //"價格序列"

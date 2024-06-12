@@ -1,4 +1,4 @@
-{@type:indicator|@guid:447a4c58ae7b4eee8da5a53010a7d2ea|@path:/XQ量能指標/VR(成交量比率指標)|@hash:6ec86c67f66f74d50da15cfef65b3420}
+{@type:indicator}
 // XQ: VR指標
 //
 input: Length(26);

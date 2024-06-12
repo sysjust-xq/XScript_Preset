@@ -1,4 +1,4 @@
-{@type:filter|@guid:f07cdd2b3ff6457c85096d792624eacc|@path:/04.價量選股/週線二連紅}
+{@type:filter}
 SetBarFreq("AW");
 
 if rateofchange(close,2)[1]>0 and rateofchange(close,2)[2]>0

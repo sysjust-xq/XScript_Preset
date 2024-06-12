@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:b4190ecd9c6844fe80fb160f8beb3f49|@path:/常見技術分析/多頭/短期RSI黃金交叉長期RSI}
+{@type:autotrade}
 // 宣告參數
 input: ShortLength(6, "短期期數"), LongLength(12, "長期期數");
 var:RSI_Short(0), RSI_Long(0);

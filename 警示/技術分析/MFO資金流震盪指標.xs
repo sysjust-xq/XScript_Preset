@@ -1,4 +1,4 @@
-{@type:sensor|@guid:a5b20defdac245bb9e7f9a4816aef3bc|@path:/技術分析/MFO資金流震盪指標}
+{@type:sensor}
 input:period(20,"計算天期");
 
 if range <> 0 and range[1] <> 0 then

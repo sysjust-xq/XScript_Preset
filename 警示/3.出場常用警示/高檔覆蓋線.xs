@@ -1,4 +1,4 @@
-{@type:sensor|@guid:0d56426ab022422baf5720e5a810428c|@path:/3.出場常用警示/高檔覆蓋線|@hash:557e8649f669ed63c744fb39dce20b40}
+{@type:sensor}
 input: Length(10); setinputname(1,"計算期數");
 
 settotalbar(3);

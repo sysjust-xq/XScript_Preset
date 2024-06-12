@@ -1,4 +1,4 @@
-{@type:indicator|@guid:f101d18f43344db78c19f4bf428e340b|@path:/大盤指標/OTC佔大盤成交量比|@hash:1eb6f9a6f6a2ea1d593004c685ed7d70}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/otc跟上市成交量比值是股市多空指標/

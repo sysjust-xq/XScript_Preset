@@ -1,4 +1,4 @@
-{@type:function|@guid:ef0119ecb49d4b7e9ce30027b8a3dfee|@path:/日期相關/LastDayOfMonth|@hash:6881415999f8f5be75b114c599f1a278}
+{@type:function}
 SetBarMode(1);
 
 input: SelectedMonth(numericsimple);

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:ec9bfb113b43440c85ab036f117dbd8d|@path:/大盤指標/委買委賣均張差額|@hash:5c8a6514658d9197e4753207d49ed9f9}
+{@type:indicator}
 {
 指標說明
 收錄於「三週學會程式交易：打造你的第一筆自動化交易」 246頁

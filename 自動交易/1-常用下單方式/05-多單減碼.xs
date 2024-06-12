@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:ab17c3b99ed445ffbcc21fe4cee0b4e9|@path:/1-常用下單方式/05-多單減碼}
+{@type:autotrade}
 {
 	多單減碼
 }

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:af16457a10c6411a8655e9bbbe89b274|@path:/盤中常用/大單敲進}
+{@type:sensor}
 input: atVolume(50,"大單門檻");
 input: LaTime(10,"大單筆數");
 input: TXT("須逐筆洗價","使用限制");

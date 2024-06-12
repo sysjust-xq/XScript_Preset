@@ -1,4 +1,4 @@
-{@type:function|@guid:dc58546bafca4f169bf376e4ff00dbd4|@path:/跨頻率/xfMin_DirectionMovement|@hash:966ce5b4fe9cffee61c01dc76ce8e965}
+{@type:function}
 SetBarMode(2);
 
 // 跨頻率DirectionMovement function (for DMI相關指標)

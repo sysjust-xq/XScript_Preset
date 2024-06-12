@@ -1,4 +1,4 @@
-{@type:filter|@guid:99bb5c9bf9f742ef863e891bcfa04306|@path:/06.籌碼選股/法人淨買超比例高}
+{@type:filter}
 input:ratio(30);		setinputname(1,"比例下限(%)");
 input:period(3);		setinputname(2,"計算區間");
 input:volLimit(1000);	setinputname(3,"成交量下限(張)");

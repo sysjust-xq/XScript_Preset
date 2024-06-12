@@ -1,4 +1,4 @@
-{@type:function|@guid:babf0756aef94393a6a0322ef06096e1|@path:/跨頻率/xfMin_GetValue|@hash:e884314ac6dc0eea0e139763e449c558}
+{@type:function}
 SetBarMode(1);
 
 // 傳入一個序列(跟目前的頻率不同), 取得這個序列以此頻率的第幾筆

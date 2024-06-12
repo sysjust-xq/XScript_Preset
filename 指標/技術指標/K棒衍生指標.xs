@@ -1,4 +1,4 @@
-{@type:indicator|@guid:089eb2b082434f0787fdfd72e6701900|@path:/技術指標/K棒衍生指標|@hash:ad3330e364f11c3ef59f8e75a6163919}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/雙k棒可以延伸的多空趨勢指標/

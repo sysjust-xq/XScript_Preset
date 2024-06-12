@@ -1,4 +1,4 @@
-{@type:filter|@guid:008cb0bdb76048bbac243ed02fa57576|@path:/08.財報選股/毛利沒掉營收成長費用減少}
+{@type:filter}
 input:ratio(10,"毛利率單季衰退幅度上限");
 input:period1(10,"計算的期間，單位是季");
 input:period2(5,"計算的季別");

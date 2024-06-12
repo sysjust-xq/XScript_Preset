@@ -1,4 +1,4 @@
-{@type:indicator|@guid:a0d11323d0cd4fd48745c0f4e7397809|@path:/量能指標/當日成交密度|@hash:477f42222b30907094032cd06b9e1dfa}
+{@type:indicator}
 variable:II(0);
 
 if high-low<>0 and volume<>0 then 

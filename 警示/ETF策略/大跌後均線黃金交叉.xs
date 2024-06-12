@@ -1,4 +1,4 @@
-{@type:sensor|@guid:3e18992e144b4e0884a005bacf9934d5|@path:/ETF策略/大跌後均線黃金交叉}
+{@type:sensor}
 Input: Length1(5, "短天期");
 Input: Length2(20, "長天期");
 

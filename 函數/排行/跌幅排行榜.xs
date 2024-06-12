@@ -1,4 +1,4 @@
-{@type:function|@guid:72af3195150d41ae9a7c2d266f51a469|@path:/排行/跌幅排行榜|@hash:6a0c7c1894724ab23365c6d8b95a8b9b}
+{@type:function}
 SetBarMode(1);
 
 // 這是一個自訂排行條件的範例

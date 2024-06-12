@@ -1,4 +1,4 @@
-{@type:function|@guid:57f222578a2c4d17b2b88b65b8f28696|@path:/跨頻率/xf_GetDTValue|@hash:bb7bdf06635ff865ab2ca4544bfbda03}
+{@type:function}
 SetBarMode(1);
 
 // 回傳某個日期的'normalized' value

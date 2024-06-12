@@ -1,4 +1,4 @@
-{@type:sensor|@guid:fbde11f38d0c449082a5324a06724553|@path:/技術分析/潛龍昇天}
+{@type:sensor}
 input:StartDate(20150301);
 input:LowMonth(3);
  

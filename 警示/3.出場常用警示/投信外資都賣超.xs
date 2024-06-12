@@ -1,4 +1,4 @@
-{@type:sensor|@guid:20a7d6d8df424fdf96aa1e0dca436f61|@path:/3.出場常用警示/投信外資都賣超|@hash:3d5731a321042dcb12893fc26d475cc9}
+{@type:sensor}
 input:TXT("僅適用日線"); setinputname(1,"使用限制");
 
 settotalbar(3);

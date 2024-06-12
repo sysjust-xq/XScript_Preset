@@ -1,4 +1,4 @@
-{@type:sensor|@guid:e83e1434f91c4c9485b859ccc3d1ffb8|@path:/當沖交易型/開盤三連陽}
+{@type:sensor}
 input:TXT("僅適用60分鐘線以內"); setinputname(1,"使用限制");
 settotalbar(5);
 if barfreq = "Min" and barinterval <= 60 and

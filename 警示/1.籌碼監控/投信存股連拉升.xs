@@ -1,4 +1,4 @@
-{@type:sensor|@guid:a527cc17339c449fa352839d69407207|@path:/1.籌碼監控/投信存股連拉升|@hash:55df22d5c0ce889044b76263c295cd45}
+{@type:sensor}
 input: HoldRatio(50); setinputname(1,"投信持股比例下限(%)");
 input: Length(25); setinputname(2, "持股檢查區間");
 input:TXT("僅適用日線"); setinputname(3,"使用限制");

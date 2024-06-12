@@ -1,4 +1,4 @@
-{@type:function|@guid:c9f2641e5de0497cb352ace96f64236e|@path:/價格計算/RateOfChange|@hash:0c956354c430d54e7fd661651aa9c8f5}
+{@type:function}
 SetBarMode(1);
 
 input:thePrice(numericseries); //"價格序列"

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:c019d383580043e39c24966fa5a5aea2|@path:/籌碼指標/不明買盤指標|@hash:4982aabc7a17f67d3249ed96e129e954}
+{@type:indicator}
 input:period(5,"期數");
 
 if barfreq = "Tick" or barfreq = "Min"

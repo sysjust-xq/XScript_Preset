@@ -1,4 +1,4 @@
-{@type:function|@guid:aced678c83804b088f72d66788ddde3c|@path:/跨頻率/xfMin_GetCurrentBar|@hash:793cb3b6ff0e289467a5f9a1b5ef2e52}
+{@type:function}
 SetBarMode(2);
 
 // 取得指定頻率的K棒編號（CurrentBar）

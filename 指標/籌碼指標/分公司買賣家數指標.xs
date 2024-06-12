@@ -1,4 +1,4 @@
-{@type:indicator|@guid:34ec30d4b3d541ed9aa08e956cab145c|@path:/籌碼指標/分公司買賣家數指標|@hash:f6257fff65050378e78db69580961daf}
+{@type:indicator}
 if barfreq = "Tick" or barfreq = "Min"
 	then raiseruntimeerror("不支援此頻率");
 

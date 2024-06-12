@@ -1,4 +1,4 @@
-{@type:indicator|@guid:e78b958b52bd4113b21c996870501649|@path:/跨頻率指標/分鐘與日DMI|@hash:b67424ac0538526165ecd0b28eadc2a0}
+{@type:indicator}
 // 分頻率DMI指標，預設跨分頻率為30分鐘
 // 不支援大頻率跨小頻率，例如：
 // 不支援主頻率60分鐘，跨頻率計算30分鐘DMI技術指標。

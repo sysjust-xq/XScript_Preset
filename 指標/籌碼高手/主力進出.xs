@@ -1,4 +1,4 @@
-{@type:indicator|@guid:e69a607a4fb64353a68a51fc09789590|@path:/籌碼高手/主力進出|@hash:eab424182978270af17a55114708237f}
+{@type:indicator}
 condition999 = symbolexchange = "TW" or symbolexchange = "TE";//台股+興櫃
 condition994 = symbol = "TSE.TW" or symbol = "TWSE.FS" or symbol = "OTC.TW";//大盤
 condition997 = condition999 and (symboltype = 2 or symboltype = 4);//個股+權證+興櫃

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:eb1cbea2a6ff4abe99bb0bf58575882c|@path:/大盤指標/KST確認指標|@hash:bf92ecb1cd273ffbb7935b5045d49beb}
+{@type:indicator}
 variable:kst(0);
 
 value1=average(rateofchange(close,12),10);

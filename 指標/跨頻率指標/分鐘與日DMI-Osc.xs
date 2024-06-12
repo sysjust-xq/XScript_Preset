@@ -1,4 +1,4 @@
-{@type:indicator|@guid:0bc5cf6bf0634e63bf7953c311ad0052|@path:/跨頻率指標/分鐘與日DMI-Osc|@hash:30e940779ace0fda429bee7ad641f45c}
+{@type:indicator}
 // 跨頻率DMI-Osc指標，預設跨頻率為30分鐘
 // 不支援大頻率跨小頻率，例如：
 // 不支援主頻率60分鐘，跨頻率計算30分鐘DMI-Osc技術指標。

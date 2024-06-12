@@ -1,4 +1,4 @@
-{@type:function|@guid:b1f1a25bdc014e109dc92d7f9b6ef207|@path:/趨勢分析/TSELSindex}
+{@type:function}
 {
 函數說明
 https://xstrader.net/打造自己的大盤多空函數/

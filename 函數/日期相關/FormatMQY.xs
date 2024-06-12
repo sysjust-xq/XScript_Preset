@@ -1,4 +1,4 @@
-{@type:function_string|@guid:5c82a9a1c49e4bbf8e9488647f48f1ba|@path:/日期相關/FormatMQY}
+{@type:function_string}
 SetBarMode(1);
 
 input:Date1(numericsimple);

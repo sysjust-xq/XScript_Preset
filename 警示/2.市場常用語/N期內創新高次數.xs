@@ -1,4 +1,4 @@
-{@type:sensor|@guid:60405b564cab40dabb7c08ff59f03e81|@path:/2.市場常用語/N期內創新高次數|@hash:8d54cd0b8c792511f22e3059f72c4717}
+{@type:sensor}
 input:Length(10); setinputname(1,"N期內");
 input:mNewHighTimes(3); setinputname(2,"創M次以上新高");
  

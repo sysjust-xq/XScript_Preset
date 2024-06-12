@@ -1,4 +1,4 @@
-{@type:indicator|@guid:798b5c65b3cd4556b75d7d99c32f6326|@path:/主圖指標/趨勢線|@hash:f73b2c481d88afce8e7803563db93e50}
+{@type:indicator}
 input: periods(30, "期間");
 input: startyear(2017, "起始年份");
 

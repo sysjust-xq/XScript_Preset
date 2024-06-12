@@ -1,4 +1,4 @@
-{@type:indicator|@guid:ad38b4e11acf440486a90f93f0a62ebc|@path:/即時籌碼/散戶買賣力(金額)|@hash:e8de6d4f32ea8f0cf085f60f74ab209a}
+{@type:indicator}
 {散戶買賣力(金額)是小單金額，資料為開盤迄今的累計
 支援商品：台(股票)}
 

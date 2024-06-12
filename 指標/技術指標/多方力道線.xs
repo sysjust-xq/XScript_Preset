@@ -1,4 +1,4 @@
-{@type:indicator|@guid:915e32a6267b44cfb9bd1938a483eef9|@path:/技術指標/多方力道線|@hash:03dabfed1d77d3538cd484fca2675511}
+{@type:indicator}
 input:
 	period1(10,"計算期數"),
 	period2(5,"平滑期數");

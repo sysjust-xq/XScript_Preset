@@ -1,4 +1,4 @@
-{@type:indicator|@guid:9d1e6cf020b64922a2848f903f7424b2|@path:/技術指標/adaptive price zone|@hash:316fb91dea71404096c3c15a72929e82}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/adaptive-price-zone/

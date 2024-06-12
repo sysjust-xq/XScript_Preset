@@ -1,4 +1,4 @@
-{@type:filter|@guid:3a96aa40ae1c473eb1b6dd78980341ca|@path:/06.籌碼選股/外資拉抬|@hash:de0afbf6c8eb9ec81a2a4c5bfd19d599}
+{@type:filter}
 input: Length(10); setinputname(1,"計算天數");
 input: UpRatio(3.5); setinputname(2, "上漲幅度(%)");
 input: VolumeRatio(5); setinputname(3, "買超佔比例(%)");

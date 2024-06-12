@@ -1,4 +1,4 @@
-{@type:indicator|@guid:c8a4cbe3dd1b4610a542cb686fd092c6|@path:/XQ量能指標/NVI(負量指標)|@hash:fbb452eb5b9328c3c31f6c131bdaa881}
+{@type:indicator}
 // XQ: NVI指標
 //
 Variable: _nvi(1);

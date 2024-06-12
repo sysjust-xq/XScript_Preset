@@ -1,4 +1,4 @@
-{@type:sensor|@guid:9d76b97a99a44de89037a5a113f70070|@path:/技術分析/乖離反轉作多買進訊號}
+{@type:sensor}
 //用週線  四週後出場
 input:Length(20,"計算期數");
 input:Ratio(21,"乖離%");

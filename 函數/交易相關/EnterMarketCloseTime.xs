@@ -1,4 +1,4 @@
-{@type:function_bool|@guid:5e70b6e85e7e4a5991406ce6fae3e042|@path:/交易相關/EnterMarketCloseTime}
+{@type:function_bool}
 {
 	判斷是否已經進入收盤階段: 用來判斷不再進場 or 平倉當日部位
 	

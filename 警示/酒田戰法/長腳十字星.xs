@@ -1,4 +1,4 @@
-{@type:sensor|@guid:aa9a1852fe3a4691b4df35b591b8addc|@path:/酒田戰法/長腳十字星|@hash:34911a50d5877815c2fd36237ef00fd7}
+{@type:sensor}
 {																						
 [檔名:]	長腳十字星			[資料夾:]	酒田戰法	[適用方向]	空															
 [說明:]	大波動十字線																					

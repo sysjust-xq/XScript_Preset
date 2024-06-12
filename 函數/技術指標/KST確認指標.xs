@@ -1,4 +1,4 @@
-{@type:function|@guid:a23c81648d064f80855a462cfd76366e|@path:/技術指標/KST確認指標}
+{@type:function}
 SetBarMode(1);
 
 value1=average(rateofchange(close,12),10);

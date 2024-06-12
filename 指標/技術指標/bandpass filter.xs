@@ -1,4 +1,4 @@
-{@type:indicator|@guid:98ea4de242f6463da937a01cabe11e8e|@path:/技術指標/bandpass filter|@hash:023a8c16d72536621a73194f10d99fb9}
+{@type:indicator}
 input:
 	period(20),
 	delta(0.1);

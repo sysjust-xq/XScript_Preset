@@ -1,4 +1,4 @@
-{@type:filter|@guid:d386c0a89b9a4e9caf96ff0527532ea1|@path:/06.籌碼選股/籌碼集中度超過兩成的股票}
+{@type:filter}
 input:day(10,"天數");
 input:ratio(20,"最低百分比");
 setbarfreq("D");

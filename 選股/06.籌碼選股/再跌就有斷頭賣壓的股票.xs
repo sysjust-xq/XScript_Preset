@@ -1,4 +1,4 @@
-{@type:filter|@guid:bc8d250b95c94689b975d4018919178f|@path:/06.籌碼選股/再跌就有斷頭賣壓的股票}
+{@type:filter}
 setbarfreq("AD");
 
 input:period(30, "波段天期");

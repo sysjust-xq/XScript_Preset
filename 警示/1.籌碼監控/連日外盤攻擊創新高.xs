@@ -1,4 +1,4 @@
-{@type:sensor|@guid:8a5940b0f425480e8d28a10c3a17270d|@path:/1.籌碼監控/連日外盤攻擊創新高|@hash:d759339ba281adb3d9ee381121bae029}
+{@type:sensor}
 input:TXT("僅適用日線"); setinputname(1,"使用限制");
 
 settotalbar(3);

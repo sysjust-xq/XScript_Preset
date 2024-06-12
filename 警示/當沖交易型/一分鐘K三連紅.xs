@@ -1,4 +1,4 @@
-{@type:sensor|@guid:5d6ce573c4f5416c9f49b2d22bc2a759|@path:/當沖交易型/一分鐘K三連紅}
+{@type:sensor}
 if barfreq <> "Min" or Barinterval <>1 then RaiseRuntimeError("請設定頻率為1分鐘");
 
 variable:BarNumberOfToday(0); 

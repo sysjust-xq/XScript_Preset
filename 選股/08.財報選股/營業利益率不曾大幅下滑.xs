@@ -1,4 +1,4 @@
-{@type:filter|@guid:6208cf52dad148e9aa9501ab7069ec8b|@path:/08.財報選股/營業利益率不曾大幅下滑}
+{@type:filter}
 input:r1(5, "營業利益率QOQ最大衰退幅度");
 input:p1(5, "計算的季期數");
 

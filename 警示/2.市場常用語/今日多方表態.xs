@@ -1,4 +1,4 @@
-{@type:sensor|@guid:e4fc76a8083c4952ae3fc84334850262|@path:/2.市場常用語/今日多方表態}
+{@type:sensor}
 
 {三次到頂而破}
 variable:CaliPrice(0),peakIndex(0),MaxPeak(0);

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:9eadb7cde1d44ca69f60424a355b1c62|@path:/技術指標/比大盤強的天數趨勢斜率|@hash:d181851cf06a75a56916eae8dfb04e97}
+{@type:indicator}
 input:period(10,"計算天期");
 
 if barfreq <> "D" then raiseruntimeerror("不支援此頻率");

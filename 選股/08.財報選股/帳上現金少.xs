@@ -1,4 +1,4 @@
-{@type:filter|@guid:e9a250b6297f4affa286bd558cc010f0|@path:/08.財報選股/帳上現金少}
+{@type:filter}
 input:r1(50);	setinputname(1,"帳上現金(單位:百萬元)");
 
 settotalbar(3);

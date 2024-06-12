@@ -1,4 +1,4 @@
-{@type:indicator|@guid:15498b745fa349a6af74ac563b49ffd1|@path:/跨頻率指標/分鐘與日KD|@hash:0b6866bc7f143954708f3987ad7d6611}
+{@type:indicator}
 // 跨頻率KD指標，預設跨頻率為30分
 // 不支援大頻率跨小頻率，例如：
 // 不支援主頻率60分鐘，跨頻率計算30分鐘KD技術指標。

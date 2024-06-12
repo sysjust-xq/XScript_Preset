@@ -1,4 +1,4 @@
-{@type:indicator|@guid:ee310303cb564103b981f585fa9a267e|@path:/主圖指標/開盤第N根的每日高低價線|@hash:a940318d33b7893a3f9ff38afc478366}
+{@type:indicator}
 Input:Length(1,"第N根K棒");
 
 Var:_MH(0), _ML(0), _HHMMSS(0), _ChageDNum(0), _MaxCDN(0);

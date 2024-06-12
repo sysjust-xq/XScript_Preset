@@ -1,4 +1,4 @@
-{@type:filter|@guid:ee301a41c59a494380547329855d5037|@path:/06.籌碼選股/千張大戶減少而散戶增加}
+{@type:filter}
 setbarfreq("W");
 settotalbar(3);
 

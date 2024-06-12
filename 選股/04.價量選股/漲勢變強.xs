@@ -1,4 +1,4 @@
-{@type:filter|@guid:f84d1fa39f4a4428a9447a81fdea148f|@path:/04.價量選股/漲勢變強}
+{@type:filter}
 input: Length(100);		setinputname(1,"計算期數");
 input: RRatio(100);		setinputname(2,"盤漲最大漲幅%");
 

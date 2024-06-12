@@ -1,4 +1,4 @@
-{@type:filter|@guid:705a94d928da48e1914f7302e93f4c19|@path:/08.財報選股/N年累計營業利益市值比}
+{@type:filter}
 input:r1(50);		setinputname(1,"累計營業利益佔總市值比例(%)");
 input:years(10);		setinputname(2,"計算期間(年)");
 

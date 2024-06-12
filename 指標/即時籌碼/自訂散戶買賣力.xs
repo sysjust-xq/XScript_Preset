@@ -1,4 +1,4 @@
-{@type:indicator|@guid:53831e5ebc0043c68d3f2a3944df9c9c|@path:/即時籌碼/自訂散戶買賣力|@hash:a0cbd502103407b561764e759940d4e2}
+{@type:indicator}
 {指標數值定義：散戶 = 成交單量 < X的委託由Tick資料去累計計算
 支援商品：台(股票)、台(期貨)}
 

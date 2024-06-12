@@ -1,4 +1,4 @@
-{@type:sensor|@guid:46600a33cc9e415a993d8bea1a09bf10|@path:/3.出場常用警示/盤中直線下跌|@hash:1a1f7fe6065183233d2f1b6c74657828}
+{@type:sensor}
 input:SlopeThre(2); setinputname(1,"下降坡度[2~15越大跌越快]");
 input:Length(5); setinputname(2,"計算期數");
 

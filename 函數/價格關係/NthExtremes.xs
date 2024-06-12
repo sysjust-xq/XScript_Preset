@@ -1,4 +1,4 @@
-{@type:function|@guid:f2404d9ffb2f49b3a38c431fcfc254b5|@path:/價格關係/NthExtremes|@hash:5aad4e175a042905d75b3c51b1eebb6e}
+{@type:function}
 SetBarMode(1);
 
 input:  

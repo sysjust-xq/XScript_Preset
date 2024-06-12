@@ -1,4 +1,4 @@
-{@type:filter|@guid:9e48fcc9edbe4e5fb7e7a70f761048f1|@path:/06.籌碼選股/股價突破投信成本線}
+{@type:filter}
 Input: period(20, "期間(天)");
 
 variable: avg_b(0);

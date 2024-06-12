@@ -1,4 +1,4 @@
-{@type:filter|@guid:8baab43fb03c43ef97f2449f83517dcf|@path:/10.價值投資/營運現金流量的持續積累}
+{@type:filter}
 input:ratio(50, "比例");//總市值減去淨值是十年營運現金流的的多少百分比, 單位是%
 
 var: nv(0);

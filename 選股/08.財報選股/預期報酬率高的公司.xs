@@ -1,4 +1,4 @@
-{@type:filter|@guid:ccec605614a644b1aea77e34cbafd112|@path:/08.財報選股/預期報酬率高的公司}
+{@type:filter}
 input: tp(150,"最低目標預期報酬率");
 
 value1=GetField("累計營收年增率","M");

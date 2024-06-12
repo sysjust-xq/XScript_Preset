@@ -1,4 +1,4 @@
-{@type:function|@guid:ceaed7efd13a4002b6785026fec2c9b9|@path:/技術指標/KeltnerUB}
+{@type:function}
 SetBarMode(1);
 
 input:Para(NumericSimple);

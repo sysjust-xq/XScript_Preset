@@ -1,4 +1,4 @@
-{@type:function|@guid:c8ee210525474cb9b470a4dc0b564a03|@path:/價格關係/OHLCPeriodsAgo|@hash:fff0d50e82465953965778a89721c4ba}
+{@type:function}
 SetBarMode(2);
 
 input:  

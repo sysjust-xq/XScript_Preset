@@ -1,4 +1,4 @@
-{@type:indicator|@guid:3da2e31f1d4443d58956e07e2fd7020b|@path:/技術指標/價格震盪指標|@hash:07cf937e5f582f366ad793c13033e36e}
+{@type:indicator}
 input: length1(5);	setinputname(1, "短天期");
 input: length2(20);	setinputname(2, "長天期");
 

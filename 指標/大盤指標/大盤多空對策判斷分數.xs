@@ -1,4 +1,4 @@
-{@type:indicator|@guid:4fd1db98f6964e358558a17e22e26c97|@path:/大盤指標/大盤多空對策判斷分數|@hash:dfb709d4957ff1f161a76c30b8182c6d}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/大盤多空對策訊號/

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:ea3e03bdef0742a7bdc0a9c1e70500e9|@path:/出場訊號/開盤委賣暴增}
+{@type:sensor}
 if close>close[90]*1.3 then begin
 //先前有一定的漲幅
 	value1=GetField("開盤委買","D");

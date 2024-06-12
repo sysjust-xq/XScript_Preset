@@ -1,4 +1,4 @@
-{@type:function|@guid:c4e294ed436c4851ac42eb9fb79305f6|@path:/價格計算/AvgDeviation|@hash:76e697fea073b4d1d2ab7ab069a500ee}
+{@type:function}
 SetBarMode(1);
 
 input:thePrice(numericseries); //"價格序列"

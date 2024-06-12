@@ -1,4 +1,4 @@
-{@type:filter|@guid:68f704c93b2e407a9d9772b0921205d8|@path:/07.月營收選股/營運趨緩}
+{@type:filter}
 input: months(24);	setinputname(1, "月營收計算期間(月)");
 input: quarters(16);setinputname(2, "營業毛利率計算期間(季)");
 

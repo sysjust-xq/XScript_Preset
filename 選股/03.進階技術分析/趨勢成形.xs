@@ -1,4 +1,4 @@
-{@type:filter|@guid:3b1746c2e5164494954f12fe6d3e31f3|@path:/03.進階技術分析/趨勢成形}
+{@type:filter}
 // ADX趨勢成形
 //
 input: Length(14), Threshold(25);

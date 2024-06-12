@@ -1,4 +1,4 @@
-{@type:indicator|@guid:07356f447b0343a3956fa01fd4019c1c|@path:/籌碼指標/外資買超佔成交量比重|@hash:f37a7393f09180712c605ea9a77ea7d1}
+{@type:indicator}
 input:length(5,"期數"),TXT("僅支援日線以上");
 var:_strplot1("");
 

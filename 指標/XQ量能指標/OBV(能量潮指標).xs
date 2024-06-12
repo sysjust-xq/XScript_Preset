@@ -1,4 +1,4 @@
-{@type:indicator|@guid:00461cc948de4f4bbbc7a1bdc8d53e14|@path:/XQ量能指標/OBV(能量潮指標)|@hash:cede8bb35cfad7410a18a6e9e0d016ae}
+{@type:indicator}
 // XQ: OBV指標
 //
 input:SMAlength(5,"OBV的短MA期數"), MMAlength(20,"OBV的中MA期數");

@@ -1,4 +1,4 @@
-{@type:function|@guid:d8019f26360a4faaaacfdabbc71b1b26|@path:/價格計算/UpLimit}
+{@type:function}
 SetBarMode(1);
 
 input:refPrice(numericsimple);

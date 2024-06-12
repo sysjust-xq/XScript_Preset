@@ -1,4 +1,4 @@
-{@type:indicator|@guid:c42e3a219e294cadab119211cb7850e5|@path:/籌碼指標/股東人數|@hash:7261fa72f68da1962463819578ea28cc}
+{@type:indicator}
 //說明：
 //交易所公布的總持股人數。
 //執行商品為股票時，支援「週」以上的頻率。

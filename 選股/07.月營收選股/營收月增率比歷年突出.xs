@@ -1,4 +1,4 @@
-{@type:filter|@guid:0d0299c7dac746f99c4cf3906b24d239|@path:/07.月營收選股/營收月增率比歷年突出}
+{@type:filter}
 input:r1(5);		setinputname(1,"月營收月增幅與過往三年的數字增加百分比(%)");
 //input:TXT("僅適用月線"); setinputname(2,"使用限制");
 setbarfreq("M");

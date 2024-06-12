@@ -1,4 +1,4 @@
-{@type:indicator|@guid:5755c0fea5ff4dd49a60eb3c31e4f2da|@path:/XQ技術指標/RSI指標|@hash:989d17b13bebff5cf27177f2aafd6083}
+{@type:indicator}
 // XQ: RSI指標
 //
 input: Length1(6), Length2(12);

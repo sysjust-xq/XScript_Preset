@@ -1,4 +1,4 @@
-{@type:indicator|@guid:81b8594242d04d2080c9e95eafc1dc57|@path:/技術指標/真實波動區間指標|@hash:8ae670b23d6785e26d6e5371e6a315cd}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/股性系列之六真實波動區間/

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:f5884f67fb24460da15651bdd6cf6685|@path:/大盤指標/上漲量比重|@hash:ca7ab599e8e5e8253b81d7018fa584d5}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/盤上成交是否真的是重要指標/

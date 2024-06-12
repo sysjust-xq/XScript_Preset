@@ -1,4 +1,4 @@
-{@type:sensor|@guid:2785e332578f4246800083d9a24695b7|@path:/波段操作型/突破糾結均線}
+{@type:sensor}
 input: shortlength(5,"短期均線期數");
 input: midlength(10,"中期均線期數");
 input: Longlength(20,"長期均線期數");

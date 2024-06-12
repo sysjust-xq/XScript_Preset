@@ -1,4 +1,4 @@
-{@type:sensor|@guid:90e330801905481994c307707917f0c9|@path:/短線操作型/漲勢加速的股票}
+{@type:sensor}
 input:day2(5,"近期");
 input:day1(10,"中期");
 

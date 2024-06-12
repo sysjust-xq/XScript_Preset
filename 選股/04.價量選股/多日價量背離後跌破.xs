@@ -1,4 +1,4 @@
-{@type:filter|@guid:27beb72ef00644d087f465a3dac75363|@path:/04.價量選股/多日價量背離後跌破}
+{@type:filter}
 setbarfreq("AD");
 
 input:Length(5, "計算期數");

@@ -1,4 +1,4 @@
-{@type:function|@guid:68d1f6cac97441e8aae708fb49ab31a0|@path:/價格取得/FastHighest}
+{@type:function}
 SetBarMode(1);
 
 input: thePrice(numericseries),Length(numericsimple);

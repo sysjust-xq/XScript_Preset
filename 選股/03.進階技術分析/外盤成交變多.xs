@@ -1,4 +1,4 @@
-{@type:filter|@guid:87b9581998dc4dedbd8cc24ccdcdb2d4|@path:/03.進階技術分析/外盤成交變多}
+{@type:filter}
 input:shortPeriod(5);		setinputname(1,"短期平均");
 input:midPeriod(12);		setinputname(2,"長期平均");
 input:minVolume(2000);		setinputname(3,"成交量門檻");

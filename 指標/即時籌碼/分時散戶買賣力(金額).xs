@@ -1,4 +1,4 @@
-{@type:indicator|@guid:cffe1ea38fa04b7d95fde47248c7bcd7|@path:/即時籌碼/分時散戶買賣力(金額)|@hash:8187acf564d647f341a5639f8baaa283}
+{@type:indicator}
 {指標數值定義："散戶單=小單資料為分鐘統計金額"
 支援商品：台(股票)}
 

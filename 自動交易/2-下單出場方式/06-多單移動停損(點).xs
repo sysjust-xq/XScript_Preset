@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:1fc8c0c9e6274d669ae9a4e7dcc18a55|@path:/2-下單出場方式/06-多單移動停損(點)}
+{@type:autotrade}
 {
 	多單移動停損(點)
 

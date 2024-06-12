@@ -1,4 +1,4 @@
-{@type:indicator|@guid:4f528e3cf02345348e233fa7d698e97a|@path:/主圖指標/個股儀表板|@hash:fb60c059219accd55b3c454b17d3af18}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/個股儀表板演化的交易策略/

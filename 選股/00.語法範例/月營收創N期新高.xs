@@ -1,4 +1,4 @@
-{@type:filter|@guid:6461078a80404771b68c2700849d9a27|@path:/00.語法範例/月營收創N期新高}
+{@type:filter}
 input:N(13); setinputname(1, "期別"); 
 
 SetTotalBar(3); 

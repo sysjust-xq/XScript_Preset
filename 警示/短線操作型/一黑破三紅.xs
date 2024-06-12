@@ -1,4 +1,4 @@
-{@type:sensor|@guid:3a380a49c62747d7830e2b055bdbdc4c|@path:/短線操作型/一黑破三紅|@hash:6710156e72205a3c96815a8c5ddf6e7f}
+{@type:sensor}
 input:periods(20);setinputname(1,"計算期數(最小為5)");
 input:ratio(20);setinputname(2,"累計漲幅%");
 

@@ -1,4 +1,4 @@
-{@type:function|@guid:8216021f4b11489b8faca5f2af7d0750|@path:/技術指標/MACD|@hash:623ff02ce0c65b8a85919ef012349d8a}
+{@type:function}
 SetBarMode(1);
 
 // MACD function

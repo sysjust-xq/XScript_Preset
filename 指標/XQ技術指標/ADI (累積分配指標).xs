@@ -1,4 +1,4 @@
-{@type:indicator|@guid:a5f95e28c0004141ab8c58c431b40b66|@path:/XQ技術指標/ADI (累積分配指標)|@hash:b406bfde9995e273777fb96821b19d55}
+{@type:indicator}
 // XQ: A/DI 指標
 //
 variable: adi(0);

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:7c5b2fecc561441d8836d24b50527757|@path:/技術指標/向上拉動與向下殺盤力道指標|@hash:70fed9678b2289fe01bfd8032fe32680}
+{@type:indicator}
 input:period(5,"加權移動平均線天期");
 
 //當日向上拉動的力量

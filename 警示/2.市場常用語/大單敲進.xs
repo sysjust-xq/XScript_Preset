@@ -1,4 +1,4 @@
-{@type:sensor|@guid:748c581bf90e4c06afcba3b1dbfc27b6|@path:/2.市場常用語/大單敲進|@hash:857e449dbafcece5a1875f8385515ec4}
+{@type:sensor}
 input: atVolume(100); setinputname(1,"大單門檻");
 input: LaTime(10); setinputname(2,"大單筆數");
 input:TXT("須逐筆洗價"); setinputname(3,"使用限制");

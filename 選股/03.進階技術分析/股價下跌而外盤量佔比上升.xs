@@ -1,4 +1,4 @@
-{@type:filter|@guid:fc4b6b9c52db4a92814a06dadacea11a|@path:/03.進階技術分析/股價下跌而外盤量佔比上升}
+{@type:filter}
 input:period(20);		setinputname(1,"計算天期");
 
 settotalbar(period * 2 + 3);

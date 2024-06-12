@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:e9aa4685206b4dc685077ef11e78747f|@path:/2-下單出場方式/01-收盤前平倉}
+{@type:autotrade}
 {
 	收盤前平倉
 }

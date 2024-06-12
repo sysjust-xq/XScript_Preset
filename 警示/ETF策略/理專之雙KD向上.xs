@@ -1,4 +1,4 @@
-{@type:sensor|@guid:3ca65f2c91c14c96ad8bae5cff77a4b4|@path:/ETF策略/理專之雙KD向上}
+{@type:sensor}
 input: Length_D(9, "日KD期間");
 input: Length_W(5, "周KD期間");
 

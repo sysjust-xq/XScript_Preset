@@ -1,4 +1,4 @@
-{@type:sensor|@guid:bd23e59c714d4d76850986e32dbd3074|@path:/技術分析/過去N日有多日跳空且未拉回}
+{@type:sensor}
 //中小型股  停損停利都是5%
 input:day(5,"過去N日");
 input:lowlimit(2,"符合條件天數");

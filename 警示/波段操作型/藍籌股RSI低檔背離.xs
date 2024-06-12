@@ -1,4 +1,4 @@
-{@type:sensor|@guid:e1fca2b9125d45aca56be59cce5e3045|@path:/波段操作型/藍籌股RSI低檔背離|@hash:e71f5f755b03830f1ee6d67f91f75889}
+{@type:sensor}
 input: Periods(50); setinputname(1,"計算期間");
 input: Length(6); setinputname(2,"RSI");
 input: LowFilter(25); setinputname(3,"RSI低檔區");

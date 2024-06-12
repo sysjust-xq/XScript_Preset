@@ -1,4 +1,4 @@
-{@type:indicator|@guid:c4179bac726c494a9d66f1d920aae0e3|@path:/XQ技術指標/威廉指標|@hash:1c6da65ced45163dfe8bb79a3c470ba8}
+{@type:indicator}
 // XQ: 威廉指標
 //
 input: Length1(14), Length2(28), Length3(42);

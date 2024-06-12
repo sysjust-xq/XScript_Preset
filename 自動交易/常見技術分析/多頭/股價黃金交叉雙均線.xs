@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:7e1601d46fa14b38b8cde5defb06631e|@path:/常見技術分析/多頭/股價黃金交叉雙均線}
+{@type:autotrade}
 // 宣告參數
 input: shortlength(5,"短期均線期數"), Longlength(20,"長期均線期數");
 variable: Longaverage(0), shortaverage(0);

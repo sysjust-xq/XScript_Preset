@@ -1,4 +1,4 @@
-{@type:indicator|@guid:d2ed855b363b4e869be7391531684d8b|@path:/技術指標/力度指標force index|@hash:24818a0bd54f022830d6cbb43b211c88}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/這個盤接下來到底會不會大跌-建構專屬的大盤儀/

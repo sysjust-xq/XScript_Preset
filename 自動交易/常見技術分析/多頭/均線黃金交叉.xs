@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:f5bd9f63f716423db4a8dfa2fc99230b|@path:/常見技術分析/多頭/均線黃金交叉}
+{@type:autotrade}
 // 宣告參數
 input: Shortlength(5,"短期均線期數"), Longlength(20,"長期均線期數");
 

@@ -1,4 +1,4 @@
-{@type:function|@guid:4336228a3cfd46d28cebfe859686f34f|@path:/日期相關/GetBarOffsetForYears}
+{@type:function}
 {
 	計算BarOffset for N years
 	

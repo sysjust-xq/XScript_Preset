@@ -1,4 +1,4 @@
-{@type:indicator|@guid:116292e52142472cbd24e17faabb6dcb|@path:/量能指標/上昇趨勢分數|@hash:314486099b5a599187f1a880da059125}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/上昇趨勢分數/

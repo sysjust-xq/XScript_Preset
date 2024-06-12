@@ -1,4 +1,4 @@
-{@type:sensor|@guid:10ce4677f641422c8eac4adf6994bf37|@path:/酒田戰法/三長下影線}
+{@type:sensor}
 input: Percent(1.5); setinputname(1,"下影線佔股價絕對百分比");
 settotalbar(5);
 

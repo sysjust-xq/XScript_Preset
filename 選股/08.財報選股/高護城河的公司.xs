@@ -1,4 +1,4 @@
-{@type:filter|@guid:23b8bac09d4e4ec8876d7cf52bfa36ad|@path:/08.財報選股/高護城河的公司}
+{@type:filter}
 condition1=false;
 condition2=false;
 condition3=false;

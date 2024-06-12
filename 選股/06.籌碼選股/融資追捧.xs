@@ -1,4 +1,4 @@
-{@type:filter|@guid:b9cf9949e8564eab9053fbe24116910c|@path:/06.籌碼選股/融資追捧|@hash:fc9032bb16e420c94b1bdc727dd8f4b9}
+{@type:filter}
 input: Length(10); setinputname(1,"近期天數");
 input: UpRatio(3.5); setinputname(2, "上漲幅度(%)");
 

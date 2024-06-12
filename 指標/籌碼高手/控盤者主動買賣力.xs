@@ -1,4 +1,4 @@
-{@type:indicator|@guid:31f47d809bda4a97a864484c5c95a460|@path:/籌碼高手/控盤者主動買賣力|@hash:a637b27271154aa2c430af1e554e6405}
+{@type:indicator}
 condition999 = symbolexchange = "TW" or symbolexchange = "TE";//台股+興櫃
 condition998 = condition999 = true and symboltype = 2;//個股+興櫃
 

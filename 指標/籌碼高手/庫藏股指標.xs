@@ -1,4 +1,4 @@
-{@type:indicator|@guid:e8212992ec69430da84f5318a43c7b68|@path:/籌碼高手/庫藏股指標|@hash:e957048ae009b7666fc19e6baa471175}
+{@type:indicator}
 condition994 = symbol = "TSE.TW" or symbol = "TWSE.FS" or symbol = "OTC.TW" or symbolType = 1;//大盤、類股
 
 if condition994 = false //大盤、類股

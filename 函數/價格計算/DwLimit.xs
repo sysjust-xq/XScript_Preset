@@ -1,4 +1,4 @@
-{@type:function|@guid:54d963a3ecba4fe9a429d1e50fca9dd7|@path:/價格計算/DwLimit}
+{@type:function}
 SetBarMode(1);
 
 input:refPrice(numericsimple);

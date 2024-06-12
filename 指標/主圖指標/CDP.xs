@@ -1,4 +1,4 @@
-{@type:indicator|@guid:0ac5cd9427334992b7e62bdbc2bb4734|@path:/主圖指標/CDP|@hash:5cf70bef24e1b3d1866c14f3712343cc}
+{@type:indicator}
 {
     PlotLine(PlotIndex, x1, y1, x2, y2, add:=0);
 	    PlotIndex為 1 ~ 999，作用如同 Plot 的序列編號

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:a2901a2d2d504a808528601cc90835e1|@path:/主圖指標/外資均價線|@hash:154a80c8fa7250baec24953e6106170c}
+{@type:indicator}
 Input: period(20);	setinputname(1, "期間(天)");
 
 if barfreq = "Tick" or barfreq = "Min"

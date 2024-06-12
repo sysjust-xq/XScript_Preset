@@ -1,4 +1,4 @@
-{@type:indicator|@guid:f8c225d517024cf9b38d2839509992f0|@path:/籌碼高手/融資使用率|@hash:f22760f66e57da15a6d5b02fab89a90c}
+{@type:indicator}
 condition996 = symbolexchange = "TW" = true and symboltype = 2;//個股
 
 if condition996 = false //個股

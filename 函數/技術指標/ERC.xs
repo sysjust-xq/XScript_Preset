@@ -1,4 +1,4 @@
-{@type:function|@guid:a7ae69ad0e2c4621aa19f0292d82f23f|@path:/技術指標/ERC}
+{@type:function}
 SetBarMode(1);
 
 {

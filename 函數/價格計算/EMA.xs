@@ -1,4 +1,4 @@
-{@type:function|@guid:acd8e9a292d64600bec9591361584e6f|@path:/價格計算/EMA|@hash:e4a702a01656effc99c3eeae47563c8f}
+{@type:function}
 SetBarMode(2);
 
 input:thePrice(numericseries); //"價格序列"

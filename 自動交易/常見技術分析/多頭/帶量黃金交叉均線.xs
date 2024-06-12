@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:ce6c70ffe33246168102856c891346d8|@path:/常見技術分析/多頭/帶量黃金交叉均線}
+{@type:autotrade}
 // 宣告參數
 input: Length(10, "期數"), VolFactor(2, "成交量放大倍數");
 var: avgP(0), avgVol(0);

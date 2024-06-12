@@ -1,4 +1,4 @@
-{@type:filter|@guid:ccb05338577c4f7381eea1eb531560ab|@path:/11.選股機器人/多次到頂而破}
+{@type:filter}
 setbarfreq("AD");
 
 input:HitTimes(3,"設定觸頂次數");

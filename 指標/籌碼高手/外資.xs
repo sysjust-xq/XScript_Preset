@@ -1,4 +1,4 @@
-{@type:indicator|@guid:4712b10fbb82481b813ef11368a12229|@path:/籌碼高手/外資|@hash:d1b8b1c3b796263267b75989454c8274}
+{@type:indicator}
 condition999 = symbolexchange = "TW" or symbolexchange = "TE";//台股+興櫃
 condition994 = symbol = "TSE.TW" or symbol = "TWSE.FS" or symbol = "OTC.TW";//大盤
 condition993 = symbolexchange = "TW" and symboltype = 1;//類股

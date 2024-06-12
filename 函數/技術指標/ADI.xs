@@ -1,4 +1,4 @@
-{@type:function|@guid:4acad56bd6ef4ecfa1071fe0efaba94d|@path:/技術指標/ADI}
+{@type:function}
 SetBarMode(2);
 
 {

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:b0d4d655866b42d6aca9ac2f4839ec06|@path:/當沖交易型/盤中突破區間|@hash:3dca4b7f8e09878df5e148ed0478d712}
+{@type:sensor}
 input: timeline(100000); setinputname(1,"時間切算點");
 input:TXT1("限用分鐘線"); setinputname(2,"使用限制");
 input:TXT2("高點自開盤起算"); setinputname(3,"使用說明");

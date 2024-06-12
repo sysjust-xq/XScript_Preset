@@ -1,4 +1,4 @@
-{@type:sensor|@guid:2a50c09f525a48bf8847d5fe0abc4516|@path:/酒田戰法/帶量多頭執帶|@hash:ea0b3eb0bef1ea90861f55b5b9a1b51b}
+{@type:sensor}
 {								
 [檔名:]	帶量多頭執帶			[資料夾:]	酒田戰法	[適用方向]	多	
 [說明:]	開在最低點一路走高收在最高點附近的K棒	衝出倍增量												

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:5f9aaaf53a104cd4883c344c74e4e6fc|@path:/籌碼高手/當沖|@hash:eb3bb79fd4dd2d3e46f9da0ec387347e}
+{@type:indicator}
 input: _input1(1,"計算方式",inputkind:= Dict(["全部",1],["資券互抵",2],["現股當沖",3]),quickedit:=true);//1=全部（預設）、2=資券互抵、3=現股當沖
 
 variable: dtVolume(0);

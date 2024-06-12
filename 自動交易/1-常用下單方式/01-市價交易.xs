@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:51f1120e5c294a5dadf2e6a6913ce4ff|@path:/1-常用下單方式/01-市價交易}
+{@type:autotrade}
 {
 	市價交易
 }

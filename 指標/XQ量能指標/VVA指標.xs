@@ -1,4 +1,4 @@
-{@type:indicator|@guid:9a7ff8e3e8b6400fb487805e2b9e9704|@path:/XQ量能指標/VVA指標|@hash:e77eaa6fcb3b9a4573c728c6a1f15e17}
+{@type:indicator}
 // XQ: VVA指標
 //
 variable: _vva(0);

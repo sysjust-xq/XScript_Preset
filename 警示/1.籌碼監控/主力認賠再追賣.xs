@@ -1,4 +1,4 @@
-{@type:sensor|@guid:c669e115ef79427cb733489fc8a68c8b|@path:/1.籌碼監控/主力認賠再追賣|@hash:670d3748338467b28193737a0df80247}
+{@type:sensor}
 input:TXT("僅適用日線"); setinputname(1,"使用限制");
 
 variable: pastDays(10);

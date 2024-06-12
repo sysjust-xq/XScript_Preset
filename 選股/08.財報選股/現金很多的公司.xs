@@ -1,4 +1,4 @@
-{@type:filter|@guid:2ba6f75987324dfcb128d3f5f661d3a2|@path:/08.財報選股/現金很多的公司}
+{@type:filter}
 input: lowlimit(10,"償債後現金及短投最少金額");
 
 value1=GetField("現金及約當現金","Q");//單位百萬

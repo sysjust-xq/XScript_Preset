@@ -1,4 +1,4 @@
-{@type:sensor|@guid:9113368ca435434786baa76d3503173b|@path:/2.市場常用語/急殺|@hash:3311163bfc2728ed1127276de09565e0}
+{@type:sensor}
 input:P1(1.5); setinputname(1,"急殺幅度%");
 
 settotalbar(3);

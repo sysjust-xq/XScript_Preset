@@ -1,4 +1,4 @@
-{@type:function|@guid:35d7b36805ff4c449e3fc8c6976f40c7|@path:/趨勢分析/SwingHighBar|@hash:4c54069a158e0060a137431f6e0d2c76}
+{@type:function}
 SetBarMode(2);
 
 input: 

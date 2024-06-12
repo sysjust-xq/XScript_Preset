@@ -1,4 +1,4 @@
-{@type:filter|@guid:a03b674a1756491d934a5fd8dd2578e3|@path:/06.籌碼選股/法人買超減融資佔成交量比重增加}
+{@type:filter}
 input: r1(15);				setinputname(1,"籌碼收集比例(%)");
 input: volLimit(1000);		setinputname(2,"成交量下限(張)");
 

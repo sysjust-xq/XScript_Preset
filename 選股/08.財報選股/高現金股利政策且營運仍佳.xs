@@ -1,4 +1,4 @@
-{@type:filter|@guid:add0db5176e24c72b1da5b8dc8fcd035|@path:/08.財報選股/高現金股利政策且營運仍佳}
+{@type:filter}
 input:peratio(17,"本益比上限倍數");
 input:ratio(60,"現金股利佔股利之比重下限");
 input:epsl(2,"預估本益EPS下限");

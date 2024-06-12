@@ -1,4 +1,4 @@
-{@type:indicator|@guid:3537d33987d14e8899f2bdef668f0b0a|@path:/主圖指標/融資均價線|@hash:2af08a84794ebe4d7d35cb5f0e555467}
+{@type:indicator}
 Input: period(20);	setinputname(1, "期間(天)");
 
 if barfreq = "Tick" or barfreq = "Min"

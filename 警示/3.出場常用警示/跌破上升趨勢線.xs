@@ -1,4 +1,4 @@
-{@type:sensor|@guid:3b1631596e3d4b5caf45eaaef32fc78e|@path:/3.出場常用警示/跌破上升趨勢線|@hash:a71e11ef432473f98eda7f667a6ca2fa}
+{@type:sensor}
 input:Length(10); setinputname(1,"上升趨勢計算期數");
 input:_Angle(30); setinputname(2,"上升趨勢角度");
 

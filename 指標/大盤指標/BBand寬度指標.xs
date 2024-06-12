@@ -1,4 +1,4 @@
-{@type:indicator|@guid:e95d376cb2654c15b644c7d87e5dc960|@path:/大盤指標/BBand寬度指標|@hash:e4025604ef9256a26896c2013eb75901}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/bband-width/

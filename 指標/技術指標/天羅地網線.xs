@@ -1,4 +1,4 @@
-{@type:indicator|@guid:dc2ea05993cb4190808f3fc9287b2607|@path:/技術指標/天羅地網線|@hash:0b211eecc424cc2ac25defbc24630875}
+{@type:indicator}
 input:period(60,"期數");
 
 value5=average(close,period);

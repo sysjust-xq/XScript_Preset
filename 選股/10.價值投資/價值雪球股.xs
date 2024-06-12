@@ -1,4 +1,4 @@
-{@type:filter|@guid:1395a402fcd44e999d1d2d352a8cbbd2|@path:/10.價值投資/價值雪球股}
+{@type:filter}
 if GetField("本益比","D") < 15 and
    GetField("股價淨值比","D") <2 and
    GetField("殖利率","D") > 3  and

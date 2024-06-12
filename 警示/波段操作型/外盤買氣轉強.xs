@@ -1,4 +1,4 @@
-{@type:sensor|@guid:722f9328498f42ccaa9c3a8a4d340696|@path:/波段操作型/外盤買氣轉強}
+{@type:sensor}
 input:short1(5,"短期平均"),mid1(20,"長期平均");
 
 //透過Z的時間安排來決定現在用的是那一根Bar的資料 

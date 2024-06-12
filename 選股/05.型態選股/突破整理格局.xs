@@ -1,4 +1,4 @@
-{@type:filter|@guid:6fafdbcd7d0e4f75bb544ac6e1c1ccd7|@path:/05.型態選股/突破整理格局}
+{@type:filter}
 input:limit1(7);		setinputname(1,"定義整理的區間幅度");
 input:limit2(2);		setinputname(2,"定義三個頂點間的差距");
 input:rangemax(30);		setinputname(3,"整理區間最長日期限制");

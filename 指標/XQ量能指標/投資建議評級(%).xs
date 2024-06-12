@@ -1,4 +1,4 @@
-{@type:indicator|@guid:3971bc6f1a9e4b8d8c9bc4e8edc63873|@path:/XQ量能指標/投資建議評級(%)|@hash:80b98fb8eb1a0e7b644467b646a43a6c}
+{@type:indicator}
 //支援頻率：不定期
 //支援商品 ：美(股票)
 { 說明：

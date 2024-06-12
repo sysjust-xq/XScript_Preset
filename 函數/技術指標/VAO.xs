@@ -1,4 +1,4 @@
-{@type:function|@guid:93cabed6870d4be79b057ca3fb82cbf7|@path:/技術指標/VAO}
+{@type:function}
 SetBarMode(1);
 
 variable: support(0), resist(0), hlDiff(0);

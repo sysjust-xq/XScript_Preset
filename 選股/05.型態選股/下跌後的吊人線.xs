@@ -1,4 +1,4 @@
-{@type:filter|@guid:7b147ab6db074b6cb55eb7a06edcbb37|@path:/05.型態選股/下跌後的吊人線}
+{@type:filter}
 setbarfreq("AD");
 
 condition1=false;

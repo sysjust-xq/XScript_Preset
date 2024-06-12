@@ -1,4 +1,4 @@
-{@type:sensor|@guid:ad8464eb8bd14791b777eee5b6d9ebf9|@path:/ETF策略/理專DBCD交易法則}
+{@type:sensor}
 input:length1(10,"短天期"),length2(20,"長天期"),length3(14,"平滑天期");
 input:Threshold(-2,"觸發標準");
 

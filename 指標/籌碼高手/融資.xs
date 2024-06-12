@@ -1,4 +1,4 @@
-{@type:indicator|@guid:e77791d930694ff0af3eaeb0462b8218|@path:/籌碼高手/融資|@hash:8ee0ab76eb5448a7e69270f5152e0826}
+{@type:indicator}
 input: _input1(1,"大盤融資單位",inputkind:= Dict(["金額",1],["張數",2]));//1=金額、2=張數
 
 condition996 = symbolexchange = "TW" and symboltype = 2;//個股

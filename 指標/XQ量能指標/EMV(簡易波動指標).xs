@@ -1,4 +1,4 @@
-{@type:indicator|@guid:2574edb4682b4c45a099c9b0575fef3f|@path:/XQ量能指標/EMV(簡易波動指標)|@hash:ec8f4d602fcd5d219dc9faf8f5905d31}
+{@type:indicator}
 // XQ: EMV指標
 //
 Input: Length(14);

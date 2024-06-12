@@ -1,4 +1,4 @@
-{@type:sensor|@guid:5dc53f4f26d2465897503aea6b8c95ea|@path:/技術分析/突破投信成本線}
+{@type:sensor}
 //小型股
 input: pastDays(3); setinputname(1,"計算天數");
 input: _BuyRatio(10); setinputname(2,"買超佔比例(%)");

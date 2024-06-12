@@ -1,4 +1,4 @@
-{@type:sensor|@guid:0ca28340ff0f453c9a50b6483f5ca675|@path:/3.出場常用警示/跳空下跌再破底|@hash:2e7c94a6be98f1c1135c6d94c888e252}
+{@type:sensor}
 //分鐘線
 input:Gapratio(1.5);setinputname(1,"跳空下跌百分比%");
 input:TXT("僅適用分鐘線"); setinputname(2,"使用限制");

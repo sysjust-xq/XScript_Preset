@@ -1,4 +1,4 @@
-{@type:filter|@guid:4347bcec837946138b71427c7ee5b246|@path:/07.月營收選股/營收再起飛}
+{@type:filter}
 //input:TXT("僅適用月線"); setinputname(1,"使用限制");
 setbarfreq("M");
 

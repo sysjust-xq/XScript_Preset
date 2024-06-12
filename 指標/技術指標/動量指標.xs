@@ -1,4 +1,4 @@
-{@type:indicator|@guid:6c765043d442444ca3e7f410126ad932|@path:/技術指標/動量指標|@hash:267ea8af2f6ca7b3405d4f3cebc10f41}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/尋找趨勢是否成形的指標動量指標/

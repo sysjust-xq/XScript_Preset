@@ -1,4 +1,4 @@
-{@type:sensor|@guid:927bb27370374555adeed20e78a749b6|@path:/當沖交易型/即將鎖第一根漲停}
+{@type:sensor}
 input:Length(20); setinputname(1,"過去無漲停期數");
 input:Ratio(1); setinputname(2,"差幾%漲停");
 input:TXT("請用日線逐筆洗價"); setinputname(3,"使用限制");

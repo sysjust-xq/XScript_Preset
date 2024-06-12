@@ -1,4 +1,4 @@
-{@type:function_bool|@guid:d9885e3dd5444b82b84fa5339b8a1ebd|@path:/跨頻率/xfMin_CrossUnder|@hash:5389d1c4b427e07abc1a3049784bca95}
+{@type:function_bool}
 SetBarMode(1);
 
 // 傳入兩個序列(跟目前的頻率不同), 判斷是否crossunder

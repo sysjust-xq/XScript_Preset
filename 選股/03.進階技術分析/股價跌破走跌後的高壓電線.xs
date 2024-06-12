@@ -1,4 +1,4 @@
-{@type:filter|@guid:114be2370e9a4967a64711645de0a0ae|@path:/03.進階技術分析/股價跌破走跌後的高壓電線}
+{@type:filter}
 SetTotalBar(8);
 
 value1 = (average(close,30) + average(close,72)) / 2;	//地心引力線

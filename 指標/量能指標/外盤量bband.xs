@@ -1,4 +1,4 @@
-{@type:indicator|@guid:5b278878ab9c4d4a97b404375139c8a8|@path:/量能指標/外盤量bband|@hash:5d355aa331782a1bb502e846f8633a51}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/外盤量異常突出的買進策略/

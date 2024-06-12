@@ -1,4 +1,4 @@
-{@type:indicator|@guid:7da8636db4b8402cb15b6d7f8460f79f|@path:/技術指標/BB指標|@hash:2bebbf29046624e35601763a802684ef}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/％b指標/

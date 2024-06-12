@@ -1,4 +1,4 @@
-{@type:function|@guid:af635b0bb6c542cba712fa703b529cdf|@path:/趨勢分析/TSEMFI}
+{@type:function}
 SetBarMode(2);
 
 variable: tp(0), tv(0), utv(0), dtv(0), pmf(0), nmf(0), mfivalue(0);

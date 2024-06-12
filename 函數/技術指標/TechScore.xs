@@ -1,4 +1,4 @@
-{@type:function|@guid:ddfa7b29d6b7403597861b78e9f6aad7|@path:/技術指標/TechScore}
+{@type:function}
 SetBarMode(2);
 
 // 利用多種指標, 計算多空分數

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:902f63251d174229a15552f61fbff269|@path:/3.出場常用警示/跌破均線|@hash:90f6ece3c2a54dad64ee25c3f617f1f4}
+{@type:sensor}
 input: shortlength(5); setinputname(1,"短期均線期數");
 input: midlength(10); setinputname(2,"中期均線期數");
 input: Longlength(20); setinputname(3,"長期均線期數");

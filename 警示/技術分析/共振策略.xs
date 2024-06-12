@@ -1,4 +1,4 @@
-{@type:sensor|@guid:a8d361f622384b45b6996d31f38f9211|@path:/技術分析/共振策略}
+{@type:sensor}
 input: shortlength(5,"短期均線期數");
 input: midlength(20,"中期均線期數");
 input: Longlength(60,"長期均線期數");

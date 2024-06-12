@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:06a55d2ecb3b482d9c90037b5064eb75|@path:/0-基本語法/08-Alert}
+{@type:autotrade}
 {
 	Alert語法
 	

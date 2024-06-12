@@ -1,4 +1,4 @@
-{@type:indicator|@guid:d6c54703775a460a90439a811347d382|@path:/籌碼高手/分公司交易家數|@hash:664941dd003f01eda618ded554a389aa}
+{@type:indicator}
 condition999 = symbolexchange = "TW" or symbolexchange = "TE";//台股+興櫃
 condition997 = condition999 and (symboltype = 2 or symboltype = 4);//個股+權證+興櫃
 

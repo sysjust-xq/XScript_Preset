@@ -1,4 +1,4 @@
-{@type:function|@guid:c2794b1a8745431485c71e4e2584ea2a|@path:/技術指標/WAD}
+{@type:function}
 SetBarMode(2);
 
 {

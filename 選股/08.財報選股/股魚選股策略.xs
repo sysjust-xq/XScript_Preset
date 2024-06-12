@@ -1,4 +1,4 @@
-{@type:filter|@guid:c8ab4ea01a114941869c34f68a4c74b2|@path:/08.財報選股/股魚選股策略}
+{@type:filter}
 value1=GetField("營業利益","Q");//單位百萬
 value2=GetField("稅前淨利","Q");//單位百萬
 value3=GetField("來自營運之現金流量","Q");//單位百萬

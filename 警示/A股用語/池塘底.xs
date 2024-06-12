@@ -1,4 +1,4 @@
-{@type:sensor|@guid:f37cb1bf9c414d218fdb915b19c5ce4d|@path:/A股用語/池塘底|@hash:193ec5f6acf26c58937be030f5ed21ef}
+{@type:sensor}
 input:Length(40); setinputname(1,"計算期數");
 input:inter(10); setinputname(2,"選擇過去某一期");
 

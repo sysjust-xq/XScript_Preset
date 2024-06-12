@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:2736c04c664b401aaee51a622ad80bfd|@path:/3-Algo策略委託/02-時間權重交易(TWAP)}
+{@type:autotrade}
 {
 	時間權重(TWAP): 類似定時定量交易, 差異是傳入的是執行委託總時間以及委託總數量, 由腳本自己反推算委託間隔/每次委託數量.
 

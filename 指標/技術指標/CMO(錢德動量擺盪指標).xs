@@ -1,4 +1,4 @@
-{@type:indicator|@guid:56f5a51282bc4e8fabda8877b365b33c|@path:/技術指標/CMO(錢德動量擺盪指標)|@hash:9318f4914761c279433b08393552a059}
+{@type:indicator}
 Input:length(10);   setinputname(1, "天期");
 
 variable: SU(0),SD(0);   

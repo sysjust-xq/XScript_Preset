@@ -1,4 +1,4 @@
-{@type:indicator|@guid:18ef2f43eadd462ca2a1b7932051d126|@path:/技術指標/Mass Index|@hash:e39e593b41903cb8bd85933889ce37af}
+{@type:indicator}
 input: length1(9);	setinputname(1, "天期一");
 input: length2(25); setinputname(2, "天期二");
   

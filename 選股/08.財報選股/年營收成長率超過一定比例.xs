@@ -1,4 +1,4 @@
-{@type:filter|@guid:fd57cf8a1e934676b8dfefd614c8acce|@path:/08.財報選股/年營收成長率超過一定比例}
+{@type:filter}
 setbarfreq("Y");
 settotalbar(5);
 

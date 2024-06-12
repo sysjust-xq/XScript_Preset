@@ -1,4 +1,4 @@
-{@type:function|@guid:d5dc0dcf2b6a43ea9145511423952db3|@path:/跨頻率/xfMin_XAverage|@hash:61b158cca935310c05584f6dc78aaf9e}
+{@type:function}
 SetBarMode(2);
 
 // 跨頻率XAverage

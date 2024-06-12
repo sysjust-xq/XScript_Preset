@@ -1,4 +1,4 @@
-{@type:function|@guid:d02c45cba76f4163a048685f7bc4002b|@path:/價格計算/XAverage|@hash:dcb110d69ea167d7d1ecb47d22b25116}
+{@type:function}
 SetBarMode(2);
 
 input:thePrice(numericseries); //"價格序列"

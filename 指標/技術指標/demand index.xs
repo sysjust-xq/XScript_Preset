@@ -1,4 +1,4 @@
-{@type:indicator|@guid:c6b2a940f65b4a338fea8f8a0518bfc0|@path:/技術指標/demand index|@hash:d87f435df94ae340441c4fb2478fe60d}
+{@type:indicator}
 { 
 James Sibbet's Demand Index Indicator 
 The Demand Index combines price and volume in 

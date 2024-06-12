@@ -1,4 +1,4 @@
-{@type:indicator|@guid:1027587e4bd2407e84a3459161048d47|@path:/技術指標/Zero Lag Heikin-Ashi|@hash:79a9a1a61ef6a440513b84b453cb02d8}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/先進指標zero-lag-heikinashi/

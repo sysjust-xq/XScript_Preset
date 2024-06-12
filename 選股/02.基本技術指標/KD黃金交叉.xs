@@ -1,4 +1,4 @@
-{@type:filter|@guid:8706ccc94c0148e7b274a222bba3cf28|@path:/02.基本技術指標/KD黃金交叉|@hash:26ad72876db33773b5d3f3cb234a0d07}
+{@type:filter}
 // KD指標, K值由下往上穿越D值
 //
 input: Length(9), RSVt(3), Kt(3);

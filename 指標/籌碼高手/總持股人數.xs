@@ -1,4 +1,4 @@
-{@type:indicator|@guid:3c54d52db66a48f7a9f39738a41f966a|@path:/籌碼高手/總持股人數|@hash:45a55388bbe4a027167ca55ff795ce44}
+{@type:indicator}
 //說明：
 //交易所公布的總持股人數。
 //執行商品為股票時，支援「週」以上的頻率。

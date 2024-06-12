@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:1c2f8bd37fff4a9cba3f0bded44f3f98|@path:/常見技術分析/多頭/布林通道觸碰下軌}
+{@type:autotrade}
 // 宣告參數
 Input: Length(20, "期數"), UpperBand(2, "通道上緣"), LowerBand(2, "通道下緣");
 variable: mid(0), up(0), down(0);

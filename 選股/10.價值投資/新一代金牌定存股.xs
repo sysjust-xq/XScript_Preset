@@ -1,4 +1,4 @@
-{@type:filter|@guid:a6df60608b97493495ed091a95b1d288|@path:/10.價值投資/新一代金牌定存股}
+{@type:filter}
 input:lowlimit(5,"年度獲利下限(億)");
 
 value1=GetField("本期稅後淨利","Y");//單位:百萬

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:1c9c1276dfa04cd6a3c782b4804d93c5|@path:/ETF策略/大碗底}
+{@type:sensor}
 value1=lowestbar(low,100);
 value2=lowest(low,100);
 value3=highestbar(high,100);

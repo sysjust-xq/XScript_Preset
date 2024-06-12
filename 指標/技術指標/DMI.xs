@@ -1,4 +1,4 @@
-{@type:indicator|@guid:ccd02a0e9b794eb390504dc3fbdcba5b|@path:/技術指標/DMI|@hash:862fcead35610754a96bc2128496cafd}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/787/

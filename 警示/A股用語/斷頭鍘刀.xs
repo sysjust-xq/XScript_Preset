@@ -1,4 +1,4 @@
-{@type:sensor|@guid:5364b62f846447bdbe39807997594f9f|@path:/A股用語/斷頭鍘刀|@hash:5919ea3a5cdc1caff03ee473ecc5dd2e}
+{@type:sensor}
 input:ShortLength(5); setinputname(1,"短期均線期數");
 input:MidLength(20); setinputname(2,"中期均線期數");
 input:LongLength(60); setinputname(3,"長期均線期數");

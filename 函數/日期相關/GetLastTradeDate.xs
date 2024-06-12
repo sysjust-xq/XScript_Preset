@@ -1,4 +1,4 @@
-{@type:function|@guid:4ccd60568ab94d4085a852218b37ba80|@path:/日期相關/GetLastTradeDate|@hash:fee175b65f19c276d837b3e785173103}
+{@type:function}
 SetBarMode(1);
 
 // 傳入到期月份/年份, 回傳台灣期交所指數期貨的到期日

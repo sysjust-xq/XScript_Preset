@@ -1,4 +1,4 @@
-{@type:filter|@guid:1d846e48491b4f83912fc157fe2a6acd|@path:/09.時機操作/長期都填權的股票}
+{@type:filter}
 input:N(5);
 
 if getfield("除權息日期") = date then

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:96de4bbd77574d178e5fc8cb75454c3f|@path:/即時籌碼/分時買賣力|@hash:ced45e0c7ce188a1ab385e2ee7e227fa}
+{@type:indicator}
 {支援商品：台股/期貨/選擇權}
 
 if symbolexchange <> "TW" and symbolexchange <> "TF" then raiseruntimeerror("不支援此商品");

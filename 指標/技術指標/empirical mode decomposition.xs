@@ -1,4 +1,4 @@
-{@type:indicator|@guid:6aabd414dde8489cac9ff0c28dc6d939|@path:/技術指標/empirical mode decomposition|@hash:e6a315f6e076974b976e15a03ee30299}
+{@type:indicator}
 input:
 	period(20),
 	delta(0.1),

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:598eaea449334fd0ad6724e642e9dfdb|@path:/波段操作型/沖擊底部|@hash:043ff7a965ffd80d6852b08d7cceb273}
+{@type:sensor}
 input:BarPercent(75); setinputname(1,"當期回升比例");
 
 settotalbar(3);

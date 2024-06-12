@@ -1,4 +1,4 @@
-{@type:function|@guid:607a9823aec54a91ab43847239ccd4dd|@path:/技術指標/MTM}
+{@type:function}
 SetBarMode(1);
 
 {

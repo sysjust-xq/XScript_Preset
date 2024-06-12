@@ -1,4 +1,4 @@
-{@type:filter|@guid:27c736947dad41418ef49da4f7408b93|@path:/10.價值投資/低PB股的逆襲}
+{@type:filter}
 if close<15
 and H = highest(H,20)
 and close<lowest(low,20)*1.07

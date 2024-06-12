@@ -1,4 +1,4 @@
-{@type:indicator|@guid:7571a7438dba4175910b5c1037ab6e33|@path:/技術指標/coppock indicator|@hash:811d96db98fea169121f9300de7ecb99}
+{@type:indicator}
 variable:coppock(0);
 value1=rateofchange(close,14);
 value2=rateofchange(close,11);

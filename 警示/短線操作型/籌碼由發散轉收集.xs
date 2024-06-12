@@ -1,4 +1,4 @@
-{@type:sensor|@guid:ed460b789fb14ba9a28bd8968bcb04af|@path:/短線操作型/籌碼由發散轉收集}
+{@type:sensor}
 input: Length_D(9, "日KD期間");
 input: Length_W(5, "周KD期間");
 variable:rsv_d(0),kk_d(0),dd_d(0);

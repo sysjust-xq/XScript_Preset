@@ -1,4 +1,4 @@
-{@type:filter|@guid:79a0a6d9c872459c9c7736c32ff0f3d4|@path:/09.時機操作/可能有填權行情的股票}
+{@type:filter}
 value1=GetField("除權日期");
 value2=GetField("每股稅後淨利(元)","Y");
 if value1>date

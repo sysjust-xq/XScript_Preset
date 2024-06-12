@@ -1,4 +1,4 @@
-{@type:indicator|@guid:9a931e12fc0a434b809ecd44fa76198d|@path:/技術指標/HV歷史波動率指標|@hash:f4c2a0f9af225a2884460fe82117cbc3}
+{@type:indicator}
 input:LENGTH1(6,"短天期"),LENGTH2(100,"短天期");
 
 variable:HVS(0),HVL(0),HVindex(0);

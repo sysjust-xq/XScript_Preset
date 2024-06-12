@@ -1,4 +1,4 @@
-{@type:function|@guid:5f85c227b1ee430981b24d82b50fcec8|@path:/技術指標/K_Value}
+{@type:function}
 SetBarMode(1);
 
 {

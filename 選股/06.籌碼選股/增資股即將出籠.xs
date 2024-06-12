@@ -1,4 +1,4 @@
-{@type:filter|@guid:86830602eb544fbfac710a226d8c13cb|@path:/06.籌碼選股/增資股即將出籠}
+{@type:filter}
 setbarfreq("AD");
 
 value1=GetField("現增新股上市日");

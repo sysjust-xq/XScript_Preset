@@ -1,4 +1,4 @@
-{@type:indicator|@guid:ab73d3d0ad47437f9394dba40b8f85c2|@path:/大盤指標/上漲家數|@hash:55c763b4dbce75e25802da52985968d5}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/大盤多空轉換點之探討系列一-上漲的股票有沒有200/

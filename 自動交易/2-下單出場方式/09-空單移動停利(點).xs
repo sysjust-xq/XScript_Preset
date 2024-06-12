@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:15df2acec32842b8a509a8edaa461dd6|@path:/2-下單出場方式/09-空單移動停利(點)}
+{@type:autotrade}
 {
 	空單移動停利(點)
 

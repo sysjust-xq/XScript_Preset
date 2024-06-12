@@ -1,4 +1,4 @@
-{@type:sensor|@guid:6d7c71dd525d4cf08880d77f3ec2c336|@path:/當沖交易型/開低不反彈再創新低}
+{@type:sensor}
 if barfreq <>"Min" or barinterval<> 1 then raiseruntimeerror("本腳本只適用於1分鐘線");
 
 variable:count(0);

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:c632d4d89ec84936a50064d3c0b29c37|@path:/XQ量能指標/新聞分數|@hash:860d4e63042983803830df4662e7eed7}
+{@type:indicator}
 {
 	XQ量能指標。
 	支援日頻率。支援上市櫃普通股商品。

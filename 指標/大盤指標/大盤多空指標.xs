@@ -1,4 +1,4 @@
-{@type:indicator|@guid:787f2ea84d9f483a90590760c9ae6259|@path:/大盤指標/大盤多空指標|@hash:3ae55d34283d5c04b51e5aa34b7b9d2e}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/打造自己的大盤多空函數/

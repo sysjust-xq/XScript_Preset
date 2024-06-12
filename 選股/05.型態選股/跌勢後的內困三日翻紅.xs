@@ -1,4 +1,4 @@
-{@type:filter|@guid:cbe11ad986424efb8819ad7b8b5387e9|@path:/05.型態選股/跌勢後的內困三日翻紅}
+{@type:filter}
 setbarfreq("AD");
 
 If close[4]=lowest(close,20)

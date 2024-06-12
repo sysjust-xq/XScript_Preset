@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:4e4dc7c29a1a4358b34f14a6ea46aac0|@path:/常見技術分析/空頭/布林通道觸碰上軌}
+{@type:autotrade}
 // 宣告參數
 Input: Length(20, "期數"), UpperBand(2, "通道上緣"), LowerBand(2, "通道下緣");
 variable: mid(0), up(0), down(0);

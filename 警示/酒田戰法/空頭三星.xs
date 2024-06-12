@@ -1,4 +1,4 @@
-{@type:sensor|@guid:0af7a79723f74db7ad7ae1de4ea3496a|@path:/酒田戰法/空頭三星|@hash:91182ea6c128255b6b43a10dfd4ed155}
+{@type:sensor}
 {																						
 [檔名:]	空頭三星			[資料夾:]	酒田戰法	[適用方向]	空															
 [說明:]	開高低收A型排列																																										

@@ -1,4 +1,4 @@
-{@type:filter|@guid:85977e68e0044dc89cfd3ffc92f587d6|@path:/08.財報選股/利息支出佔股本比例}
+{@type:filter}
 input:r1(5);	setinputname(1,"利息支出佔股本比例(%)");
 
 settotalbar(3);

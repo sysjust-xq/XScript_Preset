@@ -1,4 +1,4 @@
-{@type:sensor|@guid:e1937001df104d8ea7ed76cdc572102c|@path:/短線操作型/投信外資同步進場}
+{@type:sensor}
 input:Fboughts(100); setinputname(1,"外資買超張數");
 input:Sboughts(100); setinputname(2,"投信買超張數");
 input:TXT1("僅適用日線"); setinputname(3,"使用限制");

@@ -1,4 +1,4 @@
-{@type:function|@guid:073494d68d8541248dad2cde0e958e62|@path:/交易相關/CalcVWAPDistribution}
+{@type:function}
 {
 	計算過去N日的VWAP分佈
 	

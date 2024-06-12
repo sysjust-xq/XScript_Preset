@@ -1,4 +1,4 @@
-{@type:indicator|@guid:3de58c52f5234df3912fde6e36e687b1|@path:/技術指標/vortex indicator|@hash:697b03dfea9e4a98cada765a0ce3a3b2}
+{@type:indicator}
 input: period(14,"設定區間");
 
 variable:pvm(0);

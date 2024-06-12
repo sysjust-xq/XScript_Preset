@@ -1,4 +1,4 @@
-{@type:sensor|@guid:2c357a394be34054a0a17e9a726fccf2|@path:/當沖交易型/開盤委買暴增}
+{@type:sensor}
 input:iVOL(1000);                setinputname(1,"開盤委買賣差張");
 input:Ratio(10);                 setinputname(2,"開盤委買力道比");
 input:TXT1("適用1分鐘");         setinputname(3,"使用限制");

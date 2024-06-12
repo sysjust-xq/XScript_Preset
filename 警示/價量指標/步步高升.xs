@@ -1,4 +1,4 @@
-{@type:sensor|@guid:16df38a8a46d465585cbf80e085a2d5e|@path:/價量指標/步步高升|@hash:7ef2d3252fa27ba915557d9e6cc815fe}
+{@type:sensor}
 settotalbar(3);
 if volume > volume[1]     and 
    volume[1] > volume[2]  and

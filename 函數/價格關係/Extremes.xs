@@ -1,4 +1,4 @@
-{@type:function|@guid:61c06064ad98469db9ce30287ae4a2c8|@path:/價格關係/Extremes|@hash:5aad4e175a042905d75b3c51b1eebb6e}
+{@type:function}
 SetBarMode(2);
 
 input:  

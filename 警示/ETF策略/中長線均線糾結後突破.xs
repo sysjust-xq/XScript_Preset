@@ -1,4 +1,4 @@
-{@type:sensor|@guid:fa24e5fc27d54f49b5907519a8c9d07d|@path:/ETF策略/中長線均線糾結後突破}
+{@type:sensor}
 input: Shortlength(10,"短期均線期數");
 input: Midlength(20,"中期均線期數");
 input: Longlength(40,"長期均線期數");

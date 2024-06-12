@@ -1,4 +1,4 @@
-{@type:filter|@guid:f950ea66fc4d4c359e08dcf73a83c8b5|@path:/08.財報選股/營收市值比位於歷史低檔}
+{@type:filter}
 input:period(60,"計算月數");
 input:ratio(10,"距離低點幅度");
 setbarfreq("M");

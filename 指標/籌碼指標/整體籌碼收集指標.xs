@@ -1,4 +1,4 @@
-{@type:indicator|@guid:3ac6dc88c6aa4885a2147f61c235a887|@path:/籌碼指標/整體籌碼收集指標|@hash:a8121fb3a379277baec1b63eca3330da}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/一個交易策略的熟成-2/

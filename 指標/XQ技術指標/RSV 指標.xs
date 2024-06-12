@@ -1,4 +1,4 @@
-{@type:indicator|@guid:b8da5fc094684f74afe8f6f50abae064|@path:/XQ技術指標/RSV 指標|@hash:8f654300aafbeffe9d0b1721bfc36a00}
+{@type:indicator}
 // XQ: RSV指標
 //
 input: Length(9);

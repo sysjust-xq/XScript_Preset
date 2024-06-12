@@ -1,4 +1,4 @@
-{@type:filter|@guid:f148029505e5461bad24cd8a11e5a61b|@path:/03.進階技術分析/股價蠢蠢欲動}
+{@type:filter}
 SetTotalBar(23);
 
 value1=truerange();

@@ -1,4 +1,4 @@
-{@type:function|@guid:61b9cfcba7814e41a1501a74d5fa20ce|@path:/技術指標/HL_Osc}
+{@type:function}
 SetBarMode(1);
 
 {

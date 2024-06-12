@@ -1,4 +1,4 @@
-{@type:sensor|@guid:4af85027e7894c16afaca66cef3c0c7e|@path:/ETF策略/KO買進訊號}
+{@type:sensor}
 Input: Length1(34, "短天期");
 Input: Length2(55, "長天期");
 variable: ko(0);   

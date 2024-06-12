@@ -1,4 +1,4 @@
-{@type:sensor|@guid:9714b94d30274a439eee955bd62f63db|@path:/!語法範例/4.if..then..else}
+{@type:sensor}
 //if 條件1成立 then 動作1;
 //這是常用的語法，代表滿足條件1時，執行動作1
 //if 條件1成立 then 動作1 else 動作2;

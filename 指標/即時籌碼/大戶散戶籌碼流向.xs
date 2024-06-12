@@ -1,4 +1,4 @@
-{@type:indicator|@guid:d0b68c07efe04140b1fd7fcf1272babc|@path:/即時籌碼/大戶散戶籌碼流向|@hash:c0f54c6bc7f66976851bef79f2c9b5e2}
+{@type:indicator}
 {指標數值定義："大戶=特大單+大單, 散戶=小單 
 資料為大戶/散戶從開盤累計到現在的(外盤-內盤)張數"
 

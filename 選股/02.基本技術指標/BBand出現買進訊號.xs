@@ -1,4 +1,4 @@
-{@type:filter|@guid:b99b7e7865c448b794a444fddb5e086b|@path:/02.基本技術指標/BBand出現買進訊號}
+{@type:filter}
 input:length(20);
 variable:up1(0),down1(0),mid1(0),bbandwidth(0);
 up1 = bollingerband(Close, Length, 1);

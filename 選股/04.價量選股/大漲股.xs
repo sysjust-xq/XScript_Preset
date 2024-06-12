@@ -1,4 +1,4 @@
-{@type:filter|@guid:4dae3554789f403b9b2105975c8f7b3b|@path:/04.價量選股/大漲股}
+{@type:filter}
 condition1=false;
 condition2=false;
 condition3=false;

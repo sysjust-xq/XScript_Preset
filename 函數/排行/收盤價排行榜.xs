@@ -1,4 +1,4 @@
-{@type:function|@guid:d605f69234764acf8713c2137ba09729|@path:/排行/收盤價排行榜|@hash:54db5b7b5a64e1a65ce5f2616cd0f897}
+{@type:function}
 SetBarMode(1);
 
 // 這是一個自訂排行條件的範例

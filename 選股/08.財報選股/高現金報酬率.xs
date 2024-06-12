@@ -1,4 +1,4 @@
-{@type:filter|@guid:2ef8015cba574fc490b48157e6818d83|@path:/08.財報選股/高現金報酬率}
+{@type:filter}
 input:r1(5);		setinputname(1,"現金報酬率下限(%)");
 
 settotalbar(3);

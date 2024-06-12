@@ -1,4 +1,4 @@
-{@type:sensor|@guid:1ac1a9d16b2242ad97d15c777498da95|@path:/3.出場常用警示/高檔出現吊人線|@hash:1840d48392fc0a37ce2b7dc1b41798e8}
+{@type:sensor}
 settotalbar(33);
 
 if Close < Close[1] then begin

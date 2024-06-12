@@ -1,4 +1,4 @@
-{@type:filter|@guid:9e21af69828c411a98aeb5c0b35f3aac|@path:/11.選股機器人/多頭下起漲前的籌碼收集}
+{@type:filter}
 setbarfreq("AD");
 
 value1=GetField("分公司買進家數");

@@ -1,4 +1,4 @@
-{@type:function|@guid:c2946c6b970440e78a2076289f51109c|@path:/技術指標/VHF}
+{@type:function}
 SetBarMode(2);
 
 {

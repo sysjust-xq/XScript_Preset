@@ -1,4 +1,4 @@
-{@type:filter|@guid:6a2ea1b5fe8f48f78ac9d7c839420e7e|@path:/07.月營收選股/月營收成長動能加快}
+{@type:filter}
 setbarfreq("M");
 
 value1=average(GetField("月營收年增率","M"),3);

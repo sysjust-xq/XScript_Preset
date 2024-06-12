@@ -1,4 +1,4 @@
-{@type:indicator|@guid:357dfe1989794591983f704fc7cb1def|@path:/技術指標/BW MFI|@hash:f5f321e53f7d8024962ae0a592028bb4}
+{@type:indicator}
 {
 指標說明
 Market Facilitation Index

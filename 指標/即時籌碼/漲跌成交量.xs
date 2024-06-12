@@ -1,4 +1,4 @@
-{@type:indicator|@guid:d5befddff742427a883d441a03a52ec2|@path:/即時籌碼/漲跌成交量|@hash:4186984eae56e3b666d174d14f76cc23}
+{@type:indicator}
 {指標數值定義：(上漲)量 = 開盤累計到目前比前一價(上漲)的成交量的加總
 
 支援商品：台股,大盤,類股,期貨,選擇權}

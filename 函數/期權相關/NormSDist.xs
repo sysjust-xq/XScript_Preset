@@ -1,4 +1,4 @@
-{@type:function|@guid:9726eaec317b4b98a68524683ea2ae92|@path:/期權相關/NormSDist|@hash:26375f203fa9f7219d09d0eed7a3ff7c}
+{@type:function}
 SetBarMode(1);
 
 //利用多項式計算近似值，精確度到小數點以下六位。

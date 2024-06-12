@@ -1,4 +1,4 @@
-{@type:sensor|@guid:5661acce683141a9a497e1059dcdedeb|@path:/2.市場常用語/多次觸底而破 |@hash:c1a77548ba2661177aa2351a13a01074}
+{@type:sensor}
 input:HitTimes(3);    setinputname(1,"設定觸底次數");
 input:RangeRatio(1);  setinputname(2,"設定底部區範圍寬度%");
 input:Length(20);     setinputname(3,"計算期數");

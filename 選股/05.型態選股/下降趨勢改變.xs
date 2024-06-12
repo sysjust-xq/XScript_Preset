@@ -1,4 +1,4 @@
-{@type:filter|@guid:050e26de5d6a4c7098806d269c211943|@path:/05.型態選股/下降趨勢改變}
+{@type:filter}
 input:Length(20); 		setinputname(1,"下降趨勢計算期數");
 input:VolLimit(1000);	setinputname(2,"突破量");
 

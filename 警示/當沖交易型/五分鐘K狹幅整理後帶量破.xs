@@ -1,4 +1,4 @@
-{@type:sensor|@guid:8d97121b50244d36894a102aec35799d|@path:/當沖交易型/五分鐘K狹幅整理後帶量破}
+{@type:sensor}
 input:Length(100,"計算期數");
 input:Ratio(0.5,"突破幅度%");
 input:RRatio(1.5,"盤整區間幅度%");

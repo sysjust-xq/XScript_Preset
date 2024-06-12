@@ -1,4 +1,4 @@
-{@type:filter|@guid:337b9397f3c5456db6100d462dbf9925|@path:/06.籌碼選股/法人主力敢買又敢拉的股票}
+{@type:filter}
 value1=GetField("法人買賣超張數");
 value2=GetField("主力買賣超張數");
 value3=value1+value2;

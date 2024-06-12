@@ -1,4 +1,4 @@
-{@type:sensor|@guid:c476f59feb7b4f8f9921e14ccce58c1d|@path:/波段操作型/多次到頂而突破}
+{@type:sensor}
 input:HitTimes(3,"設定觸頂次數");
 input:RangeRatio(1,"設定頭部區範圍寬度%");
 input:Length(20,"計算期數");

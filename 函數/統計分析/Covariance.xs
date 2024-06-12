@@ -1,4 +1,4 @@
-{@type:function|@guid:9f01ee25cc1f435599ca8aee4c4d66d8|@path:/統計分析/Covariance|@hash:752250a341d009f2bc4898d7253f51c4}
+{@type:function}
 SetBarMode(1);
 
 input: DepValue(numericseries),

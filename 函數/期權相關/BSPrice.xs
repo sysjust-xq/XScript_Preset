@@ -1,4 +1,4 @@
-{@type:function|@guid:6f695b87f1f047f5b162d222df2e7edf|@path:/期權相關/BSPrice|@hash:039772dd4775c5ea4b9a422cdaa08ccf}
+{@type:function}
 SetBarMode(1);
 
 input:

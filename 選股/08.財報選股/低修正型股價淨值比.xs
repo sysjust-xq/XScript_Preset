@@ -1,4 +1,4 @@
-{@type:filter|@guid:5c2c253959e843f999c8d20bf764b3c6|@path:/08.財報選股/低修正型股價淨值比}
+{@type:filter}
 input:r1(1);		setinputname(1,"股價淨值比上限");
 
 SetTotalBar(3);

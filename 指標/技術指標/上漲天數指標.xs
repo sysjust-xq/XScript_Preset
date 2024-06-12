@@ -1,4 +1,4 @@
-{@type:indicator|@guid:9ec804a756064c62a42eddd0148aff65|@path:/技術指標/上漲天數指標|@hash:9c26f19462c4b1f26844c37661137530}
+{@type:indicator}
 input:count1(20);
 input:count2(10);
 

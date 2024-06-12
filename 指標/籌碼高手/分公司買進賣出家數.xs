@@ -1,4 +1,4 @@
-{@type:indicator|@guid:ff219353d1ca48a185e9dfe0debe1f1b|@path:/籌碼高手/分公司買進賣出家數|@hash:a7c68abecb77800ee52f2b9510029b0b}
+{@type:indicator}
 condition999 = symbolexchange = "TW" or symbolexchange = "TE";//台股+興櫃
 condition992 = condition999 and  (symbol <> "TSE.TW" and symbol <> "TWSE.FS" and symbol <> "OTC.TW");//類股+個股+權證+興櫃
 

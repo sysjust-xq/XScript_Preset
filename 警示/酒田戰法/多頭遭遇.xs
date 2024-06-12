@@ -1,4 +1,4 @@
-{@type:sensor|@guid:bbddd905fca54c39b87bf52b8e534a91|@path:/酒田戰法/多頭遭遇|@hash:0826bbf27c1f8b66f6b8eaadd0721a7c}
+{@type:sensor}
 {																						
 [檔名:]	多頭遭遇			[資料夾:]	酒田戰法	[適用方向]	多															
 [說明:]	前期收黑K棒 當期開低走高紅棒嘗試反攻昨收 																																								

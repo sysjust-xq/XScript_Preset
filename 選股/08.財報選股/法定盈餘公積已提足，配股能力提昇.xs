@@ -1,4 +1,4 @@
-{@type:filter|@guid:7d8e45f559244121b0b20aa87715496c|@path:/08.財報選股/法定盈餘公積已提足，配股能力提昇}
+{@type:filter}
 value1=GetField("法定盈餘公積","Q");	//百萬
 
 value2=GetField("最新股本");			//億

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:32faa5a1ec9f4684b68073c082bbc836|@path:/技術指標/月線與收盤價差|@hash:4f4d9b4f7be3c399e038c180239e9149}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/自訂指標/

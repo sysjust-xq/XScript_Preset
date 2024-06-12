@@ -1,4 +1,4 @@
-{@type:function|@guid:917c4b79d8a54e54bd33b54e63d34928|@path:/Array函數/ArraySeries}
+{@type:function}
 {
 	把某個數值序列轉成Array
 	

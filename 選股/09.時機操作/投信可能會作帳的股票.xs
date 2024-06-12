@@ -1,4 +1,4 @@
-{@type:filter|@guid:511f910f51f944a8a7d83b99f92cfdb6|@path:/09.時機操作/投信可能會作帳的股票}
+{@type:filter}
 setbarfreq("AD");
 settotalbar(50);
 

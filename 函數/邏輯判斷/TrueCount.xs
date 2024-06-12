@@ -1,4 +1,4 @@
-{@type:function|@guid:2cc2f4fe655a406aa5e49bfac4a3228e|@path:/邏輯判斷/TrueCount}
+{@type:function}
 SetBarMode(1);
 
 input:TrueAndFalse(truefalseseries), Length(numericsimple);

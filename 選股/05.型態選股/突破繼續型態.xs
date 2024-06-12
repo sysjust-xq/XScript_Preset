@@ -1,4 +1,4 @@
-{@type:filter|@guid:c20707620b1d42c481889cb60dba22b5|@path:/05.型態選股/突破繼續型態}
+{@type:filter}
 setbarfreq("AD");
 
 variable:iHigh(0); iHigh=maxlist(iHigh,H);

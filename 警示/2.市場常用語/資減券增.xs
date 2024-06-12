@@ -1,4 +1,4 @@
-{@type:sensor|@guid:3f2088b848614730abba72bed9562b8c|@path:/2.市場常用語/資減券增|@hash:bbdf129e2122c431625d2cba9896a0f1}
+{@type:sensor}
 input:x1(300);setinputname(1,"融資減少張");
 input:x2(200);setinputname(2,"融券增加張");
 input:x3(10); setinputname(3,"全計佔成交量比例%");

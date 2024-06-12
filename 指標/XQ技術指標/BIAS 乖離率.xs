@@ -1,4 +1,4 @@
-{@type:indicator|@guid:5dba5bc536ed43e6a8f882b38f1d4e2f|@path:/XQ技術指標/BIAS 乖離率|@hash:f518af543d99144fda4142a793e52a74}
+{@type:indicator}
 // XQ 乖離率
 //
 input: Length1(5), Length2(10), Length3(20);

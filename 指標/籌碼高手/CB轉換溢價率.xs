@@ -1,4 +1,4 @@
-{@type:indicator|@guid:29c31eabf45841d0a471452a9d39f0e1|@path:/籌碼高手/CB轉換溢價率|@hash:7baa5fac8b4a05698274ad1aba402f99}
+{@type:indicator}
 {
 	支援商品：可轉債商品。
 	支援頻率：分鐘以上的頻率。

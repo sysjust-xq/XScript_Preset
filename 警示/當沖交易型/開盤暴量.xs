@@ -1,4 +1,4 @@
-{@type:sensor|@guid:a5cc441a25a04fcdaff8b95df3b31c0f|@path:/當沖交易型/開盤暴量}
+{@type:sensor}
 input:Vtimes(3);            setinputname(1,"爆量倍數");
 input:atVolume(100);            setinputname(2,"暴量門檻張數");
 input:TXT1("僅適用1分鐘");  setinputname(3,"使用限制");

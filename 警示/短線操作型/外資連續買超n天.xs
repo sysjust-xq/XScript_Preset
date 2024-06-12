@@ -1,4 +1,4 @@
-{@type:sensor|@guid:050681bb8fed4341bdd2ff57f5320424|@path:/短線操作型/外資連續買超n天}
+{@type:sensor}
 input:Periods(5); setinputname(1,"外資連續買超天數");
 input:TXT1("僅適用日線"); setinputname(2,"使用限制");
 

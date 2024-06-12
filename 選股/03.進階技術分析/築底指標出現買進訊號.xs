@@ -1,4 +1,4 @@
-{@type:filter|@guid:4c696cdf4497462da585408ba3777260|@path:/03.進階技術分析/築底指標出現買進訊號}
+{@type:filter}
 input: period(125);		setinputname(1, "計算區間長度");
 input: length1(5);		setinputname(2, "短天期");
 input: length2(20);		setinputname(3, "長天期");

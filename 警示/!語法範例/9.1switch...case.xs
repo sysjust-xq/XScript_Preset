@@ -1,4 +1,4 @@
-{@type:sensor|@guid:0144e8c93bc445589fa72e42be7d8366|@path:/!語法範例/9.1switch...case}
+{@type:sensor}
 //透過switch..case的語法，可以在一個變數的數值不一樣時，往不同的流程進行
 //例如要計算外資過去十天買超超過七天時，可以運用以下的語法來寫腳本 
 

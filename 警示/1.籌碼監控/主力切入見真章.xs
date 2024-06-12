@@ -1,4 +1,4 @@
-{@type:sensor|@guid:b0e9f9f62d00436ba82183cb59599165|@path:/1.籌碼監控/主力切入見真章|@hash:d52187a6ab4f08cf1e4c3cf4ec6b96ec}
+{@type:sensor}
 input: pastDays(3); setinputname(1,"近期天數");
 input: UpRatio(3.5); setinputname(2, "上漲幅度(%)");
 input: _buyAmount(3000); setinputname(3,"累積金額(萬)");

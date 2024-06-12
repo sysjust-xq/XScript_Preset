@@ -1,4 +1,4 @@
-{@type:sensor|@guid:fddb10829b4a4f53be004720ce55a4d3|@path:/技術分析/三連陽過前年最高點}
+{@type:sensor}
 //全部  持有二十天
 
 input:period(500,"創n日新高");

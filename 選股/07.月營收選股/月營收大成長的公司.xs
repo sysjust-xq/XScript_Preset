@@ -1,4 +1,4 @@
-{@type:filter|@guid:5018431ac8534d49b09bda5e66685609|@path:/07.月營收選股/月營收大成長的公司}
+{@type:filter}
 input:lowlimit(20);//單位:%
 variable:FEPS(0);
 setinputname(1,"成長百分比");

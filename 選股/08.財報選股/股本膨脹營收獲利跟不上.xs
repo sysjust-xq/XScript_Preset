@@ -1,4 +1,4 @@
-{@type:filter|@guid:77b841ce3b99415f808d0ef6769828da|@path:/08.財報選股/股本膨脹營收獲利跟不上}
+{@type:filter}
 //input:TXT("僅適用年資料"); setinputname(1,"使用限制");
 setbarfreq("Y");
 

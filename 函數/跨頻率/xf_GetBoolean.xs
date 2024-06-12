@@ -1,4 +1,4 @@
-{@type:function_bool|@guid:066d74f514e44dc2b33d2d137adf4b34|@path:/跨頻率/xf_GetBoolean}
+{@type:function_bool}
 SetBarMode(1);
 
 // 傳入一個序列(跟目前的頻率不同), 取得這個序列以此頻率的第幾筆

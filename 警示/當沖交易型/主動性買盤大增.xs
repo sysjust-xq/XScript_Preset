@@ -1,4 +1,4 @@
-{@type:sensor|@guid:8adbf234304e49de8740c8b3e80ed76a|@path:/當沖交易型/主動性買盤大增}
+{@type:sensor}
 input:Length(20); setinputname(1,"調整型外盤均量計算期數");
 input:Ratio(50); setinputname(2,"外盤量增幅度%");
 input:TXT("僅適用60分鐘線"); setinputname(3,"使用限制");

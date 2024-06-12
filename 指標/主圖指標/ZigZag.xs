@@ -1,4 +1,4 @@
-{@type:indicator|@guid:016fddbd66264c1db6e98f85be163a25|@path:/主圖指標/ZigZag|@hash:12c62694ff136cb15c99f439777cb24a}
+{@type:indicator}
 {
     PlotLine(PlotIndex, x1, y1, x2, y2, add:=0);
 	    PlotIndex為 1 ~ 999，作用如同 Plot 的序列編號

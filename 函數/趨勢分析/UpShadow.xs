@@ -1,4 +1,4 @@
-{@type:function|@guid:8bf9f9ddd97f4beab44e64d47f7cd4fe|@path:/趨勢分析/UpShadow}
+{@type:function}
 //上影線佔實體比例
 SetBarMode(1);
 

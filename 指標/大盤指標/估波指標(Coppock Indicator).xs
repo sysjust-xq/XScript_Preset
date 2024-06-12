@@ -1,4 +1,4 @@
-{@type:indicator|@guid:0986e588719446d986bc6cdf446d612a|@path:/大盤指標/估波指標(Coppock Indicator)|@hash:f6b5dbc955ec32c2f4ad79534364ac62}
+{@type:indicator}
 { 一般適用於大盤月線資料 }
 
 input:length1(14);		setinputname(1, "天期一");

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:7e04da7a840743d8a8c9f44756db9940|@path:/籌碼指標/資金流向|@hash:1076ba325a2b522e5baeefbac7d78746}
+{@type:indicator}
 {
 指標說明
 收錄於「三週學會程式交易：打造你的第一筆自動化交易」 327頁

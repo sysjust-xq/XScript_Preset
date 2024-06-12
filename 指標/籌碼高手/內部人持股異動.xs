@@ -1,4 +1,4 @@
-{@type:indicator|@guid:21d78228c7124be9b189d3e736a61c73|@path:/籌碼高手/內部人持股異動|@hash:0a45eb81551abff54fe081b674890392}
+{@type:indicator}
 {支援頻率：日、週、月}
 {支援商品：美(股票)}
 

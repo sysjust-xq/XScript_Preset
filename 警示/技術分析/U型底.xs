@@ -1,4 +1,4 @@
-{@type:sensor|@guid:f205e735642042b09353f9dc29d8da2f|@path:/技術分析/U型底}
+{@type:sensor}
 input:in1(20,"底部期數下限"),in2(0.5,"標準差放寬倍數"),in3(20,"連續下降趨勢天數");
 variable:KP(0),HSV(0);
 value1=standarddev(weightedclose,10,2);//計算一定期數標準差

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:a86e69667b9641e5b275543705f5109e|@path:/波段操作型/休息後風雲再起|@hash:a56197169eb45bf2d322d226a61458c8}
+{@type:sensor}
 settotalbar(5);
 
 condition1 =  Close[3] > low[3]* 1.01;

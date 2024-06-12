@@ -1,4 +1,4 @@
-{@type:filter|@guid:a50a3ce6ec844b9d82bba5200eec6355|@path:/08.財報選股/流動資產減負債超過總市值N成}
+{@type:filter}
 input:ratio(80,"比率下限");
 
 value1=GetField("流動資產","Q");//單位百萬

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:c903f84ca14b466ca9ed927e4aa89dae|@path:/短線操作型/短線轉強}
+{@type:sensor}
 input:day(66,"移動平均天數");
 input:ratio(30,"超出均值比率");
 variable:count(0);

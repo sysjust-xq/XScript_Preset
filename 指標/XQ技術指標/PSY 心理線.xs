@@ -1,4 +1,4 @@
-{@type:indicator|@guid:9c6c2dafc89443bc9e7c05592f6b8509|@path:/XQ技術指標/PSY 心理線|@hash:2ad6795aeb323ef8e128a47d1e59550c}
+{@type:indicator}
 // XQ: 心理線
 //
 input: Length1(12), Length2(24);

@@ -1,4 +1,4 @@
-{@type:function|@guid:e15e5a9861d44a23bb77e9b4f08830b0|@path:/價格關係/QoQ}
+{@type:function}
 SetBarMode(1);
 
 input:QoQVal(numericseries);

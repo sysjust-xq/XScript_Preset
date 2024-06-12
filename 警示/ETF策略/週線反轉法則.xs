@@ -1,4 +1,4 @@
-{@type:sensor|@guid:f94e5fac108a46aea681af28750860ec|@path:/ETF策略/週線反轉法則}
+{@type:sensor}
 input:rate1(5,"先前週線漲幅");
 input:rate2(3,"本週低點跌幅");
 input:TXT("僅適用日線","使用限制");

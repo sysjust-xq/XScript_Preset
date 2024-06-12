@@ -1,4 +1,4 @@
-{@type:filter|@guid:df4a64412e20413aa8e1742b6dd837de|@path:/11.選股機器人/烏龜交易法則之賣出訊號}
+{@type:filter}
 setbarfreq("AD");
 
 condition1=false;

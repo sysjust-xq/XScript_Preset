@@ -1,4 +1,4 @@
-{@type:sensor|@guid:62fa3e9095ce4218af76439f5c1fd0b0|@path:/3.出場常用警示/MACD出現賣出訊號|@hash:dcdf0b6ded2eb4f68685ed6863ed14d4}
+{@type:sensor}
 input: FastLength(12), SlowLength(26), MACDLength(9);
 
 SetTotalBar((maxlist(FastLength,SlowLength,6) + MACDLength) * 3 + 8);

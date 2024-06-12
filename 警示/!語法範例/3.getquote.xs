@@ -1,4 +1,4 @@
-{@type:sensor|@guid:bbbbd1e723ba45a7b5f541903072ad52|@path:/!語法範例/3.getquote}
+{@type:sensor}
 //第三個範例，我們示範如何利用盤中即時數據﹙委買、委賣、內盤量、外盤量等等﹚來製作警示
 //使用者可以透過"getquote"來取得這些數據
 //只要在編輯器上打getquote就可以直接挑選所提供的欄位

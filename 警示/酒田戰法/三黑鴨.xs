@@ -1,4 +1,4 @@
-{@type:sensor|@guid:e66f4bf3f8404955a271f89d17f945d8|@path:/酒田戰法/三黑鴨|@hash:02dfc3de9bf8bd349f661e7b31c22d93}
+{@type:sensor}
 {																						
 [檔名:]	三黑鴨			[資料夾:]	酒田戰法	[適用方向]	空															
 [說明:]	連三黑K棒																																								

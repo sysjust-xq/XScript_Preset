@@ -1,4 +1,4 @@
-{@type:filter|@guid:491cb91e0438435f9a8f44f3a7f3ef34|@path:/08.財報選股/獲利穩定的公司}
+{@type:filter}
 setbarfreq("Y");
 settotalbar(5);
 value1=GetField("每股稅後淨利(元)","Y");

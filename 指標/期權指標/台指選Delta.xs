@@ -1,4 +1,4 @@
-{@type:indicator|@guid:bf35976c6da24e538da62305c2a720bf|@path:/期權指標/台指選Delta|@hash:64fc4de0eafc56974494d6e3294d39b5}
+{@type:indicator}
 input: 
 	iRate100(2,"無風險利率%"),
 	iVolity100(20,"波動率%"),

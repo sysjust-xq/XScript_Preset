@@ -1,4 +1,4 @@
-{@type:indicator|@guid:dac678a4319648a7ba9d3258b1eed0b2|@path:/籌碼指標/放空佔成交均量倍數|@hash:8a6a8ce75fef90f89b191850f9256cca}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/借券相關欄位在交易策略上的應用/

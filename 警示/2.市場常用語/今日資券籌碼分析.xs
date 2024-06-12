@@ -1,4 +1,4 @@
-{@type:sensor|@guid:8941ec93103d4c988868f3846cbbce38|@path:/2.市場常用語/今日資券籌碼分析}
+{@type:sensor}
 variable:i(1);
 if Currenttime > 220000  or Currenttime < 083000 then i=0; 
 

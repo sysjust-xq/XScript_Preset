@@ -1,4 +1,4 @@
-{@type:sensor|@guid:600e49df07434be38abdce38875d2ec4|@path:/短線操作型/投信初介入}
+{@type:sensor}
 input: day(30, "投信交易期間");
 
 if GetSymbolField("TSE.TW","收盤價") > average(GetSymbolField("TSE.TW","收盤價"),10)

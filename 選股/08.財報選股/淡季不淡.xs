@@ -1,4 +1,4 @@
-{@type:filter|@guid:9e80ddbd475d46c991ac5514039e2090|@path:/08.財報選股/淡季不淡}
+{@type:filter}
 input:r1(5);	setinputname(1,"過去幾年月營收單月衰退幅度下限(%)");
 input:r2(0);	setinputname(2,"最近一個月營收月增率下限(%)");
 //input:TXT("僅適用月線"); setinputname(3,"使用限制");

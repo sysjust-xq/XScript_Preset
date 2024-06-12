@@ -1,4 +1,4 @@
-{@type:indicator|@guid:8129c6fe44a34c2ea4bb5f578293d52e|@path:/籌碼高手/綜合前十大券商|@hash:42f1fa5b9c1cbab7ad6638441628c8f8}
+{@type:indicator}
 condition999 = symbolexchange = "TW" or symbolexchange = "TE";//台股+興櫃
 condition998 = condition999 = true and (symboltype = 2 or symboltype = 1);//個股+興櫃+類股
 condition994 = symbol = "TSE.TW" or symbol = "TWSE.FS" or symbol = "OTC.TW";//大盤

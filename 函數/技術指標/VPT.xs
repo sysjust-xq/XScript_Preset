@@ -1,4 +1,4 @@
-{@type:function|@guid:2cad92a675a447f985348d3d927977dc|@path:/技術指標/VPT}
+{@type:function}
 SetBarMode(2);
 
 // XQ: PVT指標

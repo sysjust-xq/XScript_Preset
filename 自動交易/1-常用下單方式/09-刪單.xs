@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:df1968d5c6df4ec8993db7ea0ca489a9|@path:/1-常用下單方式/09-刪單}
+{@type:autotrade}
 {
 	刪除尚未完全成交的委託
 }

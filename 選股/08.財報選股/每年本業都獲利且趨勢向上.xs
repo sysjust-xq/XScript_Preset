@@ -1,4 +1,4 @@
-{@type:filter|@guid:b2eb9c0e9be442d8833927cf39fc343d|@path:/08.財報選股/每年本業都獲利且趨勢向上}
+{@type:filter}
 input:lm(200,"年營業利益下限");
 settotalbar(5);
 

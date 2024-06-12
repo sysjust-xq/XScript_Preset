@@ -1,4 +1,4 @@
-{@type:function|@guid:5ca0c9139242435482c5dc1a3e5f0f25|@path:/跨頻率/xfMin_EMA|@hash:e73456a3797098b318818d6d4c7e6890}
+{@type:function}
 SetBarMode(2);
 
 // 跨頻率EMA

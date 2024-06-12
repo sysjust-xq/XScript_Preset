@@ -1,4 +1,4 @@
-{@type:filter|@guid:c2dcf7b56d184be9b3b84f1342900e20|@path:/08.財報選股/可能由虧轉盈}
+{@type:filter}
 // 計算最新一期月營收的日期(mm=月份)
 //
 variable: mm(0);

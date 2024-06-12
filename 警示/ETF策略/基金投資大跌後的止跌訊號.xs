@@ -1,4 +1,4 @@
-{@type:sensor|@guid:54f1a2ab8e40477181537d16cde3c9ec|@path:/ETF策略/基金投資大跌後的止跌訊號}
+{@type:sensor}
 if (open[2] - close[2] ) > (high[2] -low[2]) * 0.75
 //前前期出黑K棒
 and close[2] < close[3]-(high[3]-low[3])

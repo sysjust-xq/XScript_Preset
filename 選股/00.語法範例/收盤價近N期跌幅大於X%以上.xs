@@ -1,4 +1,4 @@
-{@type:filter|@guid:9898c5cb26c54cfe96c6c81a2533f2e6|@path:/00.語法範例/收盤價近N期跌幅大於X%以上}
+{@type:filter}
 input:N(10);	SetInputName(1, "期別");
 input:X(5); 	SetInputName(2, "跌幅%");
 

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:b076abb46567469889479baa296777b1|@path:/主圖指標/處置期間|@hash:deb0c523b64deb71397f4e9055172fc5}
+{@type:indicator}
 if BarFreq <> "d" and BarFreq <> "ad" then raiseruntimeerror("僅支援日與還原日頻率");
 
 value1 = GetField("處置開始日期");

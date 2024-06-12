@@ -1,4 +1,4 @@
-{@type:sensor|@guid:d122d480bbd146b7a6ce0056d248a191|@path:/技術分析/野百合的春天}
+{@type:sensor}
 //獲利穩定的公司  20天後出場
 
 settotalbar(700);

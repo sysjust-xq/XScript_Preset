@@ -1,4 +1,4 @@
-{@type:function|@guid:7864103bc6ef4eb0a316272e2ed9c77e|@path:/技術指標/VR}
+{@type:function}
 SetBarMode(2);
 
 input:Length(numericsimple);

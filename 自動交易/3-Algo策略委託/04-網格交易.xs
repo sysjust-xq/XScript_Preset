@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:bb81147aa2794015bf8dcf82ef11e252|@path:/3-Algo策略委託/04-網格交易}
+{@type:autotrade}
 {
 	網格交易: 每當價格跌破一個網格時就買進, 上漲一個網格時則賣出
 	

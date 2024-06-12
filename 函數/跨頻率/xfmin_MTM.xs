@@ -1,4 +1,4 @@
-{@type:function|@guid:7b21286afe7843b3bf877236636f2821|@path:/跨頻率/xfmin_MTM}
+{@type:function}
 SetBarMode(1);
 
 // 跨頻率MTM函數(for MTM指標)

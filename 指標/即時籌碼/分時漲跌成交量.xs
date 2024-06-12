@@ -1,4 +1,4 @@
-{@type:indicator|@guid:79197dfc94b145289aac6a4a9143e61e|@path:/即時籌碼/分時漲跌成交量|@hash:3f436a402f40f5a3d277f3db4b782a38}
+{@type:indicator}
 {支援商品類型：台股/期權/選擇權/大盤/類股指數}
 
 if barfreq <> "Min" and barfreq <> "D" and barfreq <> "AD" then 

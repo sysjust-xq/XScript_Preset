@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:32759e6ba00d435bbc29d047041a38e1|@path:/3-Algo策略委託/03-分量權重交易(VWAP)}
+{@type:autotrade}
 {
 	分量權重(VWAP): 把預期委託數量依照歷史成交量分布, 在指定的時間範圍送出內, 預期成交均價可以接近歷史均價
 	

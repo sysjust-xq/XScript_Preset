@@ -1,4 +1,4 @@
-{@type:function|@guid:7adc0732a0b144149d70fb38c0965960|@path:/日期相關/DaysToExpiration|@hash:18349eb5f02b4d9adcffcec5ef80c222}
+{@type:function}
 SetBarMode(1);
 
 // 傳入到期月份/年份, 回傳資料日期與到期日之間還差幾日

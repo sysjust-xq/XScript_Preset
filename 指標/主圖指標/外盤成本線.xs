@@ -1,4 +1,4 @@
-{@type:indicator|@guid:8eb4885bbd2148e6995cc46ab9161ab2|@path:/主圖指標/外盤成本線|@hash:f2f7ffbbfe3595a6499e36b508addd35}
+{@type:indicator}
 {外盤成本線 = 累計當日買進金額(元) / 累計當日買進量*1000, 就是特大+大+中+小, 不分大小單
 支援商品：台股}
 

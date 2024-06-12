@@ -1,4 +1,4 @@
-{@type:indicator|@guid:f5cc62df1d2046f6b94ad49fbe15e8c8|@path:/期權指標/隱含波動率|@hash:76b039c92f72995cc9a73a00f5247b5e}
+{@type:indicator}
 input: 
 	iRate100(2,"無風險利率%");
 

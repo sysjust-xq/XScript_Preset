@@ -1,4 +1,4 @@
-{@type:indicator|@guid:2cdf5c2c26dc478cb58876ba85634c95|@path:/XQ技術指標/DMI-Osc(趨向擺盪線)|@hash:6f06636113db3435eaa5c309e882cd34}
+{@type:indicator}
 // XQ: DMI-Osc指標
 //
 input: Length( 14 );

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:315ea0f7cd9f46e2b8e1d7b1b8c13a9e|@path:/技術分析/股價轉趨活躍}
+{@type:sensor}
 //小型股
 
 input:day(66);

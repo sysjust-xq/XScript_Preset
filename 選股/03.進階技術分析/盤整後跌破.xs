@@ -1,4 +1,4 @@
-{@type:filter|@guid:92f33b569a9b4bd08c8cecbdc1fa77ab|@path:/03.進階技術分析/盤整後跌破}
+{@type:filter}
 input:length(20); 	setinputname(1, "計算期間");
 input:percent(7); 	setinputname(2, "設定盤整區間%");
 

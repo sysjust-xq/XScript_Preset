@@ -1,4 +1,4 @@
-{@type:function|@guid:d21d5975992d4975839416bad676689d|@path:/技術指標/AR}
+{@type:function}
 SetBarMode(2);
 
 {

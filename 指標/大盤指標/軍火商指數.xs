@@ -1,4 +1,4 @@
-{@type:indicator|@guid:d9d1fa605d17491da3f4a43cc4404734|@path:/大盤指標/軍火商指數|@hash:5c0ed92d235b239a8188922d521447da}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/亂世中最佳投資組合/

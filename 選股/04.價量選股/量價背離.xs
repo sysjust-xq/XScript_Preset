@@ -1,4 +1,4 @@
-{@type:filter|@guid:68e8cf45ab554685bf0dd94c2b3e4e63|@path:/04.價量選股/量價背離}
+{@type:filter}
 input:length(10);		setinputname(1,"計算區間");
 
 settotalbar(length + 3);

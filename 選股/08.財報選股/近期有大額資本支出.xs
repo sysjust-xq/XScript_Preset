@@ -1,4 +1,4 @@
-{@type:filter|@guid:2b62d10cd1fd48fda8cd06e42cdf3dfe|@path:/08.財報選股/近期有大額資本支出}
+{@type:filter}
 input:period(20,"計算N季");
 input:lm(30,"比均值增加的幅度");
 input:cm(500,"單季資本支出金額下限");

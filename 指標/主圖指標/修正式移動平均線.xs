@@ -1,4 +1,4 @@
-{@type:indicator|@guid:9e2155bfac034f498bbe53e74fb004da|@path:/主圖指標/修正式移動平均線|@hash:ad38e0215d1f072cabdc2e59d22924f3}
+{@type:indicator}
 input:n(20,"計算期數");
 variable: w(0);
 

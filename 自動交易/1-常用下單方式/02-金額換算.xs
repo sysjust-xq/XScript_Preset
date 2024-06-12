@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:d6fd2c0ba47546a0a97fd205b82f90c6|@path:/1-常用下單方式/02-金額換算}
+{@type:autotrade}
 {
 	以金額計算交易數量
 }

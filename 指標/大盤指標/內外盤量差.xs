@@ -1,4 +1,4 @@
-{@type:indicator|@guid:a352d8bfffa7493282ded046a4a0d5bd|@path:/大盤指標/內外盤量差|@hash:97a1c8193e9f56b3541625387e304eb9}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/內外盤量比在預測大盤後市上的應用/

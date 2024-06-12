@@ -1,4 +1,4 @@
-{@type:indicator|@guid:bde492be412942998a52cb6e9a53f47b|@path:/技術指標/股性綜合分數指標|@hash:70cb90ac2f3d94874a681dadbe7e68f4}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/當xs遇到ai-從特徵值的選取開始/

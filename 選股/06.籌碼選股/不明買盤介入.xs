@@ -1,4 +1,4 @@
-{@type:filter|@guid:375658acced448c7966e36d79b000600|@path:/06.籌碼選股/不明買盤介入}
+{@type:filter}
 input:period(5);	setinputname(1,"均線期間");
 input:ratio(30);	setinputname(2,"不明買盤比重%");
 

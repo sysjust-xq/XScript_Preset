@@ -1,4 +1,4 @@
-{@type:sensor|@guid:8f0638fb532343c18f1a74264f1f64b3|@path:/3.出場常用警示/天價留上影線後未開高|@hash:03b57e9a1a7951b3eb17a8c5945653e1}
+{@type:sensor}
 input:Length(20); setinputname(1,"設定波段天數");
 input:P1(2); setinputname(2,"設定高檔壓回百分比");
 input:P2(0.5); setinputname(3,"當日開高基準百分比");

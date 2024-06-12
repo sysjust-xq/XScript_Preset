@@ -1,4 +1,4 @@
-{@type:filter|@guid:ef1ad1fa22d8455ab2e01c9eb42864fe|@path:/02.基本技術指標/KD死亡交叉|@hash:a0e28e970f3e12f2a4623e4003c5d1dc}
+{@type:filter}
 // KD指標, K值由上往下穿越D值
 //
 input: Length(9), RSVt(3), Kt(3);

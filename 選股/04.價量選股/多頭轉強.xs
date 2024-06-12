@@ -1,4 +1,4 @@
-{@type:filter|@guid:9a0f7fff437f42e8aff052136da29552|@path:/04.價量選股/多頭轉強}
+{@type:filter}
 setbarfreq("AD");
 
 input:length(10, "天期");

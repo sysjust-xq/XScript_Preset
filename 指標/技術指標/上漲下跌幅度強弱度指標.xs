@@ -1,4 +1,4 @@
-{@type:indicator|@guid:ce443992222b49758d7f100b8c538212|@path:/技術指標/上漲下跌幅度強弱度指標|@hash:f37266d2a76e13f063077903951e0976}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/雲端策略中心精進版之34多頭轉強策略/

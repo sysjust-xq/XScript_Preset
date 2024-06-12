@@ -1,4 +1,4 @@
-{@type:indicator|@guid:d6ba0ff95f9748dd8cddac27583b48b9|@path:/XQ量能指標/MFI(資金流向指標)|@hash:706b888b4702401a098df717c7023e44}
+{@type:indicator}
 // XQ: MFI指標
 //
 Input: Length(6);

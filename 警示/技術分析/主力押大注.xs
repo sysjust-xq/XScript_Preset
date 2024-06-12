@@ -1,4 +1,4 @@
-{@type:sensor|@guid:afc94c33d3a3427a89a136dc4e1ff4d4|@path:/技術分析/主力押大注}
+{@type:sensor}
 //透過Z的時間安排來決定現在用的是那一根Bar的資料 
 variable: Z(0);
 if GetFieldDate("主力買賣超張數") <> 0 then

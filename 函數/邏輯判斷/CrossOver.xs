@@ -1,4 +1,4 @@
-{@type:function_bool|@guid:6850ead727a842bf883a1501d030ba98|@path:/邏輯判斷/CrossOver|@hash:718d4861266c2682cc607b41c1f65617}
+{@type:function_bool}
 SetBarMode(1);
 
 input:

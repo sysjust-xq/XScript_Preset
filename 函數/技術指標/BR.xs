@@ -1,4 +1,4 @@
-{@type:function|@guid:17ecb56745124b5fb6a0bcc2f310c26b|@path:/技術指標/BR}
+{@type:function}
 SetBarMode(2);
 
 {

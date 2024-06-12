@@ -1,4 +1,4 @@
-{@type:sensor|@guid:d59695b8e7b64cbe9758cd1a67fb616d|@path:/短線操作型/中小型股整理結束}
+{@type:sensor}
 input: Periods(20); setinputname(1,"計算期數");
 input: Ratio(3);setinputname(2,"近期波動幅度%");
 

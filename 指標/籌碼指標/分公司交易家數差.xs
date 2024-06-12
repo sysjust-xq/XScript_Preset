@@ -1,4 +1,4 @@
-{@type:indicator|@guid:90b889f8fe204e60b6a74fea7afa6834|@path:/籌碼指標/分公司交易家數差|@hash:d26daf2b48a4b121e6be5cc9a48e23ac}
+{@type:indicator}
 input:period1(22,"MA天期");
 input:period2(10,"差異MA天期");
 

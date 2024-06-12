@@ -1,4 +1,4 @@
-{@type:function|@guid:f3afaf702e184617835de9bd8b9af3b3|@path:/技術指標/DPO}
+{@type:function}
 SetBarMode(1);
 
 {

@@ -1,4 +1,4 @@
-{@type:filter|@guid:7852d9c8550b42788668445f7b98382c|@path:/06.籌碼選股/連續大戶進散戶出}
+{@type:filter}
 input: periods(3, "連續期別");
 
 setbarfreq("W");

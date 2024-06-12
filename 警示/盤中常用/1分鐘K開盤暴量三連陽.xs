@@ -1,4 +1,4 @@
-{@type:sensor|@guid:a8f0c5e34a32418eabb6870a501f3392|@path:/盤中常用/1分鐘K開盤暴量三連陽}
+{@type:sensor}
 if barfreq <> "Min" or Barinterval <>1 then RaiseRuntimeError("請設定頻率為1分鐘");
 
 variable:BarNumberOfToday(0); 

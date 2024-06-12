@@ -1,4 +1,4 @@
-{@type:filter|@guid:3fbd06e1fe0c45a2876171bac0608028|@path:/06.籌碼選股/官股買超比重}
+{@type:filter}
 input: lowlimit(30, "官股買超比重(%)");
 
 value1 = getfield("官股券商買賣超張數", "D");

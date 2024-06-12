@@ -1,4 +1,4 @@
-{@type:indicator|@guid:446fd69eea6f442dbf3ccd9107018c36|@path:/期權指標/期貨散戶多空比|@hash:1529263917b21bfa432d77d651941f1a}
+{@type:indicator}
 variable: OI_all(0), OI_small_bull(0), OI_small_bear(0), OI_small_ratio(0), OI_big_ratio(0);
 
 OI_all = getsymbolfield("FITX*1.TF","未平倉","D") 

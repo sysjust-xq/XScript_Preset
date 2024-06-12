@@ -1,4 +1,4 @@
-{@type:indicator|@guid:6f219bedb9304cfa8ef4525123a7c368|@path:/技術指標/R平方|@hash:315dc86160b5849d6c00a48905449b0b}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/趨勢檢定器/

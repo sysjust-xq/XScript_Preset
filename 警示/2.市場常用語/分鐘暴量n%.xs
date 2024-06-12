@@ -1,4 +1,4 @@
-{@type:sensor|@guid:35729f536bbe49e3b3f7a73ec01e55a0|@path:/2.市場常用語/分鐘暴量n%|@hash:ecd1d6ea2abc02fd8a5ed7bc50b3b4bd}
+{@type:sensor}
 input:percent(100);  setinputname(1,"量增比例%");
 input:Length(200);  setinputname(2,"均量期數");
 input:XLimit(True);  setinputname(3,"限制最低觸發門檻");

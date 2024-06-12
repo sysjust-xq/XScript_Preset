@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:787a1399f87b4413a5e7638e4b3a92ce|@path:/常見技術分析/空頭/帶量死亡交叉均線}
+{@type:autotrade}
 // 宣告參數
 input: Length(10, "期數"), VolFactor(2, "成交量放大倍數");
 var: avgP(0), avgVol(0);

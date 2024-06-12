@@ -1,4 +1,4 @@
-{@type:function|@guid:21de79c68de449bfaa13668d15675404|@path:/排行/漲幅排行榜|@hash:b6805aa036b507cd47c981ac6a4f5cee}
+{@type:function}
 SetBarMode(1);
 
 // 這是一個自訂排行條件的範例

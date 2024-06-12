@@ -1,4 +1,4 @@
-{@type:sensor|@guid:8ac84a27abb743bd82f5fdd7b7179799|@path:/3.出場常用警示/KD高檔死亡交叉|@hash:9a884c721f2930ef5dd3b179e4aa3b07}
+{@type:sensor}
 input: Length(9), RSVt(3), Kt(3), HighBound(75);
 
 SetTotalBar(maxlist(Length,6) * 3 + 8);

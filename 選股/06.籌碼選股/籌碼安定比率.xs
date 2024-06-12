@@ -1,4 +1,4 @@
-{@type:filter|@guid:2cb8cd91729e407798907f759421fe2a|@path:/06.籌碼選股/籌碼安定比率}
+{@type:filter}
 input:r1(60);	setinputname(1,"投信外資及董監合計持股比例下限(%)");
 
 SetTotalBar(3);

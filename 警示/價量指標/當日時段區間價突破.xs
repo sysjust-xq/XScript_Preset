@@ -1,4 +1,4 @@
-{@type:sensor|@guid:438e8934fc1d4cd6be0847f722e51014|@path:/價量指標/當日時段區間價突破|@hash:bf7bea38c8e67a173cbe4d7c4788ca37}
+{@type:sensor}
 input:initialtime(090000); setinputname(1,"起算時間HHmmss");
 input:timeline(100000);   setinputname(2,"截止時間HHmmss");
 input:CloseAtHigh(false); setinputname(3,"收盤價亦須創新高");

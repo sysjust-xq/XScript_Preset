@@ -1,4 +1,4 @@
-{@type:sensor|@guid:04f5f416dd8e483e87c85a410a328dbf|@path:/!語法範例/陣列例子}
+{@type:sensor}
 //陣列可以用來存放多個相同屬性的變數值，而不需重複宣告
 
 //2.宣告變數，利用variable

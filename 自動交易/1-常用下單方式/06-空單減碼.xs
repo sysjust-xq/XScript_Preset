@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:1cf1358f7d0f4223bf3a09eec06b1d2d|@path:/1-常用下單方式/06-空單減碼}
+{@type:autotrade}
 {
 	空單減碼
 }

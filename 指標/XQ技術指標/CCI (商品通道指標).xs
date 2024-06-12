@@ -1,4 +1,4 @@
-{@type:indicator|@guid:21c83d56fee646238a0437f93322cd4f|@path:/XQ技術指標/CCI (商品通道指標)|@hash:48cdedf91b047a343f6aea094318b804}
+{@type:indicator}
 // XQ: CCI指標
 //
 input: 

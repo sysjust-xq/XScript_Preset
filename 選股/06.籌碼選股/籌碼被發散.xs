@@ -1,4 +1,4 @@
-{@type:filter|@guid:84a8e61edf8645f1bbaa7309fbae554c|@path:/06.籌碼選股/籌碼被發散}
+{@type:filter}
 setbarfreq("AD");
 
 input:period(10, "天期");

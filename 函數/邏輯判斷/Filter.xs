@@ -1,4 +1,4 @@
-{@type:function_bool|@guid:0dfacc591cf44cc7ae661bd5e7040957|@path:/邏輯判斷/Filter|@hash:8ce49c44456dfd055441c6a36a9e9710}
+{@type:function_bool}
 SetBarMode(2);
 
 input:  pX(TrueFalseSimple), pLength(NumericSimple);

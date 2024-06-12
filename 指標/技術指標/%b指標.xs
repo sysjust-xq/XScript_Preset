@@ -1,4 +1,4 @@
-{@type:indicator|@guid:f89674f3d031442684521ea2267adfb7|@path:/技術指標/%b指標|@hash:b42adbed1c5745228c97719b536d7067}
+{@type:indicator}
 input: Length(20);	SetInputName(1, "布林通道天數");
 input: BandRange(2);SetInputName(2, "上下寬度");
 input: MALength(10);SetInputName(3, "MA天期");

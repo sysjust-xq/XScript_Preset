@@ -1,4 +1,4 @@
-{@type:function|@guid:26f5e18d32f94a36aab6bac8d2d2a673|@path:/技術指標/KO成交量擺盪指標}
+{@type:function}
 SetBarMode(2);
 
 Input: Length1(numericsimple, "短天期");

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:80bfd59e40864bd8802e190379b6478a|@path:/大盤指標/Q指標|@hash:4b9746e2f35991d7dcae0453ec669d01}
+{@type:indicator}
 input:t1(10);	setinputname(1,"天期");
 input:t2(5);	setinputname(2,"平均天期");
 input:t3(20);	setinputname(3,"雜訊平滑天期");

@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:dcaa8412ad3e4809b031831da4433042|@path:/2-下單出場方式/08-多單移動停利(點)}
+{@type:autotrade}
 {
 	多單移動停利(點)
 

@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:150899b2dedc47b08079ee2d7495aab6|@path:/0-基本語法/02-SetPosition範例#2(空單1口)}
+{@type:autotrade}
 {
 	範例: 
 	

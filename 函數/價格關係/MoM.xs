@@ -1,4 +1,4 @@
-{@type:function|@guid:5a24b5f217904930a81a074055f08762|@path:/價格關係/MoM}
+{@type:function}
 SetBarMode(1);
 
 input:MomVal(numericseries);

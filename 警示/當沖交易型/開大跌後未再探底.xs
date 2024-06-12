@@ -1,4 +1,4 @@
-{@type:sensor|@guid:a24514bacf504522b95dd87b25dc25b7|@path:/當沖交易型/開大跌後未再探底}
+{@type:sensor}
 input:ratio(4);     setinputname(1,"開低幅度%"); 
 input:ratio1(0.5);  setinputname(2,"開低後回升幅度%");
 settotalbar(3);

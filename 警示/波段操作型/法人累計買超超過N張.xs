@@ -1,4 +1,4 @@
-{@type:sensor|@guid:72e90b6b678d4385bf685a70c17bf556|@path:/波段操作型/法人累計買超超過N張|@hash:675723ff2d28327ab8b6cf09080fdbb5}
+{@type:sensor}
 input: ForceType(1); setinputname(1,"法人：0=合計 1=外資 2=投信 3=自營商");
 input: Periods(20); setinputname(2,"計算期間");
 input: Size(3000); setinputname(3,"累計買超張數");

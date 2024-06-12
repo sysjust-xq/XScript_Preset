@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:6efe8b0c9b8e4bb58454aaf6ead1fd9b|@path:/0-基本語法/06-FilledRecord函數}
+{@type:autotrade}
 {
 	除了Filled跟FilledAvgPirce之外, 系統也提供FilledRecord相關的函數, 讓腳本可以取得每一筆成交的詳細資料
 }

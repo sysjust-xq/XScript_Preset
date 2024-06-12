@@ -1,4 +1,4 @@
-{@type:filter|@guid:e7da2cd61ef6493986bee7c35adbba58|@path:/08.財報選股/預估殖利率高的}
+{@type:filter}
 value1=GetField("營業利益","Q");//單位:百萬
 value2=GetField("月營收","M");//單位:億
 value3=GetField("營業利益率","Q");

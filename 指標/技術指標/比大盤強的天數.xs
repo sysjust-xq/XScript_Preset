@@ -1,4 +1,4 @@
-{@type:indicator|@guid:a49778867f7f4cd99c02b20ed1a4cd41|@path:/技術指標/比大盤強的天數|@hash:115faa5755d4cf996ee9f245ceab1e4b}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/股性系列之七-比大盤強的天數/

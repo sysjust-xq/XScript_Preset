@@ -1,4 +1,4 @@
-{@type:indicator|@guid:8777e88a9afe4eb19a3fd128d229e78b|@path:/技術指標/價量齊揚天數|@hash:2ca528c28fadfa9fa568fc021c39073a}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/從相對的角度尋找真正價量齊揚的股票-2/

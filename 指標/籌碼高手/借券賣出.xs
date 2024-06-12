@@ -1,4 +1,4 @@
-{@type:indicator|@guid:75bb1bcc393d4c088ddb029c2b24ea19|@path:/籌碼高手/借券賣出|@hash:565c96a1e53d127c7c49a676979808a1}
+{@type:indicator}
 condition996 = symbolexchange = "TW" = true and symboltype = 2;//個股
 condition994 = symbol = "TSE.TW" or symbol = "TWSE.FS" or symbol = "OTC.TW";//大盤
 

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:0e1cbd3dee234246b89227f5c64e08c9|@path:/大盤指標/上漲下跌家數差RSI指標|@hash:f52d31b324ce8cf7172dd39547969fd2}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/上漲下跌家數差RSI指標/

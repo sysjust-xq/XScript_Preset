@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:381c0f585b0c400b878744e157c88d45|@path:/1-常用下單方式/03-全部賣出}
+{@type:autotrade}
 {
 	多單全部賣出
 }

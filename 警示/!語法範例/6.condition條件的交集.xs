@@ -1,4 +1,4 @@
-{@type:sensor|@guid:082b5410c3ff45d3a5cba1dd1fe17ac4|@path:/!語法範例/6.condition條件的交集}
+{@type:sensor}
 //就像value1~value99是系統內建變數，其回傳值是一個數值
 //condition1~condition99是系統內建回傳true或false邏輯值的變數名稱
 //於是我們在口語上的如果~而且~就通知我，這樣的語法很容易用這個方式來撰寫

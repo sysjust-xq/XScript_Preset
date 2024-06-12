@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:6d7200cd8b3e437caeed065367244a8d|@path:/常見技術分析/空頭/短期RSI死亡交叉長期RSI}
+{@type:autotrade}
 // 宣告參數
 input: ShortLength(6, "短期期數"), LongLength(12, "長期期數");
 var:RSI_Short(0), RSI_Long(0);

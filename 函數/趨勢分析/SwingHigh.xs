@@ -1,4 +1,4 @@
-{@type:function|@guid:338bcd4030a24d11b2a3420e0281fe44|@path:/趨勢分析/SwingHigh|@hash:48bd67360c3459844a0be2d47cd65d7f}
+{@type:function}
 SetBarMode(2);
 
 input: Price(numericseries), Length(numericsimple), LeftStrength(numericsimple), RightStrength(numericsimple), occur(numericsimple);

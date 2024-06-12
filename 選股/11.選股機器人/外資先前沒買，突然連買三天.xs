@@ -1,4 +1,4 @@
-{@type:filter|@guid:b6e3cccab9354a98870c78d755c1968c|@path:/11.選股機器人/外資先前沒買，突然連買三天}
+{@type:filter}
 setbarfreq("AD");
 
 input: _period(20, "期間");

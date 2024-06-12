@@ -1,4 +1,4 @@
-{@type:sensor|@guid:fead427080de443cbca164a44ea09940|@path:/價量指標/開高帶量走低|@hash:20b27d175416d4a0edf4fdb9bebf3025}
+{@type:sensor}
 Input: AmountThre(2000); setinputname(1,"開高量(萬)");
 variable: initialAmount(0);
 variable: intrabarpersist XDate(0);

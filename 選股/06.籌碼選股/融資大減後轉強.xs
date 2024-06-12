@@ -1,4 +1,4 @@
-{@type:filter|@guid:c42f4f2dde0743dab1e2218385c2327f|@path:/06.籌碼選股/融資大減後轉強}
+{@type:filter}
 input: period(80);		setinputname(1, "計算區間");
 input: v1(3000);		setinputname(2, "融資減少張數");
 

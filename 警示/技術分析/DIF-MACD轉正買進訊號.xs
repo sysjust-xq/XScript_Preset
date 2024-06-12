@@ -1,4 +1,4 @@
-{@type:sensor|@guid:eb34c8a3fe794e15a94d4d13ba4fd933|@path:/技術分析/DIF-MACD轉正買進訊號}
+{@type:sensor}
 {L.J.R. Sep.2014}
 // DIF-MACD翻正
 //

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:28c422b09d2345c2983282d68f3210f6|@path:/XQ量能指標/投資建議目標價潛在獲利率|@hash:7242bbbd205fc151f00603fa5fffed93}
+{@type:indicator}
 //支援頻率：不定期
 //支援商品 ：美(股票)
 var:exchange("");

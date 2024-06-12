@@ -1,4 +1,4 @@
-{@type:indicator|@guid:c1aaf4948dd947248a8a6d200795284b|@path:/技術指標/淨買賣力指標|@hash:02714bfa288ce43400ddf0cb235d78cb}
+{@type:indicator}
 input: Period(20,"期數");
 
 if high<>low and truerange <> 0 then begin 

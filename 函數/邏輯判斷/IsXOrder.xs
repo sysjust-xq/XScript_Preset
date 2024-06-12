@@ -1,4 +1,4 @@
-{@type:function_bool|@guid:c26bc7c307a1418388ad052c3ad78636|@path:/邏輯判斷/IsXOrder}
+{@type:function_bool}
 {
 	判斷成交金額是否是大單(大單+特大單)
 	

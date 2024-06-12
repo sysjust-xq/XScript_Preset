@@ -1,4 +1,4 @@
-{@type:indicator|@guid:0d2ec29a19cd45c689037aa49163ffc6|@path:/跨頻率指標/分鐘與日MACD|@hash:9b1793367fdd31dd58a233080d65db0e}
+{@type:indicator}
 // 跨頻率MACD指標，預設跨頻率為30分
 // 不支援大頻率跨小頻率，例如：
 // 不支援主頻率60分鐘，跨頻率計算30分鐘MACD技術指標。

@@ -1,4 +1,4 @@
-{@type:filter|@guid:032d9e7d87ca445ca4336eeff409ab6d|@path:/04.價量選股/曾經一個月漲超過兩成的股票}
+{@type:filter}
 setbarfreq("M");
 settotalbar(12);
 

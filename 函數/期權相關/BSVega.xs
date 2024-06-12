@@ -1,4 +1,4 @@
-{@type:function|@guid:fc3be5d07b1f4cb98ce8ac7e032167bc|@path:/期權相關/BSVega|@hash:5b827570a475cc309ed6a137ff9064e4}
+{@type:function}
 SetBarMode(1);
 
 input:

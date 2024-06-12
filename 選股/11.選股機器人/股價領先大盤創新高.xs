@@ -1,4 +1,4 @@
-{@type:filter|@guid:e6102164ca204568baa00b4eda423508|@path:/11.選股機器人/股價領先大盤創新高}
+{@type:filter}
 input: Length(20, "布林通道天數");
 input: BandRange(2, "上下寬度");
 variable: up(0);

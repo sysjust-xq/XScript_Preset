@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:0ac319963f934ce8b9907d5e7cba7391|@path:/0-基本語法/05-FilledAvgPrice以及停損停利範例}
+{@type:autotrade}
 {
 	除了可以使用Filled來知道目前的成交部位之外, 
 	也可以透過FilledAvgPrice這個函數來取得目前"未平倉"部位的成本	

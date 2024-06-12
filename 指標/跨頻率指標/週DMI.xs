@@ -1,4 +1,4 @@
-{@type:indicator|@guid:c3d3dc18baec4e5ab0bbd29260cf2e90|@path:/跨頻率指標/週DMI|@hash:aefd4f06254df36d9d87b92d9cd91790}
+{@type:indicator}
 // 跨頻率週DMI指標
 // 不支援大頻率跨小頻率，例如：
 // 不支援主頻率週資料，跨頻率計算日DMI技術指標。

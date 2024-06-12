@@ -1,4 +1,4 @@
-{@type:indicator|@guid:f84c684f920e4973ba63ced2fde49a03|@path:/XQ技術指標/BR 指標|@hash:6617853b07b4be75f11a97eb10252005}
+{@type:indicator}
 // XQ BR指標
 //
 input: Length(26);

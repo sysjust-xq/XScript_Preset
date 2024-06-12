@@ -1,4 +1,4 @@
-{@type:sensor|@guid:4da423c5cced4adeafed560f62e8c864|@path:/技術分析/股價穿越突破雙均線|@hash:aca2fe6e51fa73083296cc47062cf922}
+{@type:sensor}
 input: shortlength(5); setinputname(1,"短期均線期數");
 input: Longlength(20); setinputname(2,"長期均線期數");
 

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:1a31dcaaf14f41bfb5ed5d33b575a50c|@path:/波段操作型/暴量剛起漲|@hash:3750d01659ff85f4c2143f357905e791}
+{@type:sensor}
 input: Length(20);       setinputname(1,"計算期數");
 input: VLength(10);      setinputname(2,"均量期數");
 input: volpercent(50);   setinputname(3,"爆量增幅%");

@@ -1,4 +1,4 @@
-{@type:filter|@guid:0d1d69c4ecb54c67b4d11c756937eb4a|@path:/06.籌碼選股/主力慢慢收集籌碼後攻堅}
+{@type:filter}
 setbarfreq("AD");
 
 input:period(10,"籌碼計算天期");

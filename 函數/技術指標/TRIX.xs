@@ -1,4 +1,4 @@
-{@type:function|@guid:31df812470ed4d30af3a7592649c9054|@path:/技術指標/TRIX|@hash:7e23b69194ea07bb3f696e4ca3fbba8f}
+{@type:function}
 SetBarMode(2);
 
 // TRIX function (for TRIX指標)

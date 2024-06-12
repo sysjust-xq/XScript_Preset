@@ -1,4 +1,4 @@
-{@type:indicator|@guid:ca9f8549394748cfb2d7cc56b7c89d9a|@path:/技術指標/波動區間指標|@hash:af3d84107346909dc7c85cb263efd00f}
+{@type:indicator}
 input:
 	short1(3,"短期平均"),
 	mid1(20,"長期平均");

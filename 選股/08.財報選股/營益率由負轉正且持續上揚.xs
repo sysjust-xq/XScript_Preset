@@ -1,4 +1,4 @@
-{@type:filter|@guid:a9e1059f47a1496e8c6f347117637ee9|@path:/08.財報選股/營益率由負轉正且持續上揚}
+{@type:filter}
 settotalbar(3);
 
 if 

@@ -1,4 +1,4 @@
-{@type:filter|@guid:a1604141038247eda588350a1b3998ca|@path:/05.型態選股/上昇旗形}
+{@type:filter}
 setbarfreq("AD");
 
 input:period(20,"計算區間");

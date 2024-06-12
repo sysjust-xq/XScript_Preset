@@ -1,4 +1,4 @@
-{@type:sensor|@guid:1ab6815b8a7d4fcca720afbfe48a70b0|@path:/技術分析/MACD黃金交叉|@hash:eec105158af2be2ab9f91855349795e3}
+{@type:sensor}
 // MACD 黃金交叉 (dif向上穿越macd)
 //
 input: FastLength(12), SlowLength(26), MACDLength(9);

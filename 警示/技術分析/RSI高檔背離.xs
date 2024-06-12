@@ -1,4 +1,4 @@
-{@type:sensor|@guid:414c4bb3ac5b44baac8a45904e3a2a09|@path:/技術分析/RSI高檔背離|@hash:07c68373e615af07a6d34f4687635e1c}
+{@type:sensor}
 // RSI由高檔區往下, 與價格趨勢背離
 //
 Input: RSILength(6), Threshold(80), Region(5);

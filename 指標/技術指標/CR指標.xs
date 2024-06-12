@@ -1,4 +1,4 @@
-{@type:indicator|@guid:9a6d3cba3a2f4bab802beb626646d845|@path:/技術指標/CR指標|@hash:b0642b45fd534308ae80c1de9474659c}
+{@type:indicator}
 input:Length(26,"N日累積");
 variable:Upsum(0),Downsum(0),CR(0); 
  

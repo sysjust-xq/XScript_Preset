@@ -1,4 +1,4 @@
-{@type:indicator|@guid:a5c44f71632f4a4a8c273e420abd8db8|@path:/技術指標/ZDZB築底指標|@hash:8378f2dd3c1bdc0b1ecf5cd560d105ad}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/築底指標-2/

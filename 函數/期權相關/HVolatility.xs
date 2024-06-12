@@ -1,4 +1,4 @@
-{@type:function|@guid:52ede3e3fd6241998947a34920400c95|@path:/期權相關/HVolatility|@hash:18be7d1a7c4927c54c959a2f5865b3f4}
+{@type:function}
 SetBarMode(1);
 
 input: 

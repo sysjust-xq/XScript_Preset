@@ -1,4 +1,4 @@
-{@type:filter|@guid:754d794e17f14117b393bc7dca1fe211|@path:/05.型態選股/做M頭的股票}
+{@type:filter}
 input:day(60,"計算區間");//設定計算區間
 input:GP(30,"波段漲幅下限");//設定波段漲幅下限，單位是%
 input:pc(2,"M頭兩高點價差上限");//設定M頭兩高點價差上限，單位是%

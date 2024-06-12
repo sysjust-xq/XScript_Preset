@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:0f175ebcffd749f3abfaf9907e333bfd|@path:/常見技術分析/多頭/ATR觸發上通道}
+{@type:autotrade}
 // 宣告參數
 input:period(20,"計算TrueRange的區間"),N(2,"N倍通道");
 

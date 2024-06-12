@@ -1,4 +1,4 @@
-{@type:indicator|@guid:ba8a77dbeee94040b00de90691cd4c4b|@path:/大盤指標/上漲家數佔比指標|@hash:ad087926a0a7ecfa3578e7f2148f7be9}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/top1/

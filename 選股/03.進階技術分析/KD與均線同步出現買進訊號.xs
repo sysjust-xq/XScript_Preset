@@ -1,4 +1,4 @@
-{@type:filter|@guid:023163215b6f4c7cb4e900eeedcf1536|@path:/03.進階技術分析/KD與均線同步出現買進訊號}
+{@type:filter}
 input: Length(60, "均線期間");
 
 variable:rsv1(0),k1(0),d1(0);

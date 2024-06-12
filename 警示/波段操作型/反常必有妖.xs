@@ -1,4 +1,4 @@
-{@type:sensor|@guid:90b69952cb0e415db6b4c6c1fd583fe2|@path:/波段操作型/反常必有妖|@hash:b8692d55057e7df4ed7773a3c7ba4982}
+{@type:sensor}
 input:TXT("僅適用60分鐘"); setinputname(1,"使用限制");
 
 settotalbar(30);

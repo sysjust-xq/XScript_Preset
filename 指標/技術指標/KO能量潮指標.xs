@@ -1,4 +1,4 @@
-{@type:indicator|@guid:c60da60f96e14200b266254ac0ddf08e|@path:/技術指標/KO能量潮指標|@hash:c99c7566bf78044989bc6461969b4ea6}
+{@type:indicator}
 variable: kovolume(0);
 
 value1=(close+high+low)/3;

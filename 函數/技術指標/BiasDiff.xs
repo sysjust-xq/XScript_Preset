@@ -1,4 +1,4 @@
-{@type:function|@guid:614da5d22ab340178b7f0d6bab7d3f6b|@path:/技術指標/BiasDiff}
+{@type:function}
 SetBarMode(1);
 
 {

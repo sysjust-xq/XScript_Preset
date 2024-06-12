@@ -1,4 +1,4 @@
-{@type:indicator|@guid:746d66cbf80a48bb8d610d42823fe703|@path:/即時籌碼/流動大戶買賣力|@hash:0ad16624897bea49ac38070aed6041fe}
+{@type:indicator}
 {近15分鐘累計的(買進大單量+買進特大單量)-(賣出大單量+賣出特大單量)
 抓近15分鐘的目的是希望可以看到最近的買賣力。}
 array:_ArrayLarge[15](0),_ArraySmall[15](0);

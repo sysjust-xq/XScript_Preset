@@ -1,4 +1,4 @@
-{@type:sensor|@guid:7eb508d8a5cb4dc7a4a47c37876c954b|@path:/技術分析/下降趨勢突破}
+{@type:sensor}
 input:in1(70,"計算區間"),in2(false,"嚴格模式");
 //尋找不同區間大小下目測所認為的高點。
 

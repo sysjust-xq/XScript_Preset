@@ -1,4 +1,4 @@
-{@type:indicator|@guid:e6766a5ecf424bde881bce0486f73dc1|@path:/籌碼指標/法人買進及賣出比例|@hash:b7f6662f433193104c594ae12293a549}
+{@type:indicator}
 if barfreq = "Tick" or barfreq = "Min"
 	then raiseruntimeerror("不支援此頻率");
 	

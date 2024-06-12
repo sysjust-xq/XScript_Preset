@@ -1,4 +1,4 @@
-{@type:indicator|@guid:a9e672f187a64f28a761851e4ccabdab|@path:/XQ技術指標/HL-Osc (高低價擺盪指標)|@hash:f231ebe97f48069c00a17e616da116ce}
+{@type:indicator}
 // XQ: HL-Osc 指標
 //
 variable: tr(0), hlo(0);

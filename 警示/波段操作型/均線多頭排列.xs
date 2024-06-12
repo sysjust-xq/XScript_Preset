@@ -1,4 +1,4 @@
-{@type:sensor|@guid:44f2e845ccf04b4db6f5a9c570e1997a|@path:/波段操作型/均線多頭排列|@hash:e3fb3cf169f500097dc6b43f62cb4454}
+{@type:sensor}
 input: shortlength(5,"短期均線期數");
 input: midlength(10,"中期均線期數");
 input: Longlength(20,"長期均線期數");

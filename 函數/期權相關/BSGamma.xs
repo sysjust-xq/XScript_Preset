@@ -1,4 +1,4 @@
-{@type:function|@guid:36d5e40983a94cb098d9326fd69cddce|@path:/期權相關/BSGamma|@hash:7ed1b582502ce5307a1b7cfa6a915a65}
+{@type:function}
 SetBarMode(1);
 
 input:

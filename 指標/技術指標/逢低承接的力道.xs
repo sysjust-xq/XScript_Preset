@@ -1,4 +1,4 @@
-{@type:indicator|@guid:70106e6b1a0e4383bfb1b99ba9bae4ac|@path:/技術指標/逢低承接的力道|@hash:3d1468011b5603790df8a88e762f4b97}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/股性系列之五承接的力道/

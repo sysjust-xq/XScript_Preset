@@ -1,4 +1,4 @@
-{@type:filter|@guid:22d08de04da94a87b78e2f52f56a0137|@path:/11.選股機器人/週轉率高點買進}
+{@type:filter}
 setbarfreq("AD");
 
 value1=GetField("成交金額");

@@ -1,4 +1,4 @@
-{@type:filter|@guid:fd90f28e36594b9ea0de739f288c377f|@path:/04.價量選股/大跌後的急拉}
+{@type:filter}
 setbarfreq("AD");
 
 value1=barslast(close>=close[1]*1.07);

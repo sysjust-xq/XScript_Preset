@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:849a129d631845dd9b0d6d1d821d38a7|@path:/0-基本語法/01-SetPosition}
+{@type:autotrade}
 {
 	Position代表的是這個商品在這個策略內的’預期部位’, Position是一個整數, 可以大於0, 也可以小於0.
 	

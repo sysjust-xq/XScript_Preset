@@ -1,4 +1,4 @@
-{@type:function|@guid:26c9286a91d54652872e2c7ddb13a582|@path:/趨勢分析/NDaysAngle}
+{@type:function}
 {
 	計算股價N日走勢的角度
 

@@ -1,4 +1,4 @@
-{@type:function|@guid:95a5e49d2f6f4d369865c6de85a56469|@path:/邏輯判斷/SummationIF|@hash:9c332d373edadce4b7ccdc780cfdb93e}
+{@type:function}
 SetBarMode(1);
 
 input: TrueAndFalse(truefalseseries), thePrice(numericseries), Length(numericsimple);

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:cd75962754dc4df593726fe475bfb21c|@path:/技術指標/Stoller平均波幅通道|@hash:4f34b13735be8cdeb4f094afb3983974}
+{@type:indicator}
 input:
 	avlength(5,"均線期數"),
 	atrlength(15,"ATR平均期數"),

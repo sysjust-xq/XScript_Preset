@@ -1,4 +1,4 @@
-{@type:filter|@guid:36c5c249a3b944f69bcdc02fb6e91ccf|@path:/06.籌碼選股/法人逢低買超破億元}
+{@type:filter}
 input:day(5,"計算期別");
 input:lowlimit(1,"單位:億元");
 setbarfreq("D");

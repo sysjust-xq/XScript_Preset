@@ -1,4 +1,4 @@
-{@type:filter|@guid:3f6ff9620e8c41b8a65140f8e9256b07|@path:/08.財報選股/市值研發費用比}
+{@type:filter}
 input:n(5);						setinputname(1,"研發費用市值比");
 
 settotalbar(3);

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:ddbd64861906443a9cfd3dfbf198917d|@path:/3.出場常用警示/散戶買單比例太高且走低|@hash:9d87743801281e7ca7473914675d42f3}
+{@type:sensor}
 input:ratio(20); setinputname(1,"散戶買單比例%");
 input:TXT("須逐筆洗價"); setinputname(2,"使用限制");
 

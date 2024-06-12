@@ -1,4 +1,4 @@
-{@type:indicator|@guid:8725d261f52c4bb1af50f96309ba3d99|@path:/籌碼高手/內部人持股|@hash:c1803b8d3185c5074fa51f7322263ac1}
+{@type:indicator}
 condition999 = symbolexchange = "TW" or symbolexchange = "TE";//台股+興櫃
 condition998 = condition999 = true and symboltype = 2;//個股+興櫃
 

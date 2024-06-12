@@ -1,4 +1,4 @@
-{@type:indicator|@guid:4c4bde6b79474ee6a844878a9907d32d|@path:/籌碼指標/自營商成本線|@hash:ad9989880c0f8891737a9dcc3f167d80}
+{@type:indicator}
 
 {
 	籌碼指標。

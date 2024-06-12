@@ -1,4 +1,4 @@
-{@type:filter|@guid:ec2b785d114c4d97bfb19d7657958fb8|@path:/03.進階技術分析/波動幅度開始變大}
+{@type:filter}
 input: Length(20);		SetInputName(1, "計算區間");
 input: VolLimit(1000); SetInputName(2, "成交量限制");
 

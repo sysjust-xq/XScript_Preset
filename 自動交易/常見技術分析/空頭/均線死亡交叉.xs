@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:207ef092e57e49619566684f29a3fa92|@path:/常見技術分析/空頭/均線死亡交叉}
+{@type:autotrade}
 // 宣告參數
 input: Shortlength(5,"短期均線期數"), Longlength(20,"長期均線期數");
 

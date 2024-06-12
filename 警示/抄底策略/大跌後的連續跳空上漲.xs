@@ -1,4 +1,4 @@
-{@type:sensor|@guid:63cb8adbee4243ea98cf08fbaa36dc86|@path:/抄底策略/大跌後的連續跳空上漲}
+{@type:sensor}
 if close*1.5<close[40]
 //過去四十個交易日跌了超過四成
 and countif(open > close[1],5)>=3

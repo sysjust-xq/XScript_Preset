@@ -1,4 +1,4 @@
-{@type:filter|@guid:21caf2a794e94295a655f95119c0e7fe|@path:/02.基本技術指標/均線空頭排列|@hash:8b9146a14c51424f67158466dae352e5}
+{@type:filter}
 input:Leng1(5),Leng2(20),Leng3(60);
 
 variable: ma1(0), ma2(0), ma3(0);

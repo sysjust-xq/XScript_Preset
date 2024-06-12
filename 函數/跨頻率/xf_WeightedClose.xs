@@ -1,4 +1,4 @@
-{@type:function|@guid:9a3ac889d48d420cacce0746079cf8da|@path:/跨頻率/xf_WeightedClose|@hash:01a07f6548987e62e669e2258213ce16}
+{@type:function}
 SetBarMode(1);
 
 // 跨頻率WeightedClose函數

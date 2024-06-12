@@ -1,4 +1,4 @@
-{@type:sensor|@guid:7e33a110fa2e43b594f8e153c8b62626|@path:/當沖交易型/多次到頂而破}
+{@type:sensor}
 input:HitTimes(3);    setinputname(1,"設定觸頂次數");
 input:RangeRatio(1);  setinputname(2,"設定頭部區範圍寬度%");
 input:Length(20);     setinputname(3,"計算期數");

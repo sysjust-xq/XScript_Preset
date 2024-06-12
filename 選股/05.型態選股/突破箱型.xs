@@ -1,4 +1,4 @@
-{@type:filter|@guid:0029b7d987a842aaa25d4ff7d22e1053|@path:/05.型態選股/突破箱型}
+{@type:filter}
 input:period(20);
 input:rangeratio(10);
 variable:h1(0),h2(0),l1(0),l2(0),hd1(0),hd2(0),ld1(0),ld2(0);

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:d884483155b04da79a21ca50b43ca3c8|@path:/抄底策略/大跌後均線糾結後上漲}
+{@type:sensor}
 input: s1(5,"短期均線期數");
 input: s2(10,"中期均線期數");
 input: s3(20,"長期均線期數");

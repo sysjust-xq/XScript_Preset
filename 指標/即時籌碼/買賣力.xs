@@ -1,4 +1,4 @@
-{@type:indicator|@guid:df8b7d3d65bc42d88fe9d423435374cf|@path:/即時籌碼/買賣力|@hash:3ccc9020ba3274db8b6722c45898732b}
+{@type:indicator}
 {指標數值定義：(外盤)量 = 開盤累計到目前的(外盤)成交量
 
 支援商品：台股/期貨/選擇權}

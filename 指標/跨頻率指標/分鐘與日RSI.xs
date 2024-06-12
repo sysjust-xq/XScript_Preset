@@ -1,4 +1,4 @@
-{@type:indicator|@guid:d5e0baf86b6349a2bb9db194df3f8237|@path:/跨頻率指標/分鐘與日RSI|@hash:03090d9ecd541020d59b9547daa0d2e6}
+{@type:indicator}
 // 跨頻率RSI指標，預設跨頻率為30分
 // 不支援大頻率跨小頻率，例如：
 // 不支援主頻率60分鐘，跨頻率計算30分鐘RSI技術指標。

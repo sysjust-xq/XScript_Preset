@@ -1,4 +1,4 @@
-{@type:function|@guid:7721dca8cc7242c09d21b782bbb59bd9|@path:/技術指標/DirectionMovement|@hash:7a488b32c265cdc55fa4dd925ba25caf}
+{@type:function}
 SetBarMode(2);
 
 // DirectionMovement function (for DMI相關指標)

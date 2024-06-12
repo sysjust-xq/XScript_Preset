@@ -1,4 +1,4 @@
-{@type:filter|@guid:a9b4ad864d8840a48dd389a137f9ebae|@path:/03.進階技術分析/冷門股出量}
+{@type:filter}
 input:limit1(700);		setinputname(1,"均量上限");
 input:limit2(1000);		setinputname(2,"突破量");
 

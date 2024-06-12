@@ -1,4 +1,4 @@
-{@type:sensor|@guid:3414cd62ebac4abca905ab1222f8ae49|@path:/2.市場常用語/N期內破底次數|@hash:7bf3c80f694600926e37ae2a480e3404}
+{@type:sensor}
 input:Length(10); setinputname(1,"n期內");
 input:mNewLowTimes(3); setinputname(2,"創幾次以上新低");
  

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:6af808e6a2da418cb5fbdfedbf428f32|@path:/籌碼高手/融資維持率|@hash:a452a0586606bd4fe43255aa484a8106}
+{@type:indicator}
 condition996 = symbolexchange = "TW" = true and symboltype = 2;//個股
 condition994 = symbol = "TSE.TW" or symbol = "TWSE.FS" or symbol = "OTC.TW";//大盤
 

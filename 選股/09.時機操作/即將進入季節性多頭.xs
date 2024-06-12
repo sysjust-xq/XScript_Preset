@@ -1,4 +1,4 @@
-{@type:filter|@guid:2379066f68644867b0167137342de645|@path:/09.時機操作/即將進入季節性多頭}
+{@type:filter}
 setbarfreq("AM");
 settotalbar(3);
 

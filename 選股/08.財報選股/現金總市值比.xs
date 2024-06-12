@@ -1,4 +1,4 @@
-{@type:filter|@guid:4bfd5e1f6ffd4ba9b799872f89e59304|@path:/08.財報選股/現金總市值比}
+{@type:filter}
 value1=GetField("現金及約當現金","Q");//單位百萬
 value2=GetField("短期投資","Q");//單位百萬
 value3=(value1+value2)/100;//單位億之現金及短期投資合計金額

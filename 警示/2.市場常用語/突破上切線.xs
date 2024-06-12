@@ -1,4 +1,4 @@
-{@type:sensor|@guid:dc2cc19da9ce43b38276aa2239d46423|@path:/2.市場常用語/突破上切線|@hash:b433dc6a074cb3a0f22a83f3a6344b03}
+{@type:sensor}
 input:Length(20); setinputname(1,"上切計算期數");
 input:Rate(50); setinputname(2,"陡增率");
 

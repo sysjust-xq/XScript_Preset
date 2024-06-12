@@ -1,4 +1,4 @@
-{@type:sensor|@guid:16884a9a4cd444b7812454d5ee6f3a69|@path:/技術分析/帶量跌破均線|@hash:6411452f107bc194fd28c175f55ef690}
+{@type:sensor}
 // 帶量跌破均線
 //
 input: Length(10), VolFactor(2);

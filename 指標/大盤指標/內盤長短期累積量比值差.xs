@@ -1,4 +1,4 @@
-{@type:indicator|@guid:c86c566e4b8448b5a2b563d96ada76e5|@path:/大盤指標/內盤長短期累積量比值差|@hash:7289ec2b3e326623560c4c6d40725055}
+{@type:indicator}
 input:length1(5,"短天期"),length2(20,"長天期");
 
 variable:ac(0),ds(0),ac1(0),ds1(0);

@@ -1,4 +1,4 @@
-{@type:function|@guid:514d2535a36b415cbb0980b17fd6bc15|@path:/技術指標/Q指標}
+{@type:function}
 SetBarMode(2);
 
 input:t1(numericsimple,"天期");

@@ -1,4 +1,4 @@
-{@type:filter|@guid:b5b20696e3d84dbc840d2b0bef15762c|@path:/11.選股機器人/除權後的填權行情}
+{@type:filter}
 if  close[1]*1.1<close[20]
 and close>close[1]*1.025
 and volume>average(volume,20)

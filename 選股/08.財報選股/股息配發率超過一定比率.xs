@@ -1,4 +1,4 @@
-{@type:filter|@guid:67547fc0c1bb4dd6a13409bcc3fdd6c5|@path:/08.財報選股/股息配發率超過一定比率}
+{@type:filter}
 input:ratio(60,"股息配發率%");
 value1=GetField("每股稅後淨利(元)","Y");
 value2=GetField("現金股利","Y");

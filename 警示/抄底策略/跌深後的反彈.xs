@@ -1,4 +1,4 @@
-{@type:sensor|@guid:6de56169000a461facad2b9a1b65a42e|@path:/抄底策略/跌深後的反彈}
+{@type:sensor}
 input:ratio(10,"近十日最小下跌幅度");
 
 if open*1.025<close[1]//開盤重挫

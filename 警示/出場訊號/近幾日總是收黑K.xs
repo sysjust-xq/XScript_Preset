@@ -1,4 +1,4 @@
-{@type:sensor|@guid:36470ecc642d454ab47ce28a6b6302d4|@path:/出場訊號/近幾日總是收黑K}
+{@type:sensor}
 if countif(close<open,7)>=5
 //過去七天有五天以上收黑
 and lowest(close,90)*1.4<close

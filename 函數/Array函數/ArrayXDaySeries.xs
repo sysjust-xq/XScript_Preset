@@ -1,4 +1,4 @@
-{@type:function|@guid:2ecb0ec75dd54ace8baddcfbf8dbed68|@path:/Array函數/ArrayXDaySeries}
+{@type:function}
 {
 	以Array儲存跨頻率的序列值，傳入一個序列
 	

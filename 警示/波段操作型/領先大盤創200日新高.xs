@@ -1,4 +1,4 @@
-{@type:sensor|@guid:b3aad5869ff44807ab9fc7ae5f05cb6a|@path:/波段操作型/領先大盤創200日新高}
+{@type:sensor}
 input:period(200,"計算創新高區間");
 settotalBar(period*2);
 

@@ -1,4 +1,4 @@
-{@type:filter|@guid:e8c5de9b381e4796bffca5f3e6ca3a67|@path:/11.選股機器人/投信初介入}
+{@type:filter}
 setbarfreq("AD");
 
 input: day(30, "投信交易期間");

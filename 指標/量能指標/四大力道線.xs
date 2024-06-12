@@ -1,4 +1,4 @@
-{@type:indicator|@guid:b4530e697bcc4ad7b6240774f5b9f152|@path:/量能指標/四大力道線|@hash:d67433331ab8b6e2a6cdf0831fd5d93a}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/改良版的移動平均線四大力道線/

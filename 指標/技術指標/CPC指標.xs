@@ -1,4 +1,4 @@
-{@type:indicator|@guid:8d26abd5ce574ecd813fdd753e587914|@path:/技術指標/CPC指標|@hash:104afa8ce08d1a06c0197a91c1129ddb}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/自訂指標的撰寫技巧以q指標為例/

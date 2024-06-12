@@ -1,4 +1,4 @@
-{@type:indicator|@guid:63260bf5401e49faa7b1fcb30a73433c|@path:/大盤指標/開盤委買委賣差|@hash:102f5151228ce4e17f3027ab536ab695}
+{@type:indicator}
 {
 指標說明
 收錄於「三週學會程式交易：打造你的第一筆自動化交易」 245頁

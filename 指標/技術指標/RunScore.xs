@@ -1,4 +1,4 @@
-{@type:indicator|@guid:3251021ba417489faab50ad3512471a8|@path:/技術指標/RunScore|@hash:5d11e5d26964b8733d66797a360bc148}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/Runscore指標/

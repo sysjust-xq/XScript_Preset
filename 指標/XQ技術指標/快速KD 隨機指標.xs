@@ -1,4 +1,4 @@
-{@type:indicator|@guid:e8e5e6feb64b4b2ea3414ac0221ae28d|@path:/XQ技術指標/快速KD 隨機指標|@hash:290e8b45a6855885a75d37678f3e6563}
+{@type:indicator}
 // XQ: 快速KD指標
 //
 input: Length(9), RSVt(3);

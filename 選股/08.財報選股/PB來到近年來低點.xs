@@ -1,4 +1,4 @@
-{@type:filter|@guid:089302fa111c45b29b089d8534fd608c|@path:/08.財報選股/PB來到近年來低點}
+{@type:filter}
 input:r1(10);	setinputname(1,"PB距離N個月來低點只剩N%");
 input:r2(60);	setinputname(2,"N個月以來");
 //input:TXT("僅適用月資料"); setinputname(3,"使用限制");

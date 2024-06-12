@@ -1,4 +1,4 @@
-{@type:filter|@guid:f689f697ebf244bd9502127764e67424|@path:/06.籌碼選股/股價突破外資成本線}
+{@type:filter}
 Input: period(20, "期間(天)");
 variable: avg_b(0);
 setbarfreq("D");

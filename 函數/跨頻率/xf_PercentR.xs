@@ -1,4 +1,4 @@
-{@type:function|@guid:b2a836d953c74cf586cf3ae81cdaff5a|@path:/跨頻率/xf_PercentR|@hash:afd95c80b1d49a7adca7381cff0a61d7}
+{@type:function}
 SetBarMode(1);
 
 // 跨頻率PercentR函數(for 威廉指標)

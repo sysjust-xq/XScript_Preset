@@ -1,4 +1,4 @@
-{@type:indicator|@guid:59881eb02f224f6f85421c70d93f63eb|@path:/籌碼指標/外資換手比例|@hash:24ca0319e0045649834a72b046fe83c5}
+{@type:indicator}
 input: Length(5); setinputname(1,"計算天數");
 input:TXT("僅適用日線以上"); setinputname(2,"使用限制");
 

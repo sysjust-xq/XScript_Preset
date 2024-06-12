@@ -1,4 +1,4 @@
-{@type:filter|@guid:6a2ad5791bd54fe4b76f803c2db8865e|@path:/06.籌碼選股/籌碼從散戶手裡被收集}
+{@type:filter}
 input:ratio(200);		setinputname(1,"控盤者買張除以散戶買張的比例(%)");
 input:volLimit(2000);	setinputname(2,"成交量下限(張)");
 

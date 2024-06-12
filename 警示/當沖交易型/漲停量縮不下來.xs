@@ -1,4 +1,4 @@
-{@type:sensor|@guid:f922d381c5a24c4cbd5f3a0737a1dafa|@path:/當沖交易型/漲停量縮不下來}
+{@type:sensor}
 input: lastvolume1(2000);  setinputname(1,"漲停期間放量張數");
 input: lastvolume2(10000); setinputname(2,"當日總成交量上限");
 input:TXT1("需使用逐筆洗價"); setinputname(3,"使用限制");

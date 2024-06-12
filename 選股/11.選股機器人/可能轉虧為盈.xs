@@ -1,4 +1,4 @@
-{@type:filter|@guid:1967ebf978ec4c9fa1f277299562f6fe|@path:/11.選股機器人/可能轉虧為盈}
+{@type:filter}
 // 計算最新一期月營收的日期(mm=月份)
 //
 variable: mm(0);

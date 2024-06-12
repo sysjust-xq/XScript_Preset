@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:7e74da2009724134b261e23498a4859b|@path:/0-基本語法/07-Position跟Filled的異動時機點}
+{@type:autotrade}
 {
 	系統在什麼時候會更新Position以及Filled ?
 

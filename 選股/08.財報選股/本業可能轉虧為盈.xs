@@ -1,4 +1,4 @@
-{@type:filter|@guid:6554557ecffe43cba5cbe0b00288f37b|@path:/08.財報選股/本業可能轉虧為盈}
+{@type:filter}
 
 SetTotalbar(3);
 

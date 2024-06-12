@@ -1,4 +1,4 @@
-{@type:indicator|@guid:34b0e1a9c8724bcd91ab4316869d193c|@path:/跨頻率指標/週RSI|@hash:f10f0dd4fd4911a1182ba6687b5dbf67}
+{@type:indicator}
 // 跨頻率週RSI指標
 // 不支援大頻率跨小頻率，例如：
 // 不支援主頻率週資料，跨頻率計算日RSI技術指標。

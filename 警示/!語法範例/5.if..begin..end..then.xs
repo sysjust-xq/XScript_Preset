@@ -1,4 +1,4 @@
-{@type:sensor|@guid:e3a87f2c88264c95bc4620fcb1e31114|@path:/!語法範例/5.if..begin..end..then}
+{@type:sensor}
 //當我們的條件需要多行敘述才能完成時，
 //可以用begin..end來標示。
 

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:977f9be7b1d04451b9d8f092673318e0|@path:/籌碼高手/吉尼系數|@hash:70e7398f93f518ce3dae8c57aeafdce6}
+{@type:indicator}
 condition999 = symbolexchange = "TW" or symbolexchange = "TE";//台股+興櫃
 condition998 = condition999 = true and symboltype = 2;//個股+興櫃
 

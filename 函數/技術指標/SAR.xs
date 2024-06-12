@@ -1,4 +1,4 @@
-{@type:function|@guid:1ac64461c4f341bc8e1d3ac1998fd29e|@path:/技術指標/SAR|@hash:8c89aaba2eeb2b1e0f56f510faf81ac2}
+{@type:function}
 SetBarMode(2);
 
 // SAR function (for SAR指標)

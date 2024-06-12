@@ -1,4 +1,4 @@
-{@type:filter|@guid:f51412aa91f1405cb169a91f77221817|@path:/08.財報選股/說好的好業績一直沒有來}
+{@type:filter}
 input: r1(5);		setinputname(1, "月營收月增率上限(%)");
 input: r2(30);		setinputname(2, "預估本益比下限");
 

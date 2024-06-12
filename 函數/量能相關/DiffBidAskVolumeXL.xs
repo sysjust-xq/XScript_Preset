@@ -1,4 +1,4 @@
-{@type:function|@guid:550c53866c9848f08ca68aa2849fa3ec|@path:/量能相關/DiffBidAskVolumeXL}
+{@type:function}
 {
 	DiffBidAskVolumeXL為近15分鐘特大單買賣超的函數。
 	計算方式為「近15分鐘累計的買進特大單量－賣出特大單量」

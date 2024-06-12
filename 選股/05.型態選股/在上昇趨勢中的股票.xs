@@ -1,4 +1,4 @@
-{@type:filter|@guid:ee548ade26c143728d43263abd41ec43|@path:/05.型態選股/在上昇趨勢中的股票}
+{@type:filter}
 input:Length(20,"期間");   //"計算期間"
 settotalbar(20);
 

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:86db7ef8da5446c0af4d59722b8b86f5|@path:/抄底策略/底部確認}
+{@type:sensor}
 input:period(200,"天數");
 variable: ld(0),hd(0),ldb(0),hdb(0),count(0),x1(0);
 

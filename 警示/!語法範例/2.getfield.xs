@@ -1,4 +1,4 @@
-{@type:sensor|@guid:42f5d01a861f4d2c99e18901c6a892b7|@path:/!語法範例/2.getfield}
+{@type:sensor}
 //除了一般K線的開高低收量之外，還可以透過getfield這樣的指令取得其他商品相關資訊
 //例如可以讓使用者把台股特有的外資買賣超的資料拿來語法中運算
 //只要在編輯器上打getfield就會列出可以使用的資料供user點選

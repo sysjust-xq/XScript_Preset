@@ -1,4 +1,4 @@
-{@type:function|@guid:b5033ad30f6c4b839cc3cda4dd3b6db1|@path:/統計分析/Correlation|@hash:034e49f6c3d5496f7e34b3546f5f609d}
+{@type:function}
 SetBarMode(1);
 
 input:Indep(numericseries);{說明:獨立的K棒值}

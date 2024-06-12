@@ -1,4 +1,4 @@
-{@type:indicator|@guid:3b4d95d2906f488f962f2a9cb8dca88c|@path:/即時籌碼/分時大戶買賣力(金額)|@hash:d60082ba2684c15b72e98aa8743f73fe}
+{@type:indicator}
 {指標數值定義："大戶單=特大單+大單資料為分鐘統計金額"
 支援商品：台(股票)}
 

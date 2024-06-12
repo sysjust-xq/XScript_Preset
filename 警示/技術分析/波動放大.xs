@@ -1,4 +1,4 @@
-{@type:sensor|@guid:3efb63aaf128408ba043c41b5a5423ab|@path:/技術分析/波動放大|@hash:bdb9273f90febf2d6d94972b4b7c53bb}
+{@type:sensor}
 // 波動放大
 //
 input: Length(20), Percent(7);

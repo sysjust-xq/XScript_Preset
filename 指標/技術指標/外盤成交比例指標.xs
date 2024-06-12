@@ -1,4 +1,4 @@
-{@type:indicator|@guid:b91923cb155347c99fb4cf8817e7c649|@path:/技術指標/外盤成交比例指標|@hash:e13eca3a42653187b98db810376794fb}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/外盤成交比例指標/

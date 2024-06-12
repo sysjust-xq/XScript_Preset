@@ -1,4 +1,4 @@
-{@type:sensor|@guid:06ebfc9e302f49dc8ed7486931cb012a|@path:/ETF策略/月KD高檔鈍化且日KD黃金交叉}
+{@type:sensor}
 input: Length_D(9, "日KD期間");
 input: Length_M(5, "月KD期間");
 

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:7c8ae3d25e0b48adaa8269e55948844b|@path:/酒田戰法/多頭三星|@hash:09b185d3c3cab61a4acec719a8a96989}
+{@type:sensor}
 {																						
 [檔名:]	多頭三星			[資料夾:]	酒田戰法	[適用方向]	多															
 [說明:]	近三期開高低收皆呈Ｖ形排列																																								

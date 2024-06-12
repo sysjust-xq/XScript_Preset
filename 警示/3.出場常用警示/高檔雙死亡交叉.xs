@@ -1,4 +1,4 @@
-{@type:sensor|@guid:ecc2af877dc94cbcb074ccf22417fda0|@path:/3.出場常用警示/高檔雙死亡交叉|@hash:3f3659e36cfc52c69bb7a361373c2bd4}
+{@type:sensor}
 //近三天內ma及macd都發生過死亡交叉
 input: FastLength(12); SetInputName(1, "DIF短期期數");
 input: SlowLength(26); SetInputName(2, "DIF長期期數");

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:18f92b3fee3a4590903ca9bbb3e28348|@path:/期權指標/委買委賣張數|@hash:564ceb872c4b3852c7d455177f4df7dc}
+{@type:indicator}
 {指標數值定義："口數差 = 委買口數 - 委賣口數"
 支援商品：大盤/期貨/選擇權}
 

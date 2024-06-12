@@ -1,4 +1,4 @@
-{@type:sensor|@guid:1daaebc8c1e8495b9e8b951e1f08fc73|@path:/波段操作型/貪婪指數太高|@hash:df87d33f9428c10c51fa2f9b063e7819}
+{@type:sensor}
 input:RSILength(5); setinputname(1,"強弱計算期數");
 input:CLength(5); setinputname(2,"比價期數");
 input:VLength(20); setinputname(3,"量計算期數");

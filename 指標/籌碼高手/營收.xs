@@ -1,4 +1,4 @@
-{@type:indicator|@guid:1632a74a243649f7ab40b2c7fb3a0a32|@path:/籌碼高手/營收|@hash:9ae6b758d0a7771ecb290f350ac0a92c}
+{@type:indicator}
 Var:_Sales(0);
 
 condition999 = symbolexchange = "TW" or symbolexchange = "TE";//台股+興櫃

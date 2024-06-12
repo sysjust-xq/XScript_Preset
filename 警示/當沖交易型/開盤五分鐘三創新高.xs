@@ -1,4 +1,4 @@
-{@type:sensor|@guid:6efd514d2565426e87d9802243db1b8f|@path:/當沖交易型/開盤五分鐘三創新高}
+{@type:sensor}
 input: volumeRatio(0.1, "分鐘量暴量比例");
 input: changeRatio(3, "最近3日最大上漲幅度");
 input: averageVolume(1000, "5日均量");

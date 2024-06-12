@@ -1,4 +1,4 @@
-{@type:sensor|@guid:c9229411c3464c7a8e0fc7774e79db64|@path:/技術分析/股價穿越突破三均線|@hash:fffda2edd9ccc1ea264260888068a3eb}
+{@type:sensor}
 input: shortlength(5); setinputname(1,"短期均線期數");
 input: midlength(10);  setinputname(2,"中期均線期數");
 input: Longlength(20); setinputname(3,"長期均線期數");

@@ -1,4 +1,4 @@
-{@type:indicator|@guid:ff97b83867b0470d80466a0ee30b4fee|@path:/技術指標/隨機漫步指標|@hash:fda7356221bbab5b7a400da871b7e9f9}
+{@type:indicator}
 
 input:length(10);		setinputname(1, "天期");   
 

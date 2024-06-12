@@ -1,4 +1,4 @@
-{@type:filter|@guid:d4ede89171eb4a7c9e6483bcbb93d698|@path:/03.進階技術分析/天量後價量未再創新高}
+{@type:filter}
 input:XLength(60); 	setinputname(1,"長期大量計算期數");
 input:Length(3); 	setinputname(2,"超過n日價量未再創新高");
 

@@ -1,4 +1,4 @@
-{@type:sensor|@guid:fad49ae8a8a249fdb8092d6a723db143|@path:/酒田戰法/空頭流星|@hash:39d282b5207d040ecd43ecac2b25037e}
+{@type:sensor}
 {																						
 [檔名:]	空頭流星			[資料夾:]	酒田戰法	[適用方向]	空															
 [說明:]	紅棒後 跳空開高收黑棒上影線																																								

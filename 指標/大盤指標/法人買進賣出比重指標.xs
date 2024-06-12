@@ -1,4 +1,4 @@
-{@type:indicator|@guid:fcba4a767a8e422da6a19cfe51cc1b22|@path:/大盤指標/法人買進賣出比重指標|@hash:ae6465d7d43fa056197503a243894a4f}
+{@type:indicator}
 input:period(5,"期數");
 
 if barfreq = "Tick" or barfreq = "Min"

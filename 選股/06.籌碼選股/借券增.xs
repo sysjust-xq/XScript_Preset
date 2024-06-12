@@ -1,4 +1,4 @@
-{@type:filter|@guid:30bb18dc9cba474390acb5a770c46a56|@path:/06.籌碼選股/借券增}
+{@type:filter}
 input:lowlimit(200,"借券增加張數");
 input:days(3,"計算天數");
 setbarfreq("D");

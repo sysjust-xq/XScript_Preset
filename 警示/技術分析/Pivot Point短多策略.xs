@@ -1,4 +1,4 @@
-{@type:sensor|@guid:f2c8c9a44cb94310b788d70ef773009c|@path:/技術分析/Pivot Point短多策略}
+{@type:sensor}
 variable:pivot(0);
 
 //透過Z的時間安排來決定現在用的是那一根Bar的資料 

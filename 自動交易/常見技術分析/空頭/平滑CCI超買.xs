@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:67bcd27ca1764395a21ee6be7dd97540|@path:/常見技術分析/空頭/平滑CCI超買}
+{@type:autotrade}
 // 宣告變數
 Input: Length(14, "期數"), AvgLength(9, "平滑期數"), OverSold(100, "超買值");
 Variable: cciValue(0), cciMAValue(0);

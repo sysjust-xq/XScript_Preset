@@ -1,4 +1,4 @@
-{@type:indicator|@guid:f0b1c4b77aaf4146b4f365814967f97a|@path:/大盤指標/作多意願指標|@hash:e82df59a771cd1722c7f733653922295}
+{@type:indicator}
 input:length1(20,"長天期"),length2(9,"短天期");
 
 variable:count1(0),x1(0);

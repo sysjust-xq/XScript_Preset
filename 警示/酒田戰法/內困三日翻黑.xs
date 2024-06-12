@@ -1,4 +1,4 @@
-{@type:sensor|@guid:d0fc7be8a99f411a9ae8b3c15e56da0e|@path:/酒田戰法/內困三日翻黑|@hash:6c3eb92ed2d6c1c6eb77727a6752209f}
+{@type:sensor}
 {																						
 [檔名:]	內困三日翻黑			[資料夾:]	酒田戰法	[適用方向]	空															
 [說明:]	前兩期為長紅棒後包黑K棒 當期往下跌破紅棒開盤價																																								

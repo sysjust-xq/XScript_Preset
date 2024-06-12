@@ -1,4 +1,4 @@
-{@type:sensor|@guid:69ad190a83f24ae1bd4696c1b6eab2ea|@path:/A股用語/瀑布波型|@hash:3687b6f0eba10c87096a2131f2b2682a}
+{@type:sensor}
 settotalbar(3);
 setbarback(30);
 if close[1] > lowest(close,30) * 1.2 and 

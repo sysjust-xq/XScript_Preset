@@ -1,4 +1,4 @@
-{@type:filter|@guid:1f1035bb3fd641e1865e6ee52c550c78|@path:/08.財報選股/PEG指標}
+{@type:filter}
 input:r1(1);	setinputname(1,"PEG上限");
 
 settotalbar(3);

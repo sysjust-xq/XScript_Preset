@@ -1,4 +1,4 @@
-{@type:autotrade|@guid:cb19946003b343e298969c12d285283e|@path:/0-基本語法/03-Filled}
+{@type:autotrade}
 {
     Filled是Position的另外一個朋友, 代表這個策略內/這個執行商品的成交部位
     

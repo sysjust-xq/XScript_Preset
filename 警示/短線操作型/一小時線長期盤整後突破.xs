@@ -1,4 +1,4 @@
-{@type:sensor|@guid:fc2ff1d2f28d4ad99fed71936b47c8cc|@path:/短線操作型/一小時線長期盤整後突破}
+{@type:sensor}
 //盤整後噴出
 input: Periods(20); setinputname(1,"計算期數");
 input: Ratio(3);setinputname(2,"近期波動幅度%");

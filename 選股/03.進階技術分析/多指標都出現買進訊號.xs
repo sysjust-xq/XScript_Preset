@@ -1,4 +1,4 @@
-{@type:filter|@guid:7ab2fcc8d9a3403992cf839c09f54e47|@path:/03.進階技術分析/多指標都出現買進訊號}
+{@type:filter}
 settotalbar(120);
 
 //=========計算RSI======================

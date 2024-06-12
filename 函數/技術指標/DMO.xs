@@ -1,4 +1,4 @@
-{@type:function|@guid:9e137cb40fac4dcdaade2efd4d26ba0c|@path:/技術指標/DMO}
+{@type:function}
 SetBarMode(1);
 
 {

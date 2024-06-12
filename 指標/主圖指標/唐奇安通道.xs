@@ -1,4 +1,4 @@
-{@type:indicator|@guid:e27cdafa02a84df4b529a3f139faec41|@path:/主圖指標/唐奇安通道|@hash:090b7eff05148633d327085e25626020}
+{@type:indicator}
 {
 指標說明
 https://xstrader.net/唐奇安通道/

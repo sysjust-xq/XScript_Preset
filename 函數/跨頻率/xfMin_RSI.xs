@@ -1,4 +1,4 @@
-{@type:function|@guid:35fa7414b11748dab81393027c742be7|@path:/跨頻率/xfMin_RSI|@hash:763a987b2ae57b2fad77b6b53f77aa71}
+{@type:function}
 SetBarMode(2);
 
 // 跨頻率RSI函數

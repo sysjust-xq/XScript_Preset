@@ -1,4 +1,4 @@
-{@type:sensor|@guid:93abeadf01a74647b03dfa409ca5689c|@path:/盤中常用/盤中委買遠大於委賣}
+{@type:sensor}
 input:v1(2000,"委買五檔總金額(萬)");
 input:v2(500,"委賣五檔總金額(萬)");
 input:v3(1500,"委買委賣總差額(萬)");

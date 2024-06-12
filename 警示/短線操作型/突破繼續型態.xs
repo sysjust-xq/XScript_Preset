@@ -1,4 +1,4 @@
-{@type:sensor|@guid:b9e3b3f440314721a754b87a3bf9de5f|@path:/短線操作型/突破繼續型態}
+{@type:sensor}
 input:Length(20); setinputname(1,"下降趨勢計算期數");
 input:Rate(150); setinputname(2,"反轉率%");
 variable: Factor(0);
