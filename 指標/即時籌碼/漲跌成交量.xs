@@ -6,7 +6,7 @@
 if barfreq <> "Min" and barfreq <> "D" and barfreq <> "AD" then 
 	raiseruntimeerror("僅支援分鐘與日頻率（含還原）");
 	
-value91 = GetField("上漲量");//僅提供給有權限的用戶使用
+value91 = GetField("上漲量");
 
 value1 = GetField("上漲量","D");
 value2 = GetField("下跌量","D");

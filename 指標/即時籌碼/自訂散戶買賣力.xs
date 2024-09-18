@@ -8,7 +8,7 @@ if SymbolType <> 2 and SymbolType <> 3 then raiseruntimeerror("不支援此商�
 if barfreq <> "Min" then 
 	raiseruntimeerror("僅支援分鐘頻率");
 	
-value91 = GetField("上漲量");//僅提供給有權限的用戶使用
+value91 = GetField("上漲量");
 
 {
 	顯示開盤迄今的累計外盤小單 - 累計內盤小單, 也就是盤中散戶的買賣力趨勢

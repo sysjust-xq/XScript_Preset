@@ -2,7 +2,7 @@
 {指標數值定義：主力 = 成交單量 >= X的委託由Tick資料去累積計算
 支援商品：台(股票)、台(期貨)}
 
-value91 = GetField("上漲量");//僅提供給有權限的用戶使用
+value91 = GetField("上漲量");
 
 if symbolexchange <> "TW" and symbolexchange <> "TF" then raiseruntimeerror("不支援此商品");
 if SymbolType <> 2 and SymbolType <> 3 then raiseruntimeerror("不支援此商品");

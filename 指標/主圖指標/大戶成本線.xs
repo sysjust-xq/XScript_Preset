@@ -4,7 +4,7 @@
 一個是賣出成本線, 計算方式都是累計當日大單+特大單的賣出金額/買進量
 支援商品：台股}
 
-value91 = GetField("買進特大單金額");//僅提供給有權限的用戶使用
+value91 = GetField("買進特大單金額");
 
 if barfreq <> "Min" and barfreq <> "D" then 
 	raiseruntimeerror("僅支援分鐘與日頻率");

@@ -9,7 +9,7 @@ if SymbolType <> 2 and SymbolType <> 3 and SymbolType <> 5 then raiseruntimeerro
 if barfreq <> "Min" and barfreq <> "D" and barfreq <> "AD" then 
 	raiseruntimeerror("僅支援分鐘與日頻率（含還原）");
 
-value91 = GetField("外盤量");//僅提供給有權限的用戶使用
+value91 = GetField("外盤量");
 
 value1 = GetField("外盤量","D");
 value2 = GetField("內盤量","D");

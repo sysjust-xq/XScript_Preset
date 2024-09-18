@@ -7,7 +7,7 @@
 if barfreq <> "Min" and barfreq <> "D" and barfreq <> "AD" then 
 	raiseruntimeerror("僅支援分鐘與日頻率（含還原）");
 	
-value91 = GetField("賣出特大單量");//僅提供給有權限的用戶使用
+value91 = GetField("賣出特大單量");
 
 value1 = GetField("賣出特大單量","D") + GetField("賣出大單量","D");
 value2 = GetField("買進特大單量","D") + GetField("買進大單量","D");
