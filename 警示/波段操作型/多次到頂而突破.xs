@@ -22,11 +22,13 @@ HighLowerBound = theHigh *(100-RangeRatio)/100;  // 設為瓶頸區間上界
 
 //回算在此區間中 進去瓶頸區的次數 
 TouchRangeTimes = CountIF(High[1] > HighLowerBound, Length);
+
+value1=tselsindex(10,6);
  
 if  TouchRangeTimes >= HitTimes   
 and close > theHigh 
 and close[50]*1.2 < close[20]
-and tselsindex(10,6)[Z]=1
+and value1[Z]=1
 then ret=1;
 
  

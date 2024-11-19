@@ -29,13 +29,13 @@ condition1 = trueAll(AvgHLp < Percent,XLen);
 condition2 = V > average(V[1],XLen)*(1+Volpercent/100) ;
 condition3 = C > AvgH *(1.02) and H > highest(H[1],XLen);
 condition4 = average(volume[1], 5) >= 1000; 
-condition5 = tselsindex(10,6)[Z]=1;
+condition5 = tselsindex(10,6)=1;
 
 if condition1 
 and condition2 
 and condition3 
 and condition4 
-and condition5
+and condition5[Z]
 then ret=1;
 
 

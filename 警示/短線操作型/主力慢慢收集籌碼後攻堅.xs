@@ -16,8 +16,10 @@ value3=(value2-value1);
 value4=average(close,5);
 //五日移動平均
 
+value5=tselsindex(10,7);
+
 if countif(value3>30, period)/period >0.7
 and linearregslope(value4,5)>0
 and Average(Volume[1], 100) >= 500
-and tselsindex(10,7)[Z]=1
+and value5[Z]=1
 then ret=1;

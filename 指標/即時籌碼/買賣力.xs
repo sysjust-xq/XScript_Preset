@@ -3,12 +3,6 @@
 
 支援商品：台股/期貨/選擇權}
 
-if symbolexchange <> "TW" and symbolexchange <> "TF" then raiseruntimeerror("不支援此商品");
-if SymbolType <> 2 and SymbolType <> 3 and SymbolType <> 5 then raiseruntimeerror("不支援此商品");
-
-if barfreq <> "Min" and barfreq <> "D" and barfreq <> "AD" then 
-	raiseruntimeerror("僅支援分鐘與日頻率（含還原）");
-
 value91 = GetField("外盤量");
 
 value1 = GetField("外盤量","D");

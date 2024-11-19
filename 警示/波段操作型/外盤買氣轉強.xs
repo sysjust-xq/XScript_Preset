@@ -18,10 +18,11 @@ if value3<>0 then value4=value2/value3*100;
 
 value5=average(value4,short1);
 value6=average(value4,mid1);
+value7=tselsindex(10,6);
 
 if close*1.4<close[90]
 and value5 crosses above value6 
 and value4>60
 and average(volume,100)>1000
-and tselsindex(10,6)[Z]=1
+and value7[Z]=1
 then ret=1;

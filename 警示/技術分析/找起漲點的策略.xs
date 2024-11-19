@@ -16,9 +16,11 @@ value1= bollingerband(Close, Length, UpperBand);
 value2= bollingerband(Close, Length, lowerBand);
 value3=value1-value2;
 value4=average(close,20);
+value5=tselsindex(10,6);
+
 if linearregslope(value4,5)>0
 and value3>average(value3,20)*1.3
-and close[1]crosses over value1
+and close[1] crosses over value1
 and close>value1
-and tselsindex(10,6)[Z]=1
+and value5[Z]=1
 then ret=1;

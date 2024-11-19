@@ -12,7 +12,8 @@ else
 value1=countif(low<lowest(low[1],period),period);
 value2=countif(high>highest(high[1],period),period);
 value3=value2-value1;
+value4=tselsindex(10,6);
  
 if value3 crosses over 4
-and tselsindex(10,6)[Z]=1 
+and value4[Z]=1 
 then ret=1;

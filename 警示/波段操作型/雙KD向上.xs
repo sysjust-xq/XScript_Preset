@@ -23,13 +23,15 @@ condition4 = kk_d[1] <= 30;							// 日K 低檔
 condition5 = xf_getvalue("W", kk_w, 1) <= 50;		// 周K 低檔
 
 // 成交量判斷
-Condition99 = Average(Volume[1], 100) >= 1000;
+Condition6 = Average(Volume[1], 100) >= 1000;
+
+Condition7 = tselsindex(10,6)=1;
 
 if condition1 
 and condition2 
 and condition3 
 and condition4 
 and condition5 
-and condition99
-and tselsindex(10,6)[Z]=1
+and condition6
+and Condition7[Z]
 then ret=1;
