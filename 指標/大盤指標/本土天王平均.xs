@@ -1,9 +1,4 @@
 {@type:indicator}
-{
-指標說明
-https://xstrader.net/亂世中最佳投資組合/
-}
-
 array:ValueArray[12](0);
 
 valuearray[1]=GetSymbolField("1216.tw","收盤價");

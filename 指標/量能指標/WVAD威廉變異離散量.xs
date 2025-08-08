@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/wvad威廉變異離散量/
+https://www.xq.com.tw/xstrader/wvad威廉變異離散量/
 }
 
 input:length(5,"期數");

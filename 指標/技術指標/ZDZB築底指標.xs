@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/築底指標-2/
+https://www.xq.com.tw/xstrader/築底指標-2/
 }
 
 input:

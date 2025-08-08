@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/雙k棒可以延伸的多空趨勢指標/
+https://www.xq.com.tw/xstrader/雙k棒可以延伸的多空趨勢指標/
 }
 
 array:k[22](0);

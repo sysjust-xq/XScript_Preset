@@ -3,7 +3,7 @@ SetBarMode(2);
 
 // 跨頻率DirectionMovement function (for DMI相關指標)
 //
-// FreqType是預期要比對的期別, 支援 "1", "5", "10", "15", "30", "60", "D", "W", "M", "AD", "AW", "AM"
+// FreqType是預期要比對的期別, 支援 "1", "2", "3", "5", "10", "15", "30", "60", "D", "W", "M", "AD", "AW", "AM"
 // 輸入: FreqType, Length
 // Return: pdi_value(+di), ndi_value(-di), adx_value(adx)
 // 不支援XS選股、XS選股自訂排行與XS選股回測。
@@ -51,6 +51,28 @@ begin
 		changeHigh = GetField("High", "1") - GetField("High", "1")[1];
 		changeLow = GetField("Low", "1")[1] - GetField("Low", "1");
 		closePeriod = GetField("Close", "1");
+	
+	case  "2":
+		if GetField("Close", "2")[1] > GetField("High", "2") then
+			tr = GetField("Close", "2")[1] - GetField("Low", "2")
+		else if GetField("Close", "2")[1] < GetField("Low", "2") then
+			tr = GetField("High", "2") - GetField("Close", "2")[1]
+		else
+			tr = GetField("High", "2") - GetField("Low", "2");
+		changeHigh = GetField("High", "2") - GetField("High", "2")[1];
+		changeLow = GetField("Low", "2")[1] - GetField("Low", "2");
+		closePeriod = GetField("Close", "2");
+	
+	case  "3":
+		if GetField("Close", "3")[1] > GetField("High", "3") then
+			tr = GetField("Close", "3")[1] - GetField("Low", "3")
+		else if GetField("Close", "3")[1] < GetField("Low", "3") then
+			tr = GetField("High", "3") - GetField("Close", "3")[1]
+		else
+			tr = GetField("High", "3") - GetField("Low", "3");
+		changeHigh = GetField("High", "3") - GetField("High", "3")[1];
+		changeLow = GetField("Low", "3")[1] - GetField("Low", "3");
+		closePeriod = GetField("Close", "3");
 
 	case  "5":
 		if GetField("Close", "5")[1] > GetField("High", "5") then

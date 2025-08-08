@@ -1,9 +1,4 @@
 {@type:indicator}
-{
-指標說明
-https://xstrader.net/一個交易策略的熟成-2/
-}
-
 input:Period(5,"MA期數");
 
 if barfreq = "Tick" or barfreq = "Min"

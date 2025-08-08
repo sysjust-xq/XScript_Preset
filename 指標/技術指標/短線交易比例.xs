@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/短線過熱的指標/
+https://www.xq.com.tw/xstrader/短線過熱的指標/
 }
 
 input:p1(5,"移動平均線天期");

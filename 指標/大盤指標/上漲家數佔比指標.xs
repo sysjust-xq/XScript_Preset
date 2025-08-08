@@ -1,11 +1,4 @@
 {@type:indicator}
-{
-指標說明
-https://xstrader.net/top1/
-收錄於「三週學會程式交易：打造你的第一筆自動化交易」 254頁
-https://www.ipci.com.tw/books_in.php?book_id=724
-}
-
 input:period1(5,"短天期");
 input:period2(20,"長天期");
 value1=GetField("上漲家數");

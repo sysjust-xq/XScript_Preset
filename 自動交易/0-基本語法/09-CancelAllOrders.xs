@@ -18,4 +18,4 @@ Once(Position = 0 and Filled = 0 and GetInfo("TradeMode") = 1) begin
 	end;    
 
 //當洗價時
-if CurrentTime > _time and Position <> Filled then CancelAllOrders(label:="跌停價買進委託");
+if CurrentTime > _time and Position <> Filled then CancelAllOrders(label:="刪除跌停價買進委託");

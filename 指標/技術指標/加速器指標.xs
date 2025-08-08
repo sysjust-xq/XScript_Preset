@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/495/
+https://www.xq.com.tw/xstrader/495/
 }
 
 variable:Xslope(0); 

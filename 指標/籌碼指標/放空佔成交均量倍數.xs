@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/借券相關欄位在交易策略上的應用/
+https://www.xq.com.tw/xstrader/借券相關欄位在交易策略上的應用/
 }
 
 if barfreq <> "D" then raiseruntimeerror("不支援此頻率");

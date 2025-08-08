@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/積極勁道指標/
+https://www.xq.com.tw/xstrader/積極勁道指標/
 }
 
 input:day(13,"期數");

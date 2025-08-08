@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/改良版的移動平均線四大力道線/
+https://www.xq.com.tw/xstrader/改良版的移動平均線四大力道線/
 }
 
 input:period(10,"天期參數");

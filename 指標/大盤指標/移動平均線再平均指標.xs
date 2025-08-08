@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/移動平均線再平均指標/
+https://www.xq.com.tw/xstrader/移動平均線再平均指標/
 收錄於「三週學會程式交易：打造你的第一筆自動化交易」 257頁
 https://www.ipci.com.tw/books_in.php?book_id=724
 }

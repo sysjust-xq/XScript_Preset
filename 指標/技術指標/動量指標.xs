@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/尋找趨勢是否成形的指標動量指標/
+https://www.xq.com.tw/xstrader/尋找趨勢是否成形的指標動量指標/
 }
 
 if barfreq = "Tick" or barfreq = "Min" then

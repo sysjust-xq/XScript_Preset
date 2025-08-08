@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/尋找目前趨勢還向上的股票/
+https://www.xq.com.tw/xstrader/尋找目前趨勢還向上的股票/
 }
 
 input:Length(20,"計算期間");

@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/多空點數指標/
+https://www.xq.com.tw/xstrader/多空點數指標/
 }
 
 variable:i(0),Lscore(0),Sscore(0);

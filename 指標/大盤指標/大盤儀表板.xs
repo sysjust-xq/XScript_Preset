@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/進場點一目了然的大盤儀表板/
+https://www.xq.com.tw/xstrader/進場點一目了然的大盤儀表板/
 收錄於「三週學會程式交易：打造你的第一筆自動化交易」 260頁
 https://www.ipci.com.tw/books_in.php?book_id=724
 }

@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/為自己的觀察名單標上交易訊號/
+https://www.xq.com.tw/xstrader/為自己的觀察名單標上交易訊號/
 }
 
 input:

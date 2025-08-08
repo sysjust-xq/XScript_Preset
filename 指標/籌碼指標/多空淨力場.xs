@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/自訂指標step-by-step/
+https://www.xq.com.tw/xstrader/自訂指標step-by-step/
 }
 
 input:sd(5,"短天期");

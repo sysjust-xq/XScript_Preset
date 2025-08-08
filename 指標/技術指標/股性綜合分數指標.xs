@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/當xs遇到ai-從特徵值的選取開始/
+https://www.xq.com.tw/xstrader/把股性拿來作為過濾條件/
 }
 
 input:day(20);

@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/打造自己的大盤多空函數/
+https://www.xq.com.tw/xstrader/打造自己的大盤多空函數/
 }
 
 input:Length(7,"計算天數");

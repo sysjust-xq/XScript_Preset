@@ -10,11 +10,11 @@ variable: midaverage(0);
 variable: Longaverage(0);
 
 
-shortaverage=Average(close,shortlength);
-midaverage=Average(close,midlength) ;
+shortaverage = Average(close,shortlength);
+midaverage = Average(close,midlength) ;
 Longaverage = Average(close,Longlength); 
 
 if close  crosses under  shortaverage and 
-   close  crosses under  midlength and 
+   close  crosses under  midaverage and 
    close  crosses under  Longaverage 
 then ret=1;  

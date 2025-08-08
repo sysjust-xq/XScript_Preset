@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/大盤多空對策訊號/
+https://www.xq.com.tw/xstrader/大盤多空對策訊號/
 收錄於「三週學會程式交易：打造你的第一筆自動化交易」 265頁
 https://www.ipci.com.tw/books_in.php?book_id=724
 }

@@ -1,7 +1,7 @@
 {@type:function}
 {
 函數說明
-https://xstrader.net/打造自己的大盤多空函數/
+https://www.xq.com.tw/xstrader/打造自己的大盤多空函數/
 }
 
 SetBarMode(1);
@@ -16,8 +16,3 @@ else
 	value1 = 0;
 
 tselsindex = value1;
-
-
-
-
-

@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/918/
+https://www.xq.com.tw/xstrader/918/
 }
 
 value1 = 100*(average(H/L-1,20)+standarddev(H/L-1,20,1)*3);

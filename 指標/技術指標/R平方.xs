@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/趨勢檢定器/
+https://www.xq.com.tw/xstrader/趨勢檢定器/
 }
 
 input:Length(20,"計算期間");

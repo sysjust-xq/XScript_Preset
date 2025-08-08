@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/787/
+https://www.xq.com.tw/xstrader/787/
 }
 
 input:length(10,"期數");

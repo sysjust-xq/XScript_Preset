@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/交易異常活躍指標/
+https://www.xq.com.tw/xstrader/交易異常活躍指標/
 }
 
 input:day(66,"移動平均天數");

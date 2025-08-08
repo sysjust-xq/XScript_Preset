@@ -12,9 +12,8 @@ else
 	
 value1=highest(high[1],period);
 value2=lowest(low[1],period);
-value3=tselsindex(10,7);
 
 if value1<value2*1.05
 and open > high[1]*1.025
-and value3[Z]=1
+and tselsindex(10,7)[Z]=1
 then ret=1;

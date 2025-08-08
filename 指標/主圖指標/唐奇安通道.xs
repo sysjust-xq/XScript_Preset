@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/唐奇安通道/
+https://www.xq.com.tw/xstrader/唐奇安通道/
 }
 
 input:Period(13,"天數");

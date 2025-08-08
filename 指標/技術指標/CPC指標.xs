@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/自訂指標的撰寫技巧以q指標為例/
+https://www.xq.com.tw/xstrader/自訂指標的撰寫技巧以q指標為例/
 收錄於「三週學會程式交易：打造你的第一筆自動化交易」 317頁
 https://www.ipci.com.tw/books_in.php?book_id=724
 }

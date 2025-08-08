@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/股性系列之七-比大盤強的天數/
+https://www.xq.com.tw/xstrader/股性系列之七-比大盤強的天數/
 }
 
 input:day(10,"統計天數");

@@ -1,8 +1,19 @@
 {@type:indicator}
+input: _len(3, "天數"), _reversal(1, "趨勢反轉判斷", inputkind:=Dict(["依據K線圖高/低點",1],["依據寶塔線高低/點",2]));
+
 var: _name("");
 
-value1 = highest(high[1], 3);
-value2 = lowest(low[1], 3);
+SetBackBar(_len);
+
+if _reversal = 1 then begin
+    value1 = highest(high[1], _len);
+    value2 = lowest(low[1], _len);
+	end
+else if _reversal = 2 then begin
+    value1 = highest(value3[1], _len);
+    value2 = lowest(value4[1], _len);
+	end;
+
 value3 = maxlist(close, close[1]);
 value4 = minlist(close, close[1]);
 
@@ -15,7 +26,8 @@ else if close cross under value2 then begin
 	condition2 = True;
 	end;
 
-if currentbar >= 2 then begin
+
+if currentbar > _len then begin
     if not condition1[1] and condition1 then
 	    _name = "翻紅"
 	else if condition1 then

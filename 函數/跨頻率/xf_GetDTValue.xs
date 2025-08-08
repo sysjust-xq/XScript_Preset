@@ -23,8 +23,8 @@ begin
 		
 		// 每年的第一週需要判斷是否和去年的最後一週重疊
 		// 
-		if WeekofYear(DateAdd(dtValue,"D", 1-DayofWeek(dtValue))) = 53 then 
-			xf_GetDTValue = Year(DateAdd(dtValue,"D", 1-DayofWeek(dtValue))) * 100 + WeekofYear(DateAdd(dtValue,"D", 1-DayofWeek(dtValue)));
+		if mod(dtValue, 10000) <= 104 and WeekofYear(DateAdd(dtValue,"D", 1-DayofWeek(dtValue))) = 53 then 
+			xf_GetDTValue = round(dtValue / 10000 - 1, 0) * 100 + 53;
 	 
 	case "M" , "AM":
 		// 年度 * 100 + 月別, e.g. 201001, 表示是2010年的第一個月

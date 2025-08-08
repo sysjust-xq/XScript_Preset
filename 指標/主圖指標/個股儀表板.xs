@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/個股儀表板演化的交易策略/
+https://www.xq.com.tw/xstrader/打造個股儀表板/
 收錄於「三週學會程式交易：打造你的第一筆自動化交易」 330頁
 https://www.ipci.com.tw/books_in.php?book_id=724
 }

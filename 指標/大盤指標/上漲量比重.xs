@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/盤上成交是否真的是重要指標/
+https://www.xq.com.tw/xstrader/盤上成交是否真的是重要指標/
 }
 
 if barfreq = "Tick" or barfreq = "Min" then 

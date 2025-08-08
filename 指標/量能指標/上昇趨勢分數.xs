@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/上昇趨勢分數/
+https://www.xq.com.tw/xstrader/上昇趨勢分數/
 }
 
 input:length(10,"期數");

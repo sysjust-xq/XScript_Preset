@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/dkx多空線/
+https://www.xq.com.tw/xstrader/dkx多空線/
 }
 
 input:length(10,"MA期數");

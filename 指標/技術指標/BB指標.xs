@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/％b指標/
+https://www.xq.com.tw/xstrader/％b指標/
 }
 
 input: 

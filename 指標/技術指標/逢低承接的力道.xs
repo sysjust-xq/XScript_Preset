@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/股性系列之五承接的力道/
+https://www.xq.com.tw/xstrader/短線止跌的訊號/
 收錄於「三週學會程式交易：打造你的第一筆自動化交易」 324頁
 https://www.ipci.com.tw/books_in.php?book_id=724
 }

@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/股性系列之六真實波動區間/
+https://www.xq.com.tw/xstrader/股性系列之六真實波動區間/
 }
 
 input: Length1(3, "短天數");

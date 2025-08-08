@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/自訂指標/
+https://www.xq.com.tw/xstrader/自訂指標/
 }
 
 value1=average(close,22);

@@ -11,9 +11,8 @@ else
 	
 pivot=(high+low+close)/3;
 value1=2*pivot-low;
-value2=tselsindex(10,6);
 
 if close=value1
-and value2[Z]=1
+and tselsindex(10,6)[Z]=1
 and volume>=1000
 then ret=1;

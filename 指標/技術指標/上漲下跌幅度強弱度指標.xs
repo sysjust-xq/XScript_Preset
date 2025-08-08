@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/雲端策略中心精進版之34多頭轉強策略/
+https://www.xq.com.tw/xstrader/雲端策略中心精進版之34多頭轉強策略/
 }
 
 input:length(10,"期數"); 

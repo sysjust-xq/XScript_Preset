@@ -13,26 +13,26 @@ var:exchange("");
 exchange = GetSymbolInfo("交易所");
 if exchange <> "NYSE" and exchange <> "NASDAQ" and exchange <> "AMEX" then raiseruntimeerror("僅支援美股");
 
-var:rank(0);
+var:_rank(0);
 value1 = getField("投資建議評級");
 if value1 = 0 then raiseruntimeerror("無投資建議評級的歷史紀錄");
-rank = (5-value1)/4; //將投資建議評級，轉成0~100的分布形式
+_rank = (5-value1)/4; //將投資建議評級，轉成0~100的分布形式
 
-plot1(rank);
+plot1(_rank);
 
-if 1>=rank and rank>0.875 then begin
-	plot20(rank);
+if 1>=_rank and _rank>0.875 then begin
+	plot20(_rank);
 	setplotLabel(1,"積極買進");
-end else if 0.875>=rank and rank>0.625 then begin 
-	plot21(rank);
+end else if 0.875>=_rank and _rank>0.625 then begin 
+	plot21(_rank);
 	setplotLabel(1,"買進");
-end else if 0.625>=rank and rank>0.375 then begin
-	plot22(rank);
+end else if 0.625>=_rank and _rank>0.375 then begin
+	plot22(_rank);
 	setplotLabel(1,"中立");
-end else if 0.375>=rank and rank>0.125 then begin
-	plot23(rank);
+end else if 0.375>=_rank and _rank>0.125 then begin
+	plot23(_rank);
 	setplotLabel(1,"賣出");
-end else if 0.125>=rank and rank>=0 then begin
-	plot24(rank);
+end else if 0.125>=_rank and _rank>=0 then begin
+	plot24(_rank);
 	setplotLabel(1,"積極賣出");
 end;

@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/異同離差乖離率dbcd在單一國家股票型基金的應用/
+https://www.xq.com.tw/xstrader/異同離差乖離率dbcd在單一國家股票型基金的應用/
 }
 
 input:

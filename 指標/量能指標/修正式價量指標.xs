@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/修正式價量指標vptvolume-price-trend/
+https://www.xq.com.tw/xstrader/修正式價量指標vptvolume-price-trend/
 }
 
 input:day(5,"移動平均線天數");

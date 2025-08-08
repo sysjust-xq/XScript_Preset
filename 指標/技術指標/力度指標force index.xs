@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/這個盤接下來到底會不會大跌-建構專屬的大盤儀/
+https://www.xq.com.tw/xstrader/這個盤接下來到底會不會大跌-建構專屬的大盤儀/
 }
 
 input:

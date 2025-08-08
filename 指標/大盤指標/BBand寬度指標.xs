@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/bband-width/
+https://www.xq.com.tw/xstrader/bband-width/
 }
 
 input: 

@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/外盤量異常突出的買進策略/
+https://www.xq.com.tw/xstrader/外盤量異常突出的買進策略/
 }
 
 input:length(20,"期數");

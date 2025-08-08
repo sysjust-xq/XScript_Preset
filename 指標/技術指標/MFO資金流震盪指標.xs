@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/大盤多空轉換點之探討系列三-mfo資金流震盪指標/
+https://www.xq.com.tw/xstrader/大盤多空轉換點之探討系列三-mfo資金流震盪指標/
 }
 
 input:period(20,"計算天期");

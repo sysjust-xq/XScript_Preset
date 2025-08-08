@@ -1,9 +1,4 @@
 {@type:indicator}
-{
-指標說明
-https://xstrader.net/反脆弱選股法/
-}
-
 array:ValueArray[21](0);
 valuearray[1]=GetSymbolField("1477.tw","總市值");
 valuearray[2]=GetSymbolField("1536.tw","總市值");

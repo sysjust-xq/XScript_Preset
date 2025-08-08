@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/上漲下跌家數差RSI指標/
+https://www.xq.com.tw/xstrader/上漲下跌家數差RSI指標/
 收錄於「三週學會程式交易：打造你的第一筆自動化交易」 256頁
 https://www.ipci.com.tw/books_in.php?book_id=724
 }

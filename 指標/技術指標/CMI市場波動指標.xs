@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/如何判斷現在是趨勢還是盤整-一個還在研究的課/
+https://www.xq.com.tw/xstrader/如何判斷現在是趨勢還是盤整-一個還在研究的課/
 }
 
 input:period(10,"計算區間");

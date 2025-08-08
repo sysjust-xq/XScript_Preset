@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/多空六大階段指標/
+https://www.xq.com.tw/xstrader/多空六大階段指標/
 收錄於「三週學會程式交易：打造你的第一筆自動化交易」 259頁
 https://www.ipci.com.tw/books_in.php?book_id=724
 }

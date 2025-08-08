@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/從相對的角度尋找真正價量齊揚的股票-2/
+https://www.xq.com.tw/xstrader/從相對的角度尋找真正價量齊揚的股票/
 }
 
 input:sp(10,"短計算區間");

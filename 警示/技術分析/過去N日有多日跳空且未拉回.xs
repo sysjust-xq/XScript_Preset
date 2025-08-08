@@ -14,10 +14,9 @@ else
 	
 value1=highest(high[day],period);
 value2=lowest(low[day],period);
-value3=tselsindex(10,8);
 
 if value1<value2*1.05
 and countif(high>high[1]
 and low>low[1],day)>=lowlimit
-and value3[Z]=1
+and tselsindex(10,8)[Z]=1
 then ret=1;

@@ -130,7 +130,12 @@ _cur_tickseq = GetField("SeqNo", "Tick");
 if readtick_cookie > _cur_tickseq then
 	readtick_cookie = 0;
 
-if _lotsize < 0 then _lotsize = GetSymbolInfo("交易單位");
+if _lotsize < 0 then begin
+	if symbolType = 2 then 
+		_lotsize = GetSymbolInfo("交易單位") 
+	else 
+		_lotsize = 1;
+end;
 
 // 從上次到目前的資料範圍: readtick_cookie+1 .. _cur_tickseq
 //

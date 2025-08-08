@@ -3,7 +3,7 @@ SetBarMode(1);
 
 // 傳入一個序列(跟目前的頻率不同), 取得這個序列以此頻率的第幾筆
 //
-// FreqType是預期要比對的期別, 支援 "1", "5", "10", "15", "30", "60", "D", "W", "M", "AD", "AW", "AM"
+// FreqType是預期要比對的期別, 支援 "1", "2", "3", "5", "10", "15", "30", "60", "D", "W", "M", "AD", "AW", "AM"
 // TFSeries是傳入的布林序列
 // poi是要取得的位置
 // 不支援XS選股、XS選股自訂排行與XS選股回測。
@@ -28,7 +28,7 @@ begin
 	begin
 		switch (FreqType)
 		begin
-			case "1","5","10","15","30","60":
+			case "1","2","3","5","10","15","30","60":
 				dt = xfMin_getdtvalue(FreqType, datetime[idx]);
 				dt2 = xfMin_getdtvalue(FreqType, datetime[idx+1]);
 				if dt <> dt2 then _pos = _pos - 1; 

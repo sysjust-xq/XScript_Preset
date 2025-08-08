@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/外盤成交比例指標/
+https://www.xq.com.tw/xstrader/外盤成交比例指標/
 }
 
 input:

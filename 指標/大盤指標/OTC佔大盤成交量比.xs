@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/otc跟上市成交量比值是股市多空指標/
+https://www.xq.com.tw/xstrader/otc跟上市成交量比值是股市多空指標/
 }
 
 input: Period(5,"期數");

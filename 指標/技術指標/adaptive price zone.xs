@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/adaptive-price-zone/
+https://www.xq.com.tw/xstrader/adaptive-price-zone/
 }
 
 input: 

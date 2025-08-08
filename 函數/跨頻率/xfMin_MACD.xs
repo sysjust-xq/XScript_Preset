@@ -3,7 +3,7 @@ SetBarMode(1);
 
 // 跨頻率MACD函數
 //
-// FreqType是預期要比對的期別, 支援 "1", "5", "10", "15", "30", "60", "D", "W", "M", "AD", "AW", "AM"
+// FreqType是預期要比對的期別, 支援 "1", "2", "3", "5", "10", "15", "30", "60", "D", "W", "M", "AD", "AW", "AM"
 // 輸入: FreqType, FastLength, SlowLength, MACDLength;
 // 輸出: DifValue, MACDValue, OscValue;
 // 不支援XS選股、XS選股自訂排行與XS選股回測。

@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/Runscore指標/
+https://www.xq.com.tw/xstrader/Runscore指標/
 }
 
 input:QDate(20140630,"起算日");

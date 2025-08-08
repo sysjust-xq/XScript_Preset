@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/內外盤量比在預測大盤後市上的應用/
+https://www.xq.com.tw/xstrader/內外盤量比在預測大盤後市上的應用/
 收錄於「三週學會程式交易：打造你的第一筆自動化交易」242頁
 https://www.ipci.com.tw/books_in.php?book_id=724
 }

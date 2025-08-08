@@ -1,7 +1,7 @@
 {@type:indicator}
 {
 指標說明
-https://xstrader.net/先進指標zero-lag-heikinashi/
+https://www.xq.com.tw/xstrader/先進指標zero-lag-heikinashi/
 }
 
 input: Length(14,"期數");
