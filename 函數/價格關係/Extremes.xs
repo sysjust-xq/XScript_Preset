@@ -9,6 +9,7 @@ input:
 	refExtremeBar(numericref);		//輸出極值K棒相對位置
 	
 var:
+	inited(0),
 	exLength(0),
 	exCalcBar(0),
 	calcInterval(0);
@@ -17,11 +18,11 @@ if 1 > Length then
 begin
   refExtremeValue = 0 ;
   refExtremeBar = -1 ;
-  extremes = -1 ;
+  retval = -1 ;
   return;
 end;
 
-if Length < exLength or currentbar = 1 or value2 >= Length - 1 then //強制進行重算的case
+if inited = 0 or Length < exLength or currentbar = 1 or value2 >= Length - 1 then //強制進行重算的case
 begin
 	value1 = SourceSeries;
 	value2 = 0;
@@ -58,4 +59,5 @@ exLength = Length;
 exCalcBar = currentBar;
 refExtremeValue = value1;
 refExtremeBar = value2;
-extremes = 1;
+inited = 1; 
+retval = 1;

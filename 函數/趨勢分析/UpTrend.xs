@@ -38,7 +38,8 @@ ArraySeries(TheSeries, Length, TheSeriesArray);
 // Value1 = Average(TheSeries, Length);
 // Value2 = Average(TheSeries, Length/2);
 
-Var: ShortLength(Ceiling(Length/2));
+Var: ShortLength(0);
+ShortLength = Ceiling(Length/2);
 ArrayMASeries(TheSeries, Length, LongMA);
 ArrayMASeries(TheSeries, ShortLength, ShortMA);
 

@@ -30,14 +30,14 @@ if condition994 then begin
 			value3 = GetField("自營商買賣超金額");
 			value4 = value4 + GetField("自營商買賣超金額");
 	end;
-	plot2(value4,"自營商累計買賣超",checkbox:=1,axis:=2,ScaleLabel:=sltypewy,ScaleDecimal:=sdauto); //line，axis1
+	plot2(value4,"自營商累計買賣超",checkbox:=1,axis:=2,ScaleLabel:=sltypewy,ScaleDecimal:=sdauto); //line，axis2
 	setplotlabel(1,"買賣超(元)");
 	setplotlabel(2,"自營商累計買賣超(元)");
 	setplotlabel(3,"買進(元)");
 	setplotlabel(4,"賣出(元)");
-	plot1(value3,"買賣超",checkbox:=1,axis:=1,ScaleLabel:=sltypewy,ScaleDecimal:=sdauto); //bar，axis2
-	plot3(value1,"買進",checkbox:=0,axis:=11,ScaleLabel:=sltypewy,ScaleDecimal:=sdauto); //line，axis2
-	plot4(value2,"賣出",checkbox:=0,axis:=11,ScaleLabel:=sltypewy,ScaleDecimal:=sdauto); //line，axis2
+	plot1(value3,"買賣超",checkbox:=1,axis:=1,ScaleLabel:=sltypewy,ScaleDecimal:=sdauto); //bar，axis1
+	plot3(value1,"買進",checkbox:=0,axis:=11,ScaleLabel:=sltypewy,ScaleDecimal:=sdauto); //line，axis11
+	plot4(value2,"賣出",checkbox:=0,axis:=11,ScaleLabel:=sltypewy,ScaleDecimal:=sdauto); //line，axis11
 end else begin
 	switch (_input1)
 	begin
@@ -60,7 +60,7 @@ end else begin
 			end;
 			value3 = GetField("自營商買賣超張數");
 	end;
-	plot2(GetField("自營商持股"),"自營商持股",checkbox:=1,axis:=2,ScaleLabel:=slfull,ScaleDecimal:=sd0); //line，axis1
+	plot2(GetField("自營商持股"),"自營商持股",checkbox:=1,axis:=2,ScaleLabel:=slfull,ScaleDecimal:=sd0); //line，axis2
 	setplotlabel(1,"買賣超(張)");
 	setplotlabel(2,"自營商持股(張)");
 	setplotlabel(3,"買進(張)");
@@ -68,9 +68,9 @@ end else begin
 	if condition993 = false then begin
 		plot5(0.01*GetField("自營商持股比例"),"自營商持股比例",axis:=12,ScaleLabel:=slpercent,ScaleDecimal:=sd2);
 	end;
-	plot1(value3,"買賣超",checkbox:=1,axis:=1,ScaleLabel:=slfull,ScaleDecimal:=sd0); //bar，axis2
+	plot1(value3,"買賣超",checkbox:=1,axis:=1,ScaleLabel:=slfull,ScaleDecimal:=sd0); //bar，axis1
 	if symbolexchange <> "TE" and condition993 = false then begin
-		plot3(value1,"買進",checkbox:=0,axis:=11,ScaleLabel:=slfull,ScaleDecimal:=sd0); //line，axis2
-		plot4(value2,"賣出",checkbox:=0,axis:=11,ScaleLabel:=slfull,ScaleDecimal:=sd0); //line，axis2
+		plot3(value1,"買進",checkbox:=0,axis:=11,ScaleLabel:=slfull,ScaleDecimal:=sd0); //line，axis11
+		plot4(value2,"賣出",checkbox:=0,axis:=11,ScaleLabel:=slfull,ScaleDecimal:=sd0); //line，axis11
 	end;
 end;
