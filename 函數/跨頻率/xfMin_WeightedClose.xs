@@ -3,7 +3,7 @@ SetBarMode(1);
 
 // 跨頻率WeightedClose函數
 //
-// FreqType是預期要比對的期別, 支援 "1", "2", "3", "5", "10", "15", "30", "60", "D", "W", "M", "AD", "AW", "AM"
+// FreqType是預期要比對的期別, 支援 "1", "2", "3", "5", "10", "15", "20", "30", "60", "D", "W", "M", "AD", "AW", "AM"
 // 不支援XS選股、XS選股自訂排行與XS選股回測。
 //
 input:
@@ -30,7 +30,10 @@ begin
 	
 	case "15":
 		xfMin_WeightedClose = (2 * GetField("Close", "15") + GetField("High", "15") + GetField("Low", "15")) / 4;	
-	
+
+	case "20":
+		xfMin_WeightedClose = (2 * GetField("Close", "20") + GetField("High", "20") + GetField("Low", "20")) / 4;	
+
 	case "30":
 		xfMin_WeightedClose = (2 * GetField("Close", "30") + GetField("High", "30") + GetField("Low", "30")) / 4;	
 	

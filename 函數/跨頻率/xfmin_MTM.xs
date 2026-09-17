@@ -3,7 +3,7 @@ SetBarMode(1);
 
 // 跨頻率MTM函數(for MTM指標)
 //
-// FreqType是預期要比對的期別, 支援 "1", "2", "3", "5", "10", "15", "30", "60", "D", "W", "M", "AD", "AW", "AM"
+// FreqType是預期要比對的期別, 支援 "1", "2", "3", "5", "10", "15", "20", "30", "60", "D", "W", "M", "AD", "AW", "AM"
 // 輸入: FreqType, Series, Length
 //
 input:
@@ -31,6 +31,9 @@ begin
 	
 	case "15":
 		xfMin_MTM = GetField("收盤價", "15") - GetField("收盤價", "15")[length];
+		
+	case "20":
+		xfMin_MTM = GetField("收盤價", "20") - GetField("收盤價", "20")[length];	
 	
 	case "30":
 		xfMin_MTM = GetField("收盤價", "30") - GetField("收盤價", "30")[length];

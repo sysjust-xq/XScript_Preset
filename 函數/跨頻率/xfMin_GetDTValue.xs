@@ -4,7 +4,7 @@ SetBarMode(1);
 // 回傳某個日期的'normalized' value
 // 用這個value來比對是否已經跨期
 //
-// FreqType是預期要比對的期別, 支援 "1", "2", "3", "5", "10", "15", "30", "60", "D", "W", "M", "AD", "AW", "AM"
+// FreqType是預期要比對的期別, 支援 "1", "2", "3", "5", "10", "15", "20", "30", "60", "D", "W", "M", "AD", "AW", "AM"
 // dtValue 是目前資料序列上面的Date
 // 不支援XS選股、XS選股自訂排行與XS選股回測。
 //
@@ -16,7 +16,7 @@ if getinfo("Instance")=3 or getinfo("Instance")=31 then raiseruntimeerror("此�
 
 switch (FreqType)
 begin
-	case "1","2","3","5","10","15","30","60":
+	case "1","2","3","5","10","15","20","30","60":
 		// 回傳分鐘線的日期時間YYYYMMDDhhmmss。例如：2018/9/10 12:03:59的五分線會回傳20180910120000
 		if symbolExchange="TF" then begin
 			if dtValue < 19870106000000 then begin

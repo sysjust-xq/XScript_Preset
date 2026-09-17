@@ -3,7 +3,7 @@ SetBarMode(2);
 
 // 跨頻率Stochastic函數(for KD/RSV相關指標)
 //
-// FreqType是預期要比對的期別, 支援 "1", "2", "3", "2", "3", "5", "10", "15", "30", "60", "D", "W", "M", "AD", "AW", "AM"
+// FreqType是預期要比對的期別, 支援 "1", "2", "3", "2", "3", "5", "10", "15", "20", "30", "60", "D", "W", "M", "AD", "AW", "AM"
 // 輸入: FreqType, SeriesH, SeriesL, SeriesC, Length, rsvt, kt
 // 輸出: rsv_value, k_value, d_value
 // 不支援XS選股、XS選股自訂排行與XS選股回測。
@@ -60,6 +60,11 @@ begin
 		maxHigh = simplehighest(GetField("High", "15"),Length);
 		minLow = simplelowest(GetField("Low", "15"),Length);
 		closePeriod = GetField("Close", "15");
+		
+	case "20":
+		maxHigh = simplehighest(GetField("High", "20"),Length);
+		minLow = simplelowest(GetField("Low", "20"),Length);
+		closePeriod = GetField("Close", "20");
 	
 	case "30":
 		maxHigh = simplehighest(GetField("High", "30"),Length);
